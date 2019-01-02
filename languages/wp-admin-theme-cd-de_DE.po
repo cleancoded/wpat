@@ -1,0 +1,6469 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Admin Theme by CreativeDive\n"
+"POT-Creation-Date: 2018-07-12 16:21+0200\n"
+"PO-Revision-Date: 2018-07-12 18:18+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/db-widget-count-comments.php:15
+msgid "Approved"
+msgstr "Genehmigt"
+
+#: inc/db-widget-count-comments.php:16 inc/db-widget-count-pages.php:16
+#: inc/db-widget-count-posts.php:16
+msgid "Pending"
+msgstr "Ausstehend"
+
+#: inc/db-widget-count-comments.php:17
+msgid "Spam"
+msgstr "Spam"
+
+#: inc/db-widget-count-comments.php:18
+msgid "Trash"
+msgstr "Papierkorb"
+
+#: inc/db-widget-count-comments.php:33 inc/db-widget-count-comments.php:51
+msgid "Comments"
+msgstr "Kommentare"
+
+#: inc/db-widget-count-pages.php:15 inc/db-widget-count-posts.php:15
+msgid "Draft"
+msgstr "Entwurf"
+
+#: inc/db-widget-count-pages.php:17 inc/db-widget-count-posts.php:17
+msgid "Private"
+msgstr "Privat"
+
+#: inc/db-widget-count-pages.php:18 inc/db-widget-count-posts.php:18
+msgid "Future"
+msgstr "Geplant"
+
+#: inc/db-widget-count-pages.php:33
+msgid "Published Pages"
+msgstr "Veröffentlichte Seiten"
+
+#: inc/db-widget-count-pages.php:51 wp-admin-theme-cd.php:502
+msgid "Pages"
+msgstr "Seiten"
+
+#: inc/db-widget-count-posts.php:33
+msgid "Published Posts"
+msgstr "Veröffentlichte Beiträge"
+
+#: inc/db-widget-count-posts.php:51
+msgid "Posts"
+msgstr "Beiträge"
+
+#: inc/db-widget-memory.php:88
+msgid "WP PHP Limit"
+msgstr "WP PHP Limit"
+
+#: inc/db-widget-memory.php:92 inc/db-widget-memory.php:104
+#: inc/db-widget-memory.php:116 inc/db-widget-system.php:46
+#: inc/db-widget-system.php:60 inc/optimization.php:141 inc/system-info.php:45
+#: inc/system-info.php:616 inc/system-info.php:627 inc/system-info.php:693
+#: inc/system-info.php:709 inc/system-info.php:1869 wp-admin-theme-cd.php:2715
+msgid "Unlimited"
+msgstr "Unbegrenzt"
+
+#: inc/db-widget-memory.php:100
+msgid "WP PHP Limit (WP Admin only)"
+msgstr "WP PHP Limit (Nur WP Admin)"
+
+#: inc/db-widget-memory.php:112
+msgid "Server PHP Limit"
+msgstr "Server PHP Limit"
+
+#: inc/db-widget-memory.php:126
+msgid ""
+"Your Server PHP Memory Limit is unlimited. A defined memory limit helps "
+"prevent poorly written scripts for eating up all available memory on a "
+"server."
+msgstr ""
+"Das Server PHP Speicher Limit is unbegrenzt. Ein definiertes Speicher Limit "
+"kann vorbeugend helfen, dass schlecht geschriebene Skripte den gesamten "
+"Speicher des Servers verbrauchen."
+
+#: inc/db-widget-memory.php:133
+msgid "WordPress <strong>can not</strong> change the PHP ini value at runtime."
+msgstr ""
+"WordPress kann die PHP ini Werte <strong>nicht</strong> zur Laufzeit ändern."
+
+#: inc/db-widget-memory.php:135
+msgid "WordPress can change the PHP ini value at runtime."
+msgstr "WordPress kann die PHP ini Werte zur Laufzeit ändern."
+
+#: inc/db-widget-memory.php:153 wp-admin-theme-cd.php:2811
+msgid "WP Memory Usage"
+msgstr "WP Speicherauslastung"
+
+#: inc/db-widget-recent-comments.php:44
+msgid "Approve"
+msgstr "Genehmigen"
+
+#: inc/db-widget-recent-comments.php:47
+msgid "Unapprove"
+msgstr "Nicht genehmigen"
+
+#: inc/db-widget-recent-comments.php:63 wp-admin-theme-cd.php:2481
+#: wp-admin-theme-cd.php:2483
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: inc/db-widget-recent-comments.php:72
+msgid "on"
+msgstr "auf"
+
+#: inc/db-widget-recent-comments.php:96
+msgid "Recent Comments"
+msgstr "Neuste Kommentare"
+
+#: inc/db-widget-recent-pages.php:57 inc/db-widget-recent-posts.php:57
+msgid "No comments"
+msgstr "Keine Kommentare"
+
+#: inc/db-widget-recent-pages.php:57 inc/db-widget-recent-posts.php:57
+msgid "One comment"
+msgstr "Ein Kommentar"
+
+#: inc/db-widget-recent-pages.php:57 inc/db-widget-recent-posts.php:57
+#, fuzzy, php-format
+msgid "% comments"
+msgstr "% Kommentare"
+
+#: inc/db-widget-recent-pages.php:78
+msgid "Recent Pages"
+msgstr "Neuste Seiten"
+
+#: inc/db-widget-recent-posts.php:78
+msgid "Recent Posts"
+msgstr "Neue Beiträge"
+
+#: inc/db-widget-search-engine-notice.php:26
+msgid "Your website is currently not visible to search engines!"
+msgstr "Deine Webseite ist zur Zeit für Suchmaschinen nicht sichtbar!"
+
+#: inc/db-widget-search-engine-notice.php:40
+msgid "Search Engine Visibility"
+msgstr "Suchmaschinen Sichtbarkeit"
+
+#: inc/db-widget-system.php:28 inc/optimization.php:54 inc/system-info.php:571
+#: wp-admin-theme-cd.php:145
+msgid "WP Version"
+msgstr "WP Version"
+
+#: inc/db-widget-system.php:32 inc/optimization.php:65 inc/system-info.php:575
+#: inc/system-info.php:1857 wp-admin-theme-cd.php:143
+msgid "PHP Version"
+msgstr "PHP Version"
+
+#: inc/db-widget-system.php:36 inc/optimization.php:76 inc/system-info.php:579
+#: inc/system-info.php:1523
+msgid "MySQL Version"
+msgstr "MySQL Version"
+
+#: inc/db-widget-system.php:40 inc/optimization.php:107 inc/system-info.php:596
+msgid "PHP Memory Server-Limit"
+msgstr "PHP Speicher Server-Limit"
+
+#: inc/db-widget-system.php:44 inc/system-info.php:624
+msgid "PHP Memory Server-Usage"
+msgstr "PHP Speicher Server-Auslastung"
+
+#: inc/db-widget-system.php:46 inc/db-widget-system.php:48
+#: inc/db-widget-system.php:60 inc/db-widget-system.php:62
+#: inc/system-info.php:616 inc/system-info.php:619 inc/system-info.php:627
+#: inc/system-info.php:630 inc/system-info.php:1869 inc/system-info.php:1872
+msgid "of"
+msgstr "von"
+
+#: inc/db-widget-system.php:54 inc/optimization.php:87 inc/system-info.php:583
+msgid "PHP Memory WP-Limit"
+msgstr "PHP Speicher WP-Limit"
+
+#: inc/db-widget-system.php:58 inc/optimization.php:131 inc/system-info.php:613
+msgid "PHP Memory WP-Usage"
+msgstr "PHP Speicher WP-Auslastung"
+
+#: inc/db-widget-system.php:68 inc/system-info.php:635 inc/system-info.php:1877
+msgid "PHP Max Upload Size (WP)"
+msgstr "PHP Max Upload Size (WP)"
+
+#: inc/db-widget-system.php:71
+msgid "Full System Information"
+msgstr "Alle System Informationen"
+
+#: inc/db-widget-system.php:87
+msgid "System Info"
+msgstr "System Info"
+
+#: inc/db-widget-user.php:132 inc/db-widget-user.php:141 inc/system-info.php:68
+#: inc/system-info.php:84 inc/system-info.php:100 inc/system-info.php:121
+#: inc/system-info.php:138 inc/system-info.php:239 inc/system-info.php:262
+#: inc/system-info.php:299 inc/system-info.php:349 inc/system-info.php:387
+#: inc/system-info.php:415 inc/system-info.php:430 inc/system-info.php:439
+#: inc/system-info.php:512 wp-admin-theme-cd.php:2772
+msgid "N/A"
+msgstr "N/A"
+
+#: inc/db-widget-user.php:157 inc/db-widget-user.php:159
+msgid "is"
+msgstr "ist"
+
+#: inc/db-widget-user.php:157
+msgid "logged out"
+msgstr "Ausgeloggt"
+
+#: inc/db-widget-user.php:159
+msgid "logged in"
+msgstr "Eingeloggt"
+
+#: inc/db-widget-user.php:163
+msgid "Last Login"
+msgstr "Letzter Login"
+
+#: inc/db-widget-user.php:163
+msgid "Last Logout"
+msgstr "Letzter Logout"
+
+#: inc/db-widget-user.php:219
+msgid "User Activities"
+msgstr "Benutzer Aktivitäten"
+
+#: inc/ex-import.php:13 inc/ex-import.php:29
+msgid "WP Admin Theme CD - Import & Export"
+msgstr "WP Admin Theme CD - Import & Export"
+
+#: inc/ex-import.php:14
+msgid "WPAT Im-/Export"
+msgstr "WPAT Im-/Export"
+
+#: inc/ex-import.php:35
+msgid "Export"
+msgstr "Exportieren"
+
+#: inc/ex-import.php:37
+msgid ""
+"When you click the Export button, the system will generate a JSON file for "
+"you to save on your computer."
+msgstr ""
+"Wenn du auf den Exportieren-Button klickst, wird das System eine JSON Datei "
+"generieren und auf deinem Computer speichern."
+
+#: inc/ex-import.php:38
+msgid ""
+"This backup file contains all WP Admin Theme configution and setting options "
+"from this WordPress installation."
+msgstr ""
+"Die Backup-Datei enthält alle WP Admin Theme Konfigurationen und "
+"Einstellungen  dieser WordPress Installation."
+
+#: inc/ex-import.php:39
+msgid ""
+"After exporting, you can either use the JSON file to restore your settings "
+"on this site again or another WordPress site."
+msgstr ""
+"Nach dem exportieren kannst du die JSON Datei nutzen um bestimmte "
+"Einstellungen wiederherzustellen oder die selben Optionen für andere "
+"WordPress Seiten zu importieren."
+
+#: inc/ex-import.php:43
+msgid "Export WP Admin Theme options"
+msgstr "Exportiere WP Admin Theme Optionen"
+
+#: inc/ex-import.php:46
+msgid "Import"
+msgstr "Importieren"
+
+#: inc/ex-import.php:51
+msgid "An error occurred."
+msgstr "Ein Fehler ist aufgetreten."
+
+#: inc/ex-import.php:67
+msgid "All options are restored successfully."
+msgstr "Alle Optionen sind erfolgreich wiederhergestellt."
+
+#: inc/ex-import.php:69
+msgid "Invalid file or file size too big."
+msgstr "Falsches Dateiformat oder die Datei ist zu groß."
+
+#: inc/ex-import.php:76
+msgid "Click the Browse button and choose a JSON file."
+msgstr "Klicke den Durchsuchen-Button und wähle eine JSON Datei aus."
+
+#: inc/ex-import.php:77
+msgid "Press the Import button restore all options."
+msgstr "Klicke den Importieren-Button um alle Optionen wiederherzustellen."
+
+#: inc/ex-import.php:83
+msgid "Import options"
+msgstr "Importiere Optionen"
+
+#: inc/multisite-sync.php:67 inc/multisite-sync.php:124
+msgid "WP Admin Theme CD - Multisite Update"
+msgstr "WP Admin Theme CD - Multisite Update"
+
+#: inc/multisite-sync.php:68
+msgid "WPAT Multisite"
+msgstr "WPAT Multisite"
+
+#: inc/multisite-sync.php:114
+msgid "All network sites has been updated."
+msgstr "Alle Netzwerk-Sites wurden aktualisiert."
+
+#: inc/multisite-sync.php:130
+msgid ""
+"Update your WP Admin Theme CD options for all network websites together."
+msgstr ""
+"Aktualisiere deine WP Admin Theme CD-Optionen für alle Netzwerk-Websites "
+"zusammen."
+
+#: inc/multisite-sync.php:132
+msgid "Share Options"
+msgstr "Optionen teilen"
+
+#: inc/multisite-sync.php:134
+msgid "You will share the following options from Blog ID"
+msgstr "Du wirst die folgenden Optionen teilen, von Blog ID"
+
+#: inc/multisite-sync.php:134 inc/multisite-sync.php:297
+msgid "Blog Name"
+msgstr "Blog Name"
+
+#: inc/multisite-sync.php:134
+msgid "for all network blogs"
+msgstr "für alle Netzwerk Blogs"
+
+#: inc/multisite-sync.php:139
+msgid "Option"
+msgstr "Optionen"
+
+#: inc/multisite-sync.php:140
+msgid "Value"
+msgstr "Wert"
+
+#: inc/multisite-sync.php:144 wp-admin-theme-cd.php:1036
+#: wp-admin-theme-cd.php:1110 wp-admin-theme-cd.php:1131
+#: wp-admin-theme-cd.php:1152 wp-admin-theme-cd.php:1173
+#: wp-admin-theme-cd.php:1235 wp-admin-theme-cd.php:1287
+#: wp-admin-theme-cd.php:1314 wp-admin-theme-cd.php:1345
+#: wp-admin-theme-cd.php:1376 wp-admin-theme-cd.php:1407
+#: wp-admin-theme-cd.php:1439 wp-admin-theme-cd.php:1631
+#: wp-admin-theme-cd.php:1652 wp-admin-theme-cd.php:1673
+#: wp-admin-theme-cd.php:1694 wp-admin-theme-cd.php:1715
+#: wp-admin-theme-cd.php:1736
+msgid "Visible"
+msgstr "Sichtbar"
+
+#: inc/multisite-sync.php:145 wp-admin-theme-cd.php:1038
+#: wp-admin-theme-cd.php:1112 wp-admin-theme-cd.php:1133
+#: wp-admin-theme-cd.php:1154 wp-admin-theme-cd.php:1175
+#: wp-admin-theme-cd.php:1237 wp-admin-theme-cd.php:1289
+#: wp-admin-theme-cd.php:1316 wp-admin-theme-cd.php:1347
+#: wp-admin-theme-cd.php:1378 wp-admin-theme-cd.php:1409
+#: wp-admin-theme-cd.php:1441 wp-admin-theme-cd.php:1633
+#: wp-admin-theme-cd.php:1654 wp-admin-theme-cd.php:1675
+#: wp-admin-theme-cd.php:1696 wp-admin-theme-cd.php:1717
+#: wp-admin-theme-cd.php:1738
+msgid "Hidden"
+msgstr "Versteckt"
+
+#: inc/multisite-sync.php:146 inc/system-info.php:547
+#: wp-admin-theme-cd.php:1065 wp-admin-theme-cd.php:1199
+#: wp-admin-theme-cd.php:1525
+msgid "Enabled"
+msgstr "Aktiviert"
+
+#: inc/multisite-sync.php:147 inc/system-info.php:548 inc/system-info.php:721
+#: wp-admin-theme-cd.php:1063 wp-admin-theme-cd.php:1201
+#: wp-admin-theme-cd.php:1527 wp-admin-theme-cd.php:1897
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+#: inc/multisite-sync.php:148
+msgid "Not selected"
+msgstr "Nicht ausgewählt"
+
+#: inc/multisite-sync.php:149
+msgid "Not added"
+msgstr "Nicht hinzugefügt"
+
+#: inc/multisite-sync.php:150 wp-admin-theme-cd.php:1781
+#: wp-admin-theme-cd.php:1802 wp-admin-theme-cd.php:1834
+#: wp-admin-theme-cd.php:1864 wp-admin-theme-cd.php:1926
+#: wp-admin-theme-cd.php:1955 wp-admin-theme-cd.php:1991
+#: wp-admin-theme-cd.php:2025
+msgid "Activated"
+msgstr "Aktiviert"
+
+#: inc/multisite-sync.php:151 wp-admin-theme-cd.php:1779
+#: wp-admin-theme-cd.php:1800 wp-admin-theme-cd.php:1862
+msgid "Deactivated"
+msgstr "Deaktiviert"
+
+#: inc/multisite-sync.php:173 inc/multisite-sync.php:185
+#: inc/multisite-sync.php:239 wp-admin-theme-cd.php:1086
+#: wp-admin-theme-cd.php:1219 wp-admin-theme-cd.php:1576
+msgid "Pixel"
+msgstr "Pixel"
+
+#: inc/multisite-sync.php:225 wp-admin-theme-cd.php:251
+msgid "Welcome Back."
+msgstr "Willkommen zurück."
+
+#: inc/multisite-sync.php:289
+msgid "You will update the following network sites"
+msgstr "Du wirst die folgenden Netzwerk Seiten updaten"
+
+#: inc/multisite-sync.php:297 wp-admin-theme-cd.php:2640
+msgid "ID"
+msgstr "ID"
+
+#: inc/multisite-sync.php:303
+msgid "Update all network blogs"
+msgstr "Alle Netzwerk Blogs updaten"
+
+#: inc/multisite-sync.php:303
+msgid "Are you sure you want to run the update for all blogs?"
+msgstr "Bist du dir sicher das du alle Blogs updaten möchtest?"
+
+#: inc/optimization.php:13
+msgid "WP Admin Theme CD - Optimization Tipps"
+msgstr "WP Admin Theme CD - Optimierungs Tipps"
+
+#: inc/optimization.php:14
+msgid "WPAT Optimization"
+msgstr "WPAT Optimierung"
+
+#: inc/optimization.php:29
+msgid "Solved"
+msgstr "Gelöst"
+
+#: inc/optimization.php:30
+msgid "Unsolved"
+msgstr "Ungelöst"
+
+#: inc/optimization.php:31 inc/system-info.php:549
+msgid "Yes"
+msgstr "Ja"
+
+#: inc/optimization.php:32 inc/system-info.php:550
+msgid "No"
+msgstr "Nein"
+
+#: inc/optimization.php:33 inc/system-info.php:551
+msgid "Defined"
+msgstr "Definiert"
+
+#: inc/optimization.php:34 inc/system-info.php:552
+msgid "Not defined"
+msgstr "Nicht definiert"
+
+#: inc/optimization.php:35 inc/system-info.php:553
+msgid "Please enter this security key in the wp-confiq.php file"
+msgstr ""
+"Bitte geben Sie diesen Sicherheits-Schlüssel in der wp-confiq.php Datei ein"
+
+#: inc/optimization.php:38
+msgid "WP Admin Theme CD - WP Optimization Tipps"
+msgstr "WP Admin Theme CD - WP Optimierungs Tipps"
+
+#: inc/optimization.php:40
+msgid "Speed Up your WordPress Admin Area"
+msgstr "Beschleunigen Sie Ihren WordPress Adminbereich"
+
+#: inc/optimization.php:42
+msgid ""
+"Follow the following optimization tipps, to get your WordPress admin area "
+"faster than before. Sometimes the page load time is very ... while we "
+"working on our website..."
+msgstr ""
+"Befolgen Sie die folgenden Optimierungstipps, um Ihren WordPress Admin-"
+"Bereich schneller als zuvor zu bekommen. Manchmal ist die Seitenladezeit "
+"sehr ... während wir auf unserer Website arbeiten ..."
+
+#: inc/optimization.php:47 inc/system-info.php:565 inc/system-info.php:661
+#: inc/system-info.php:1516 inc/system-info.php:1646 inc/system-info.php:1752
+#: inc/system-info.php:2011
+msgid "Info"
+msgstr "Info"
+
+#: inc/optimization.php:48
+msgid "Status"
+msgstr "Status"
+
+#: inc/optimization.php:49
+msgid "Tipp"
+msgstr "Tipp"
+
+#: inc/optimization.php:99 inc/optimization.php:123 inc/system-info.php:588
+#: inc/system-info.php:605
+#, php-format
+msgid ""
+"%s - For better performance, we recommend setting memory to at least 64MB. "
+"See: %s"
+msgstr ""
+"%s - Für bessere Performance, empfehlen wir die Speichereinstellung nicht "
+"geringer als 64MB zu setzen. Siehe: %s"
+
+#: inc/optimization.php:99 inc/optimization.php:123 inc/system-info.php:588
+#: inc/system-info.php:605
+msgid "Increasing memory allocated to PHP"
+msgstr "Erhöhung des Speichers für PHP"
+
+#: inc/system-info.php:51 inc/system-info.php:700
+#, php-format
+msgid "The WP PHP Memory Limit is less than the %s Server PHP Memory Limit"
+msgstr ""
+"Das WP PHP Speicher Limit ist niedriger als das %s Server PHP Speicher Limit"
+
+#: inc/system-info.php:62
+#, php-format
+msgid "%s - Recommend  PHP version of 7.2. See: %s"
+msgstr "%s - Empfohlene PHP Version von 7.2. Siehe: %s"
+
+#: inc/system-info.php:62 inc/system-info.php:116
+msgid "WordPress Requirements"
+msgstr "WordPress Anforderungen"
+
+#: inc/system-info.php:116
+#, php-format
+msgid "%s - We recommend a minimum MySQL version of 5.6. See: %s"
+msgstr "%s - Wir empfehlen eine minimale MySQL Version of 5.6. Siehe: %s"
+
+#: inc/system-info.php:184
+msgid "Days"
+msgstr "Tage"
+
+#: inc/system-info.php:184
+msgid "Hours"
+msgstr "Stunden"
+
+#: inc/system-info.php:184
+msgid "Minutes"
+msgstr "Minuten"
+
+#: inc/system-info.php:531 inc/system-info.php:556
+msgid "WP Admin Theme CD - System Info"
+msgstr "WP Admin Theme CD - System Info"
+
+#: inc/system-info.php:532
+msgid "WPAT System Info"
+msgstr "WPAT System Info"
+
+#: inc/system-info.php:558
+msgid "WordPress Information"
+msgstr "WordPress Informationen"
+
+#: inc/system-info.php:560
+msgid ""
+"First, you can see the most important information about your WordPress "
+"installation at a glance. Learn more about the <a href=\"https://wordpress."
+"org/about/requirements/\" target=\"_blank\">requirements</a>"
+msgstr ""
+"Zunächst, kannst du hier die wichtigsten Informationen über deine WordPress "
+"Installation im Überblick sehen. Lerne mehr über die <a href=\"https://"
+"wordpress.org/about/requirements/\" target=\"_blank\">Anforderungen</a>"
+
+#: inc/system-info.php:566 inc/system-info.php:662 inc/system-info.php:1517
+#: inc/system-info.php:1647 inc/system-info.php:1753 inc/system-info.php:2012
+msgid "Result"
+msgstr "Ergebnis"
+
+#: inc/system-info.php:639
+msgid "WP Home URL"
+msgstr "WP Home URL"
+
+#: inc/system-info.php:643 inc/system-info.php:1413
+msgid "WP Site URL"
+msgstr "WP Site URL"
+
+#: inc/system-info.php:647
+msgid "Document Root"
+msgstr "Document Root"
+
+#: inc/system-info.php:654
+msgid "WordPress Contstants Overview"
+msgstr "WordPress Konstanten Überblick"
+
+#: inc/system-info.php:656
+msgid ""
+"Use the following contstants to manage important settings of your WordPress "
+"installation in the <code>wp-config.php</code> file. Learn more about <a "
+"href=\"https://codex.wordpress.org/Editing_wp-config.php\" target=\"_blank"
+"\">here</a>"
+msgstr ""
+"Benutze die folgenden Konstanten um wichtige Einstellungen deiner WordPress "
+"Installation in der <code>wp-config.php</code> Datei zu managen. Lerne mehr "
+"darüber <a href=\"https://codex.wordpress.org/Editing_wp-config.php\" target="
+"\"_blank\">hier</a>"
+
+#: inc/system-info.php:663 inc/system-info.php:1518 inc/system-info.php:1648
+msgid "Example"
+msgstr "Beispiel"
+
+#: inc/system-info.php:668
+msgid "WP Language"
+msgstr "WP Sprache"
+
+#: inc/system-info.php:679
+msgid "WP Force SSL Admin"
+msgstr "WP SSL für Admin erzwingen"
+
+#: inc/system-info.php:690
+msgid "WP PHP Memory Limit"
+msgstr "WP PHP Speicher Limit"
+
+#: inc/system-info.php:697 inc/system-info.php:713
+msgid "defined limit"
+msgstr "definiertes Limit"
+
+#: inc/system-info.php:706
+msgid "WP PHP Max Memory Limit"
+msgstr "WP PHP Max Speicher Limit"
+
+#: inc/system-info.php:718
+msgid "WP Post Revisions"
+msgstr "WP Beitrags-Revisionen"
+
+#: inc/system-info.php:729
+msgid "WP Autosave Interval"
+msgstr "WP Intervall für automatische Speicherung"
+
+#: inc/system-info.php:732 inc/system-info.php:741 inc/system-info.php:1038
+#: inc/system-info.php:1890
+msgid "Seconds"
+msgstr "Sekunden"
+
+#: inc/system-info.php:738
+msgid "WP Mail Interval"
+msgstr "WP Mail Intervall"
+
+#: inc/system-info.php:749
+msgid "WP Empty Trash"
+msgstr "WP Papierkorb leeren"
+
+#: inc/system-info.php:760
+msgid "WP Media Trash"
+msgstr "WP Medien Papierkorb"
+
+#: inc/system-info.php:771
+msgid "WP Cleanup Image Edits"
+msgstr "WP Bildbearbeitungen aufräumen"
+
+#: inc/system-info.php:782
+msgid "WP Multisite"
+msgstr "WP Multisite"
+
+#: inc/system-info.php:793
+msgid "WP Main Site Domain"
+msgstr "WP Hauptwebseiten Domain"
+
+#: inc/system-info.php:804
+msgid "WP Main Site Path"
+msgstr "WP Hauptwebseiten Pfad"
+
+#: inc/system-info.php:815
+msgid "WP Main Site ID"
+msgstr "WP Hauptwebseiten ID"
+
+#: inc/system-info.php:826
+msgid "WP Main Site Blog ID"
+msgstr "WP Hauptwebseiten Blog ID"
+
+#: inc/system-info.php:837
+msgid "WP Allow Subdomain Install"
+msgstr "WP Erlaube Installation unter Subdomain"
+
+#: inc/system-info.php:848
+msgid "WP Allow Subdirectory Install"
+msgstr "WP Erlaube Installation in Unterverzeichnis"
+
+#: inc/system-info.php:859
+msgid "WP Site Specific Upload Directory"
+msgstr "WP Spezifisches Upload Verzeichnis"
+
+#: inc/system-info.php:870
+msgid "WP Upload Base Directory"
+msgstr "WP Upload Hauptverzeichnis"
+
+#: inc/system-info.php:881
+msgid "WP Load Sunrise"
+msgstr "WP Load Sunrise"
+
+#: inc/system-info.php:892
+msgid "WP Debug Mode"
+msgstr "WP Debug Modus"
+
+#: inc/system-info.php:903
+msgid "WP Debug Log"
+msgstr "WP Debug Log"
+
+#: inc/system-info.php:914
+msgid "WP Debug Display"
+msgstr "WP Debug Anzeige"
+
+#: inc/system-info.php:925
+msgid "WP Script Debug"
+msgstr "WP Skript Debug"
+
+#: inc/system-info.php:936
+msgid "WP Save Queries"
+msgstr "WP Queries speichern"
+
+#: inc/system-info.php:947
+msgid "WP Automatic Updates"
+msgstr "WP Automatische Updates"
+
+#: inc/system-info.php:958
+msgid "WP Core Updates"
+msgstr "WP Core Updates"
+
+#: inc/system-info.php:963
+msgid "Only for minor updates"
+msgstr "Nur für Updates von Nebenversionen"
+
+#: inc/system-info.php:971
+msgid "WP Default Theme Updates"
+msgstr "WP Standard Theme Updates"
+
+#: inc/system-info.php:982
+msgid "WP Plugin and Theme Editor"
+msgstr "WP Plugin und Theme Editor"
+
+#: inc/system-info.php:993
+msgid "WP Plugin and Theme Updates"
+msgstr "WP Plugin und Theme Updates"
+
+#: inc/system-info.php:1004
+msgid "WP Default Theme"
+msgstr "WP Standard Theme"
+
+#: inc/system-info.php:1013
+msgid "WP Alternate Cron"
+msgstr "WP Alternativer Cron"
+
+#: inc/system-info.php:1024
+msgid "WP Cron"
+msgstr "WP Cron"
+
+#: inc/system-info.php:1035
+msgid "WP Cron Lock Timeout"
+msgstr "WP Cron Lock Zeitverzögerung"
+
+#: inc/system-info.php:1046
+msgid "WP Cache"
+msgstr "WP Cache"
+
+#: inc/system-info.php:1057
+msgid "WP Concatenate Admin JS/CSS"
+msgstr "WP Verkettung von Admin JS/CSS"
+
+#: inc/system-info.php:1062 inc/system-info.php:1076 inc/system-info.php:1090
+#: inc/system-info.php:1104
+msgid "Not available if WP Script Debug is true"
+msgstr "Nicht verfügbar wenn WP Skript Debug aktiv ist"
+
+#: inc/system-info.php:1071
+msgid "WP Compress Admin JS"
+msgstr "WP Admin JS komprimieren"
+
+#: inc/system-info.php:1085
+msgid "WP Compress Admin CSS"
+msgstr "WP Admin CSS komprimieren"
+
+#: inc/system-info.php:1099
+msgid "WP Enforce GZip Admin JS/CSS"
+msgstr "WP GZip für Admin JS/CSS erzwingen"
+
+#: inc/system-info.php:1113
+msgid "WP Allow unfiltered HTML"
+msgstr "WP Erlaube ungefiltertes HTML"
+
+#: inc/system-info.php:1116
+msgid "for all users"
+msgstr "für alle Nutzer"
+
+#: inc/system-info.php:1118
+msgid "for users with administrator or editor roles"
+msgstr "für Nutzer mit Administrator oder Editor Rollen"
+
+#: inc/system-info.php:1124
+msgid "WP Allow unfiltered Uploads"
+msgstr "Wp Erlaube ungefilterte Uploads"
+
+#: inc/system-info.php:1135
+msgid "WP Block External URL Requests"
+msgstr "WP Blockiere externe URL Anfragen"
+
+#: inc/system-info.php:1140
+msgid "Accessible Hosts"
+msgstr "Zugängliche Hosts"
+
+#: inc/system-info.php:1149
+msgid "WP Redirect Nonexistent Blogs"
+msgstr "WP Redirect nicht vorhandener Blogs"
+
+#: inc/system-info.php:1160
+msgid "WP Cookie Domain"
+msgstr "WP Cookie Domain"
+
+#: inc/system-info.php:1171
+msgid "WP Cookie Hash"
+msgstr "WP Cookie Hash"
+
+#: inc/system-info.php:1182
+msgid "WP Auth Cookie"
+msgstr "WP Auth Cookie"
+
+#: inc/system-info.php:1193
+msgid "WP Secure Auth Cookie"
+msgstr "WP Secure Auth Cookie"
+
+#: inc/system-info.php:1204
+msgid "WP Cookie Path"
+msgstr "WP Cookie Pfad"
+
+#: inc/system-info.php:1215
+msgid "WP Site Cookie Path"
+msgstr "WP Cookie Hauptpfad"
+
+#: inc/system-info.php:1226
+msgid "WP Admin Cookie Path"
+msgstr "WP Admin Cookie Pfad"
+
+#: inc/system-info.php:1237
+msgid "WP Plugins Cookie Path"
+msgstr "WP Plugins Cookie Pfad"
+
+#: inc/system-info.php:1248
+msgid "WP Logged In Cookie"
+msgstr "WP Eingeloggt Cookie"
+
+#: inc/system-info.php:1259
+msgid "WP Test Cookie"
+msgstr "WP Test Cookie"
+
+#: inc/system-info.php:1270
+msgid "WP User Cookie"
+msgstr "WP Benutzer Cookie"
+
+#: inc/system-info.php:1281
+msgid "WP Directory Permission"
+msgstr "WP Verzeichnisberechtigung"
+
+#: inc/system-info.php:1292
+msgid "WP File Permission"
+msgstr "WP Dateiberechtigungen"
+
+#: inc/system-info.php:1303
+msgid "WP FTP Method"
+msgstr "WP FTP Methode"
+
+#: inc/system-info.php:1314
+msgid "WP FTP Base"
+msgstr "WP FTP-Basispfad"
+
+#: inc/system-info.php:1325
+msgid "WP FTP Content Dir"
+msgstr "WP FTP Content Dir"
+
+#: inc/system-info.php:1336
+msgid "WP FTP Plugin Dir"
+msgstr "WP FTP Plugin Dir"
+
+#: inc/system-info.php:1347
+msgid "WP SSH Public Key"
+msgstr "WP SSH Public Key"
+
+#: inc/system-info.php:1358
+msgid "WP SSH Private Key"
+msgstr "WP SSH Private Key"
+
+#: inc/system-info.php:1369
+msgid "WP FTP Username"
+msgstr "WP FTP Benutzername"
+
+#: inc/system-info.php:1380
+msgid "WP FTP Password"
+msgstr "WP FTP Passwort"
+
+#: inc/system-info.php:1391
+msgid "WP FTP Host"
+msgstr "WP FTP Host"
+
+#: inc/system-info.php:1402
+msgid "WP FTP SSL"
+msgstr "WP FTP SSL"
+
+#: inc/system-info.php:1424
+msgid "WP Home"
+msgstr "WP Home"
+
+#: inc/system-info.php:1435
+msgid "WP Uploads Path"
+msgstr "WP Uploads Pfad"
+
+#: inc/system-info.php:1447
+msgid "WP Template Path"
+msgstr "WP Template Pfad"
+
+#: inc/system-info.php:1454
+msgid "WP Stylesheet Path"
+msgstr "WP Stylesheet Pfad"
+
+#: inc/system-info.php:1461
+msgid "WP Content Path"
+msgstr "WP Content Pfad"
+
+#: inc/system-info.php:1468
+msgid "WP Content URL"
+msgstr "WP Content URL"
+
+#: inc/system-info.php:1475
+msgid "WP Plugin Path"
+msgstr "WP Plugin Pfad"
+
+#: inc/system-info.php:1482
+msgid "WP Plugin URL"
+msgstr "WP Plugin URL"
+
+#: inc/system-info.php:1489
+msgid "WP Language Path"
+msgstr "WP Sprachdatei Pfad"
+
+#: inc/system-info.php:1496
+msgid "WP Temporary Files Path"
+msgstr "WP Temporäre Dateien Pfad"
+
+#: inc/system-info.php:1509
+msgid "Database Information"
+msgstr "Datenbank Informationen"
+
+#: inc/system-info.php:1511
+msgid ""
+"Use the following contstants to manage important database settings of your "
+"WordPress installation in the <code>wp-config.php</code> file. Learn more "
+"about <a href=\"https://codex.wordpress.org/Editing_wp-config.php\" target="
+"\"_blank\">here</a>"
+msgstr ""
+"Benutze die folgenden Konstanten um wichtige Datenbankeinstellungen deiner "
+"WordPress Installation in der <code>wp-config.php</code> Datei zu managen. "
+"Lerne mehr darüber <a href=\"https://codex.wordpress.org/Editing_wp-config."
+"php\" target=\"_blank\">hier</a>"
+
+#: inc/system-info.php:1527
+msgid "DB Name"
+msgstr "DB Name"
+
+#: inc/system-info.php:1532
+msgid "DB User"
+msgstr "DB Benutzer"
+
+#: inc/system-info.php:1537
+msgid "DB Host"
+msgstr "DB Host"
+
+#: inc/system-info.php:1542
+msgid "DB Password"
+msgstr "DB Passwort"
+
+#: inc/system-info.php:1547
+msgid "DB Charset"
+msgstr "DB Charset"
+
+#: inc/system-info.php:1552
+msgid "DB Collate"
+msgstr "DB Collate"
+
+#: inc/system-info.php:1563
+msgid "WP Allow DB Repair"
+msgstr "WP Erlaube Datenbank Reparatur"
+
+#: inc/system-info.php:1574
+msgid "WP Disallow Upgrade Global Tables"
+msgstr "WP Verbiete Upgrade von globalen Tabellen"
+
+#: inc/system-info.php:1585
+msgid "WP Custom User Table"
+msgstr "WP Benutzerdefinierte Benutzer Tabelle"
+
+#: inc/system-info.php:1596
+msgid "WP Custom User Meta Table"
+msgstr "WP Benutzerdefinierte Benutzer Meta Tabelle"
+
+#: inc/system-info.php:1607
+msgid "WP Display Database Errors"
+msgstr "WP Datenbank Fehler anzeigen"
+
+#: inc/system-info.php:1618
+msgid "WP Database Error Log File"
+msgstr "WP Datenbank Fehler Log Datei"
+
+#: inc/system-info.php:1629
+msgid "Table Prefix"
+msgstr "Tabellenpräfix"
+
+#: inc/system-info.php:1633
+msgid "Table Base Prefix"
+msgstr "Tabellenhauptpräfix"
+
+#: inc/system-info.php:1634
+msgid "defined"
+msgstr "definiertes"
+
+#: inc/system-info.php:1639
+msgid "Security Keys"
+msgstr "2 Sicherheitsschlüssel"
+
+#: inc/system-info.php:1641
+msgid ""
+"Use the following contstants to set the security keys for your WordPress "
+"installation in the <code>wp-config.php</code> file. Learn more about <a "
+"href=\"https://codex.wordpress.org/Editing_wp-config.php\" target=\"_blank"
+"\">here</a>"
+msgstr ""
+"Benutze die folgenden Konstanten um die Sicherheitsschlüssel für deine "
+"WordPress Installation in der <code>wp-config.php</code> Datei zu setzen. "
+"Lerne mehr darüber <a href=\"https://codex.wordpress.org/Editing_wp-config."
+"php\" target=\"_blank\">hier</a>"
+
+#: inc/system-info.php:1653
+msgid "WP Auth Key"
+msgstr "WP Auth Schlüssel"
+
+#: inc/system-info.php:1664
+msgid "WP Secure Auth Key"
+msgstr "WP Secure Auth Key"
+
+#: inc/system-info.php:1675
+msgid "WP Logged In Key"
+msgstr "WP Logged In Key"
+
+#: inc/system-info.php:1686
+msgid "WP Nonce Key"
+msgstr "WP Nonce Key"
+
+#: inc/system-info.php:1697
+msgid "WP Auth Salt"
+msgstr "WP Auth Salt"
+
+#: inc/system-info.php:1708
+msgid "WP Secure Auth Salt"
+msgstr "WP Secure Auth Salt"
+
+#: inc/system-info.php:1719
+msgid "WP Logged In Auth Salt"
+msgstr "WP Logged In Auth Salt"
+
+#: inc/system-info.php:1730
+msgid "WP Nonce Salt"
+msgstr "WP Nonce Salt"
+
+#: inc/system-info.php:1743
+msgid "Server Information"
+msgstr "Server Informationen"
+
+#: inc/system-info.php:1745
+msgid ""
+"Interesting information about your web server. You can also use <a href="
+"\"http://linfo.sourceforge.net/\" target=\"_blank\">linfo</a> or <a href="
+"\"https://phpsysinfo.github.io/phpsysinfo/\" target=\"_blank\">phpsysinfo</"
+"a> to get more information about the web server"
+msgstr ""
+"Interessante Informationen über deinen Webserver. Du kannst auch <a href="
+"\"http://linfo.sourceforge.net/\" target=\"_blank\">linfo</a> oder <a href="
+"\"https://phpsysinfo.github.io/phpsysinfo/\" target=\"_blank\">phpsysinfo</"
+"a> nutzen um weitere Informationen über deinen Webserver zu erhalten"
+
+#: inc/system-info.php:1747
+msgid ""
+"In the most cases you can modify some server settings like \"PHP Memory Limit"
+"\" or \"PHP Post Max Size\" by upload and modify a <code>php.ini</code> file "
+"in the WordPress <code>/wp-admin/</code> folder. Learn more about <a href="
+"\"https://www.wpbeginner.com/wp-tutorials/how-to-increase-the-maximum-file-"
+"upload-size-in-wordpress/\" target=\"_blank\">here</a>"
+msgstr ""
+"In den meisten Fällen kannst du einige Servereinstellungen wie \"PHP Memory "
+"Limit\" oder \"PHP Post Max Size\", durch das Hochladen und Anpassen der "
+"<code>php.ini</code> Datei in den WordPress <code>/wp-admin/</code> Ordner "
+"ändern. Erfahre mehr daüber <a href=\"https://www.wpbeginner.com/wp-"
+"tutorials/how-to-increase-the-maximum-file-upload-size-in-wordpress/\" "
+"target=\"_blank\">hier</a>"
+
+#: inc/system-info.php:1758
+msgid "OS"
+msgstr "Betriebsystem"
+
+#: inc/system-info.php:1759
+msgid "Bit OS"
+msgstr "Bit Betriebsystem"
+
+#: inc/system-info.php:1762
+msgid "Software"
+msgstr "Software"
+
+#: inc/system-info.php:1766 wp-admin-theme-cd.php:144
+msgid "IP Address"
+msgstr "IP Adresse"
+
+#: inc/system-info.php:1770
+msgid "Web Port"
+msgstr "Web Port"
+
+#: inc/system-info.php:1774
+msgid "Date / Time (WP)"
+msgstr "Datum / Uhrzeit (WP)"
+
+#: inc/system-info.php:1778
+msgid "Timezone (WP)"
+msgstr "Zeitzone (WP)"
+
+#: inc/system-info.php:1782
+msgid "Default Timezone is UTC"
+msgstr "Standard Zeitzone ist UTC"
+
+#: inc/system-info.php:1786
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr "Standardzeitzone ist %s - sie sollte UTC sein"
+
+#: inc/system-info.php:1793
+msgid "Protocol"
+msgstr "Protokoll"
+
+#: inc/system-info.php:1797
+msgid "Administrator"
+msgstr "Administrator"
+
+#: inc/system-info.php:1801
+msgid "CGI Version"
+msgstr "CGI Version"
+
+#: inc/system-info.php:1805
+msgid "CPU Total"
+msgstr "CPU Gesamt"
+
+#: inc/system-info.php:1806
+msgid "Cores"
+msgstr "Kerne"
+
+#: inc/system-info.php:1809
+msgid "CPU Usage"
+msgstr "CPU Auslastung"
+
+#: inc/system-info.php:1813
+msgid "CPU Load Average"
+msgstr "CPU Durchschnittliche Ladezeit"
+
+#: inc/system-info.php:1817
+msgid "Disk Space"
+msgstr "Festplattenspeicher"
+
+#: inc/system-info.php:1818
+msgid "Total"
+msgstr "Gesamt"
+
+#: inc/system-info.php:1818
+msgid "Free"
+msgstr "Frei"
+
+#: inc/system-info.php:1818
+msgid "Used"
+msgstr "Belegt"
+
+#: inc/system-info.php:1821
+msgid "Disk Space Usage"
+msgstr "Festplattenspeicherbenutzung"
+
+#: inc/system-info.php:1828
+msgid "Memory (RAM) Total"
+msgstr "Arbeitsspeicher (RAM) Gesamt"
+
+#: inc/system-info.php:1832
+msgid "Memory (RAM) Free"
+msgstr "Arbeitsspeicher (RAM) Frei"
+
+#: inc/system-info.php:1836
+msgid "Memory (RAM) Usage"
+msgstr "Arbeitsspeicher (RAM) Belegt"
+
+#: inc/system-info.php:1843
+msgid "Memcached"
+msgstr "Memcached"
+
+#: inc/system-info.php:1853
+msgid "Uptime"
+msgstr "Laufzeit"
+
+#: inc/system-info.php:1862
+msgid "PHP Memory Limit (WP)"
+msgstr "PHP Speicher Limit (WP)"
+
+#: inc/system-info.php:1866
+msgid "PHP Memory Usage"
+msgstr "PHP Speicherauslastung"
+
+#: inc/system-info.php:1881
+msgid "PHP Post Max Size"
+msgstr "PHP Post Max Size"
+
+#: inc/system-info.php:1885
+msgid "PHP Max Input Vars"
+msgstr "PHP Max Input Vars"
+
+#: inc/system-info.php:1889
+msgid "PHP Max Execution Time"
+msgstr "PHP Max Execution Time"
+
+#: inc/system-info.php:1893
+msgid "PHP Extensions"
+msgstr "PHP Erweiterungen"
+
+#: inc/system-info.php:1897
+msgid "GD Library"
+msgstr "GD Bibliothek"
+
+#: inc/system-info.php:1901 inc/system-info.php:2024 inc/system-info.php:2092
+msgid "Version"
+msgstr "Version"
+
+#: inc/system-info.php:1908
+msgid "cURL Version"
+msgstr "cURL Version"
+
+#: inc/system-info.php:1912
+msgid "SUHOSIN Installed"
+msgstr "SUHOSIN installiert"
+
+#: inc/system-info.php:1918
+msgid "PHP Error Log File Location"
+msgstr "Fehler-Protokolldatei"
+
+#: inc/system-info.php:1941
+#, php-format
+msgid ""
+"Your server does not have the %s class enabled - some gateway plugins which "
+"use SOAP may not work as expected."
+msgstr ""
+"Der Server verfügt nicht über eine lauffähige Version der %s Klasse - einige "
+"Gateway Plugins, welche SOAP nutzen, funktionieren unter Umständen nicht "
+"korrekt."
+
+#: inc/system-info.php:1951
+#, php-format
+msgid ""
+"Your server does not have the %s class enabled - HTML/Multipart emails, and "
+"also some extensions, will not work without DOMDocument."
+msgstr ""
+"Der Server verfügt nicht über eine lauffähige Version der %s Klasse - HTML/"
+"Multipart E-Mails und einige Erweiterungen, funktionieren unter Umständen "
+"nicht korrekt."
+
+#: inc/system-info.php:1961
+#, php-format
+msgid ""
+"Your server does not support the %s function - this is required to use the "
+"GeoIP database from MaxMind."
+msgstr ""
+"Der Server verfügt nicht über eine lauffähige %s Funktion - dies wird "
+"vorausgesetzt um die GeoIP Datenbank von MaxMind zu nutzen."
+
+#: inc/system-info.php:1971
+#, php-format
+msgid ""
+"Your server does not support the %s functions - this is required for better "
+"character encoding. Some fallbacks will be used instead for it."
+msgstr ""
+"Der Server verfügt nicht über lauffähige %s Funktionen - dies wird für "
+"bessere Zeichenkodierung vorausgesetzt. Einige Fallbacks werden stattdessen "
+"dafür genutzt."
+
+#: inc/system-info.php:2006
+msgid "Current Theme"
+msgstr "Aktuelles Theme"
+
+#: inc/system-info.php:2020 inc/system-info.php:2091
+msgid "Name"
+msgstr "Name"
+
+#: inc/system-info.php:2030
+msgid "Author URL"
+msgstr "Autor URL"
+
+#: inc/system-info.php:2034
+msgid "Image Sizes"
+msgstr "Bildgrößen"
+
+#: inc/system-info.php:2038
+msgid "Gutenberg Compatibility"
+msgstr "Gutenberg Kompatibilität"
+
+#: inc/system-info.php:2048
+msgid "WooCommerce Compatibility"
+msgstr "WooCommerce Kompatibilität"
+
+#: inc/system-info.php:2058
+msgid "Child Theme"
+msgstr "Untertheme Theme"
+
+#: inc/system-info.php:2060
+#, php-format
+msgid ""
+"If you're want to modifying a theme, it safe to create a child theme.  See: "
+"<a href=\"%s\" target=\"_blank\">How to create a child theme</a>"
+msgstr ""
+"Wenn du ein Theme anpassen möchtest, ist es sicherer eine Untertheme zu "
+"erstellen. Siehe: <a href=\"%s\" target=\"_blank\">Wie man ein Untertheme "
+"erstellt</a>"
+
+#: inc/system-info.php:2066
+msgid "Parent Theme Name"
+msgstr "Haupttheme Name"
+
+#: inc/system-info.php:2070
+msgid "Parent Theme Version"
+msgstr "Haupttheme Version"
+
+#: inc/system-info.php:2074
+#, php-format
+msgid "%s is available"
+msgstr "%s ist verfügbar"
+
+#: inc/system-info.php:2079
+msgid "Parent Theme Author URL"
+msgstr "Haupttheme Autor URL"
+
+#: inc/system-info.php:2086
+msgid "Active Plugins"
+msgstr "Aktive Plugins"
+
+#: inc/system-info.php:2093
+msgid "Author"
+msgstr "Autor"
+
+#: inc/system-info.php:2117
+msgid "Visit plugin homepage"
+msgstr "Plugin Homepage besuchen"
+
+#: inc/system-info.php:2140
+#, php-format
+msgctxt "Version info"
+msgid "%s is available"
+msgstr "%s ist verfügbar"
+
+#: inc/system-info.php:2144
+msgid "Network enabled"
+msgstr "Netzwerk aktiviert"
+
+#: inc/system-info.php:2150
+#, php-format
+msgctxt "by author"
+msgid "%s"
+msgstr "%s"
+
+#: wp-admin-theme-cd.php:112
+msgid "User Box"
+msgstr "Benutzer Box"
+
+#: wp-admin-theme-cd.php:113
+msgid "Company Box"
+msgstr "Unternehmens Box"
+
+#: wp-admin-theme-cd.php:114
+msgid "Company Box Logo"
+msgstr "Unternehmens Box Logo"
+
+#: wp-admin-theme-cd.php:115
+msgid "Company Box Logo Size"
+msgstr "Unternehmens Box Logo Größe"
+
+#: wp-admin-theme-cd.php:116
+msgid "Thumbnails"
+msgstr "Miniaturbilder"
+
+#: wp-admin-theme-cd.php:117
+msgid "Post/Page IDs"
+msgstr "Beiträge/Seiten IDs"
+
+#: wp-admin-theme-cd.php:118
+msgid "Contextual Help"
+msgstr "Kontexthilfe"
+
+#: wp-admin-theme-cd.php:119
+msgid "Screen Options"
+msgstr "Anzeigeoptionen"
+
+#: wp-admin-theme-cd.php:120
+msgid "Spacing"
+msgstr "Zwischenraum"
+
+#: wp-admin-theme-cd.php:121
+msgid "Spacing Max Width"
+msgstr "Maximale Breite"
+
+#: wp-admin-theme-cd.php:122
+msgid "Credits"
+msgstr "Credits"
+
+#: wp-admin-theme-cd.php:123
+msgid "Custom Web Font"
+msgstr "Benutzerdefinierte Web Schrift"
+
+#: wp-admin-theme-cd.php:124
+msgid "Custom Web Font Weight"
+msgstr "Benutzerdefinierte Web Schrift-Stärke"
+
+#: wp-admin-theme-cd.php:125 wp-admin-theme-cd.php:496
+msgid "Toolbar"
+msgstr "Toolbar"
+
+#: wp-admin-theme-cd.php:126
+msgid "Toolbar Comments Menu"
+msgstr "Toolbar Kommentar-Menü"
+
+#: wp-admin-theme-cd.php:127
+msgid "Toolbar New Content Menu"
+msgstr "Toolbar Neuer Inhalt Menü"
+
+#: wp-admin-theme-cd.php:128
+msgid "Toolbar Customize Link"
+msgstr "Toolbar Anpassen Link"
+
+#: wp-admin-theme-cd.php:129
+msgid "Toolbar Search"
+msgstr "Toolbar Suche"
+
+#: wp-admin-theme-cd.php:130
+msgid "Toolbar WP Icon"
+msgstr "Toolbar WP Icon"
+
+#: wp-admin-theme-cd.php:131
+msgid "Custom Toolbar Icon"
+msgstr "Benutzerdefiniertes Toolbar Icon"
+
+#: wp-admin-theme-cd.php:132
+msgid "Theme Color"
+msgstr "Theme Farben"
+
+#: wp-admin-theme-cd.php:133
+msgid "Background Gradient Start Color"
+msgstr "Hintergrundverlauf Startfarbe"
+
+#: wp-admin-theme-cd.php:134
+msgid "Background Gradient End Color"
+msgstr "Hintergrundverlauf Endfarbe"
+
+#: wp-admin-theme-cd.php:135
+msgid "Customized Login Page"
+msgstr "Benutzerdefinierte Login Seite"
+
+#: wp-admin-theme-cd.php:136
+msgid "Login Title"
+msgstr "Login Titel"
+
+#: wp-admin-theme-cd.php:137
+msgid "Login Logo"
+msgstr "Login Logo"
+
+#: wp-admin-theme-cd.php:138
+msgid "Login Logo Size"
+msgstr "Login Logo Größe"
+
+#: wp-admin-theme-cd.php:139
+msgid "Login Background Image"
+msgstr "Login Hintergrundbild"
+
+#: wp-admin-theme-cd.php:140 wp-admin-theme-cd.php:2809
+msgid "Memory Usage"
+msgstr "Speichernutzung"
+
+#: wp-admin-theme-cd.php:141 wp-admin-theme-cd.php:2826
+#: wp-admin-theme-cd.php:2828
+msgid "WP Memory Limit"
+msgstr "WP Speicher-Limit"
+
+#: wp-admin-theme-cd.php:142 wp-admin-theme-cd.php:2839
+#: wp-admin-theme-cd.php:2841
+msgid "Memory Available"
+msgstr "Speicher verfügbar"
+
+#: wp-admin-theme-cd.php:146
+msgid "WP Admin CSS"
+msgstr "WP Admin CSS"
+
+#: wp-admin-theme-cd.php:147
+msgid "WP Login CSS"
+msgstr "WP Login CSS"
+
+#: wp-admin-theme-cd.php:148
+msgid "SVG Support"
+msgstr "SVG Unterstützung"
+
+#: wp-admin-theme-cd.php:149
+msgid "ICO Support"
+msgstr "ICO Unterstützung"
+
+#: wp-admin-theme-cd.php:150
+msgid "WPAT System Info Page"
+msgstr "WPAT System Info Seite"
+
+#: wp-admin-theme-cd.php:151
+msgid "WPAT Im- / Export Page"
+msgstr "WPAT Im- / Export Seite"
+
+#: wp-admin-theme-cd.php:152
+msgid "WPAT Multisite Sync Page"
+msgstr "WPAT Multisite Sync Seite"
+
+#: wp-admin-theme-cd.php:153
+msgid "Network Theme Options"
+msgstr "Netzwerk Theme Optionen"
+
+#: wp-admin-theme-cd.php:154
+msgid "WP Version Meta-Tag"
+msgstr "WP Version Meta-Tag"
+
+#: wp-admin-theme-cd.php:155
+msgid "WP Emoji"
+msgstr "WP Emoji"
+
+#: wp-admin-theme-cd.php:156
+msgid "WP RSS Feed"
+msgstr "WP RSS Feed"
+
+#: wp-admin-theme-cd.php:157
+msgid "WP RSD"
+msgstr "WP RSD"
+
+#: wp-admin-theme-cd.php:158
+msgid "WP Wlwmanifest"
+msgstr "WP Wlwmanifest"
+
+#: wp-admin-theme-cd.php:159
+msgid "WP Shortlink"
+msgstr "WP Shortlink"
+
+#: wp-admin-theme-cd.php:160
+msgid "WP REST API"
+msgstr "WP REST API"
+
+#: wp-admin-theme-cd.php:161
+msgid "WP oEmbed"
+msgstr "WP oEmbed"
+
+#: wp-admin-theme-cd.php:162
+msgid "WP XML-RPC / X-Pingback"
+msgstr "WP XML-RPC / X-Pingback"
+
+#: wp-admin-theme-cd.php:163
+msgid "WP Heartbeat"
+msgstr "WP Heartbeat"
+
+#: wp-admin-theme-cd.php:164
+msgid "WP Rel Links"
+msgstr "WP Rel Links"
+
+#: wp-admin-theme-cd.php:165
+msgid "WP Self Pingbacks"
+msgstr "WP Self Pingbacks"
+
+#: wp-admin-theme-cd.php:166
+msgid "Meta Referrer Policy"
+msgstr "Meta Referrer Policy"
+
+#: wp-admin-theme-cd.php:167
+msgid "Custom Fields Meta Box"
+msgstr "Benutzerdefinierte Felder Meta Box"
+
+#: wp-admin-theme-cd.php:168
+msgid "Comments Status Meta Box"
+msgstr "Kommentarstatus Meta Box"
+
+#: wp-admin-theme-cd.php:169
+msgid "Comments Meta Box"
+msgstr "Kommentare Meta Box"
+
+#: wp-admin-theme-cd.php:170
+msgid "Author Meta Box"
+msgstr "Autor Meta Box"
+
+#: wp-admin-theme-cd.php:171
+msgid "Categories Meta Box"
+msgstr "Kategorien Meta Box"
+
+#: wp-admin-theme-cd.php:172
+msgid "Post Format Meta Box"
+msgstr "Post Format Meta Box"
+
+#: wp-admin-theme-cd.php:173
+msgid "Page Parent Meta Box"
+msgstr "Seiteneltern Meta Box"
+
+#: wp-admin-theme-cd.php:174
+msgid "Post Excerpt Meta Box"
+msgstr "Beitragsauszug Meta Box"
+
+#: wp-admin-theme-cd.php:175
+msgid "Post Image Meta Box"
+msgstr "Beitragsbild Meta Box"
+
+#: wp-admin-theme-cd.php:176
+msgid "Revisions Meta Box"
+msgstr "Revisionen Meta Box"
+
+#: wp-admin-theme-cd.php:177
+msgid "Slug Meta Box"
+msgstr "Slug Meta Box"
+
+#: wp-admin-theme-cd.php:178
+msgid "Tags Meta Box"
+msgstr "Schlagwörter Meta Box"
+
+#: wp-admin-theme-cd.php:179
+msgid "Trackbacks Meta Box"
+msgstr "Trackbacks Meta Box"
+
+#: wp-admin-theme-cd.php:180
+msgid "Qick Draft Widget"
+msgstr "Schnell-Entwurf Widget"
+
+#: wp-admin-theme-cd.php:181
+msgid "At the Glance Widget"
+msgstr "Im Überblick Widget"
+
+#: wp-admin-theme-cd.php:182
+msgid "Activity Widget"
+msgstr "Aktivitäten Widget"
+
+#: wp-admin-theme-cd.php:183
+msgid "WP Events & News Widget"
+msgstr "WP Veranstaltungen & News Widget"
+
+#: wp-admin-theme-cd.php:184
+msgid "Welcome Widget"
+msgstr "Willkommen Widget"
+
+#: wp-admin-theme-cd.php:185
+msgid "WPAT User Activities Widget"
+msgstr "WPAT Benutzer Aktivitäten Widget"
+
+#: wp-admin-theme-cd.php:186
+msgid "WPAT System Info Widget"
+msgstr "WPAT System Info Widget"
+
+#: wp-admin-theme-cd.php:187
+msgid "WPAT Post Count Widget"
+msgstr "WPAT Beitragsanzahl Widget"
+
+#: wp-admin-theme-cd.php:188
+msgid "WPAT Page Count Widget"
+msgstr "WPAT Seitenanzahl Widget"
+
+#: wp-admin-theme-cd.php:189
+msgid "WPAT Comment Count Widget"
+msgstr "WPAT Kommentaranzahl Widget"
+
+#: wp-admin-theme-cd.php:190
+msgid "WPAT Recent Posts Widget"
+msgstr "WPAT Neuste Beiträge Widget"
+
+#: wp-admin-theme-cd.php:191
+msgid "WPAT Recent Pages Widget"
+msgstr "WPAT Neuste Seiten Widget"
+
+#: wp-admin-theme-cd.php:192
+msgid "WPAT Recent Comments Widget"
+msgstr "WPAT Neuste Kommentare Widget"
+
+#: wp-admin-theme-cd.php:193
+msgid "WPAT Memory Usage Widget"
+msgstr "WPAT Speicherauslastung Widget"
+
+#: wp-admin-theme-cd.php:194
+msgid "Pages Widget"
+msgstr "Seiten Widget"
+
+#: wp-admin-theme-cd.php:195
+msgid "Calendar Widget"
+msgstr "Kalender Widget"
+
+#: wp-admin-theme-cd.php:196
+msgid "Archives Widget"
+msgstr "Archiv Widget"
+
+#: wp-admin-theme-cd.php:197
+msgid "Meta Widget"
+msgstr "Meta Widget"
+
+#: wp-admin-theme-cd.php:198
+msgid "Search Widget"
+msgstr "Such Widget"
+
+#: wp-admin-theme-cd.php:199
+msgid "Text Widget"
+msgstr "Text Widget"
+
+#: wp-admin-theme-cd.php:200
+msgid "Categories Widget"
+msgstr "Kategorien Widget"
+
+#: wp-admin-theme-cd.php:201
+msgid "Recent Posts Widget"
+msgstr "Neuste Beiträge Widget"
+
+#: wp-admin-theme-cd.php:202
+msgid "Recent Comments Widget"
+msgstr "Neuste Kommentare Widget"
+
+#: wp-admin-theme-cd.php:203
+msgid "RSS Widget"
+msgstr "RSS Widget"
+
+#: wp-admin-theme-cd.php:204
+msgid "Tag Cloud Widget"
+msgstr "Schlagwortwolke Widget"
+
+#: wp-admin-theme-cd.php:205
+msgid "Navigation Menu Widget"
+msgstr "Navigations Menü Widget"
+
+#: wp-admin-theme-cd.php:206
+msgid "Image Widget"
+msgstr "Bild Widget"
+
+#: wp-admin-theme-cd.php:207
+msgid "Audio Widget"
+msgstr "Audio Widget"
+
+#: wp-admin-theme-cd.php:208
+msgid "Video Widget"
+msgstr "Video Widget"
+
+#: wp-admin-theme-cd.php:209
+msgid "Gallery Widget"
+msgstr "Galerie Widget"
+
+#: wp-admin-theme-cd.php:210
+msgid "Custom HTML Widget"
+msgstr "Benutzerdefiniertes HTML Widget"
+
+#: wp-admin-theme-cd.php:337
+msgid "Remove the WordPress Version Meta-Tag from wp head."
+msgstr "Entferne das WordPress Version Meta-Tag vom wp head."
+
+#: wp-admin-theme-cd.php:338
+msgid ""
+"Show the version number of your currently installed WordPress in the source "
+"code."
+msgstr ""
+"Zeigt die Versionsnummer vom aktuell installierten WordPress im Quellcode an."
+
+#: wp-admin-theme-cd.php:342
+msgid "Remove the WordPress Emoticons from your source code."
+msgstr "Entferne die WordPress Emoticons vom Quellcode."
+
+#: wp-admin-theme-cd.php:343
+msgid "Display a textual portrayals like \";-)\" as a emoticon icon."
+msgstr "Zeigt Textzeichen wie \";-)\" als ein Emoticon Icon an."
+
+#: wp-admin-theme-cd.php:347
+msgid ""
+"Disable the RSS feed functionality and remove the WordPress page and "
+"comments RSS feed links from wp head."
+msgstr ""
+"Deaktiviere die RSS-Feed-Funktionalität und entferne die WordPress-Seiten "
+"und Kommentar RSS-Feed Links von wp head."
+
+#: wp-admin-theme-cd.php:348
+msgid ""
+"RSS (Really Simple Syndication) is a type of web feed which allows users to "
+"access updates to online content in a standardized, computer-readable format."
+msgstr ""
+"RSS (Really Simple Syndication) ist eine Art von Web-Feed, welcher es "
+"Benutzern ermöglicht auf aktualisierte Online-Inhalte in einem "
+"standardisierten, computerlesbaren Format zuzugreifen."
+
+#: wp-admin-theme-cd.php:352
+msgid "Remove the RSD link from wp head."
+msgstr "Entferne den RSD Link vom wp head."
+
+#: wp-admin-theme-cd.php:353
+msgid ""
+"Really Simple Discovery (RSD) is an XML format and a publishing convention "
+"for making services exposed by a blog, or other web software, discoverable "
+"by client software."
+msgstr ""
+"Really Simple Discovery (RSD) ist ein XML Format, welches für die "
+"Bereitstellung von Diensten, die von einem Blog oder einer anderen Web-"
+"Software benötigt werden."
+
+#: wp-admin-theme-cd.php:357
+msgid "Remove the Wlwmanifest link from wp head."
+msgstr "Entferne den Wlwmanifest Link vom wp head."
+
+#: wp-admin-theme-cd.php:358
+msgid "Needed to enable tagging support for Windows Live Writer."
+msgstr ""
+"Erforderlich, um Tagging-Unterstützung für Windows Live Writer zu aktivieren."
+
+#: wp-admin-theme-cd.php:362
+msgid "Remove the shortlink link from wp head."
+msgstr "Entferne den Shortlink Link vom wp head."
+
+#: wp-admin-theme-cd.php:363
+msgid "Shortlink is a shorten version of a web page’s URL."
+msgstr "Ein Shortlink ist eine kurze Version einer Webseiten-URL."
+
+#: wp-admin-theme-cd.php:367
+msgid "Disable the REST API and remove the wp json link from wp head."
+msgstr "Deaktiviere die REST API und entferne den wp json Link vom wp head."
+
+#: wp-admin-theme-cd.php:368
+msgid ""
+"The API makes it super easy to retrieve data using GET requests, which is "
+"useful for those building apps with WordPress."
+msgstr ""
+"Die API macht es super einfach, Daten mit GET-Anfragen abzurufen, was für "
+"die Erstellung von Anwendungen, die mit WordPress arbeiten, nützlich ist."
+
+#: wp-admin-theme-cd.php:372
+msgid "Disable wp embed and remove the oEmbed links from wp head."
+msgstr "Deaktiviere wp Embed und entferne die oEmbed Links vom wp head."
+
+#: wp-admin-theme-cd.php:373
+msgid ""
+"oEmbed feature which allows others to embed your WordPress posts into their "
+"own site by adding the post URL."
+msgstr ""
+"Die oEmbed-Funktion ermöglicht es anderen, fremde WordPress-Beiträge in ihre "
+"eigene Website einzubetten, indem sie die Post-URL hinzufügen."
+
+#: wp-admin-theme-cd.php:377
+msgid "Disable remote access."
+msgstr "Deaktiviere Remote-Zugriff."
+
+#: wp-admin-theme-cd.php:378
+msgid ""
+"XML-RPC is a remote procedure call which uses XML to encode its calls and "
+"HTTP as a transport mechanism. If you want to access and publish to your "
+"blog remotely, then you need XML-RPC enabled. XML-RPC protocol is used by "
+"WordPress as API for Pingbacks and third-party applications, such as mobile "
+"apps, inter-blog communication and popular plugins like JetPack."
+msgstr ""
+"XML-RPC ist ein Remoteprozeduraufruf, der XML verwendet, um seine Anrufe und "
+"HTTP als Transportmechanismus zu kodieren. Wenn du auf deinem Blog remote "
+"zugreifen und sie veröffentlichen möchtest, muss XML-RPC aktiviert sein. XML-"
+"RPC-Protokoll wird von WordPress als API für Pingbacks und "
+"Drittanbieteranwendungen wie mobile Apps, Inter-Blog-Kommunikation und "
+"beliebte Plugins wie JetPack verwendet."
+
+#: wp-admin-theme-cd.php:382
+msgid "Stop the heartbeat updates."
+msgstr "Stoppe Heartbeat Updates."
+
+#: wp-admin-theme-cd.php:383
+msgid ""
+"The Heartbeat API is a simple server polling API built in to WordPress, "
+"allowing near-real-time frontend updates. The heartbeat API allows for "
+"regular communication between the users browser and the server. One of the "
+"original motivations was to allow for locking posts and warning users when "
+"more than one user is attempting to edit a post, or warning the user when "
+"their log-in has expired."
+msgstr ""
+"Die Heartbeat-API ist eine einfache Server-Polling-API, die in WordPress "
+"integriert ist und so Echtzeit-Frontend-Updates ermöglicht. Die Heartbeat-"
+"API ermöglicht eine regelmäßige Kommunikation zwischen dem Browser und dem "
+"Server. Einer der ursprünglichen Motivationen war, Warnmeldungen zuzulassen, "
+"wenn mehr als ein Benutzer versucht, einen Beitrag zu bearbeiten oder den "
+"Benutzer zu warnen, wenn seine Anmeldung abgelaufen ist."
+
+#: wp-admin-theme-cd.php:387
+msgid ""
+"Remove the post rel index / start / parent / prev / next links from wp head."
+msgstr ""
+"Entferne die Beitrags rel index / start / parent / prev / next links vom wp "
+"head."
+
+#: wp-admin-theme-cd.php:388
+msgid ""
+"This feature display the URL of the index, start, parent, previous and next "
+"post in the source code."
+msgstr ""
+"Diese Funktion zeigt die URL des Index-, Start-, Eltern-, vorherigen und "
+"nächsten Beitrags im Quellcode an."
+
+#: wp-admin-theme-cd.php:392
+msgid "Disable WordPress self pingbacks / trackbacks."
+msgstr "Deaktiviere WordPress self pingbacks / trackbacks."
+
+#: wp-admin-theme-cd.php:393
+msgid ""
+"This will allow you to disable self-pingbacks (messages and comments), which "
+"are linking back to your own blog."
+msgstr ""
+"Das erlaubt dir self-pingbacks (Nachrichten and Kommentare) zu deaktivieren, "
+"wenn sie zurück zu deiner eigenen Seite verlinken."
+
+#: wp-admin-theme-cd.php:397
+msgid "Add the meta referrer tag and select your value."
+msgstr "Fügen Sie das Metatag Referrer hinzu und wählen Sie Ihren Wert."
+
+#: wp-admin-theme-cd.php:398
+msgid ""
+"If you use SSL for your website, analytics tools like Google Analytics can "
+"not see the referrer by default. For example, if you select \"Origin\", your "
+"referrer will be visible again."
+msgstr ""
+"Wenn Sie SSL für Ihre Website verwenden, können Analysetools wie Google "
+"Analytics den Verweis standardmäßig nicht sehen. Wenn Sie beispielsweise "
+"\"Origin\" auswählen, wird Ihr Referrer wieder angezeigt."
+
+#: wp-admin-theme-cd.php:405
+msgid "Remove the Custom Fields Box for posts and pages."
+msgstr "Entferne die benutzerdefinierte Felder Box für Beiträge und Seiten."
+
+#: wp-admin-theme-cd.php:409
+msgid "Remove the Discussion Box for posts and pages."
+msgstr "Entferne die Diskussions Box für Beiträge und Seiten."
+
+#: wp-admin-theme-cd.php:413
+msgid "Remove the Comments Box for posts and pages."
+msgstr "Entferne die Kommentare Box für Beiträge und Seiten."
+
+#: wp-admin-theme-cd.php:417
+msgid "Remove the Author Box for posts and pages."
+msgstr "Entferne die Autor Box für Beiträge und Seiten."
+
+#: wp-admin-theme-cd.php:421
+msgid "Remove the Category Box for posts."
+msgstr "Entferne die Kategorie Box für Beiträge."
+
+#: wp-admin-theme-cd.php:425
+msgid "Remove the Post Format Box for posts."
+msgstr "Entferne die Post Format Box für Beiträge."
+
+#: wp-admin-theme-cd.php:429
+msgid "Remove the Page Attributes Box for pages."
+msgstr "Entferne die Seiten Attribute Box für Seiten."
+
+#: wp-admin-theme-cd.php:433
+msgid "Remove the Excerpt Box for posts."
+msgstr "Entferne die Auszug Box für Beiträge."
+
+#: wp-admin-theme-cd.php:437
+msgid "Remove the Featured Image Box for posts and pages."
+msgstr "Entferne die Bild Box für Beiträge und Seiten."
+
+#: wp-admin-theme-cd.php:441
+msgid "Remove the Revisions Box for posts and pages."
+msgstr "Entferne die Revisionen Box für Beiträge und Seiten."
+
+#: wp-admin-theme-cd.php:445
+msgid "Remove the Slug Box for posts and pages."
+msgstr "Entferne die Slug Box für Beiträge und Seiten."
+
+#: wp-admin-theme-cd.php:449
+msgid "Remove the Tags Box for posts."
+msgstr "Entferne die Schlagwörter Box für Beiträge."
+
+#: wp-admin-theme-cd.php:453
+msgid "Remove the Send Trackbacks Box for posts and pages."
+msgstr "Entferne die Trackbacks Box für Beiträge und Seiten."
+
+#: wp-admin-theme-cd.php:495
+msgid "Theme Options"
+msgstr "Theme Optionen"
+
+#: wp-admin-theme-cd.php:497
+msgid "Colors"
+msgstr "Farben"
+
+#: wp-admin-theme-cd.php:498
+msgid "Login Page"
+msgstr "Login Seite"
+
+#: wp-admin-theme-cd.php:499
+msgid "Footer"
+msgstr "Footer"
+
+#: wp-admin-theme-cd.php:500
+msgid "Custom CSS"
+msgstr "Benutzerdefiniertes CSS"
+
+#: wp-admin-theme-cd.php:501
+msgid "Media"
+msgstr "Medien"
+
+#: wp-admin-theme-cd.php:503
+msgid "Multisite"
+msgstr "Multisite"
+
+#: wp-admin-theme-cd.php:504
+msgid "Optimization & Security"
+msgstr "Optimierung & Sicherheit"
+
+#: wp-admin-theme-cd.php:505
+msgid "Meta Boxes"
+msgstr "Meta Boxen"
+
+#: wp-admin-theme-cd.php:506
+msgid "Dashboard Widgets"
+msgstr "Dashboard Widgets"
+
+#: wp-admin-theme-cd.php:507
+msgid "Widgets"
+msgstr "Widgets"
+
+#: wp-admin-theme-cd.php:523
+msgid "WP Admin Theme"
+msgstr "WP Admin Theme"
+
+#: wp-admin-theme-cd.php:523
+msgid "WPAT Options"
+msgstr "WPAT Optionen"
+
+#: wp-admin-theme-cd.php:548
+msgid "WP Admin Theme CD - Options"
+msgstr "WP Admin Theme CD - Optionen"
+
+#: wp-admin-theme-cd.php:548
+msgid "Current Blog ID"
+msgstr "Aktuelle Blog ID"
+
+#: wp-admin-theme-cd.php:550
+msgid ""
+"Speed up and modify your WordPress backend like a charm. This plugin is the "
+"central place to take WordPress design to the next level."
+msgstr ""
+"Beschleunigen und passen Sie das WordPress Backend wie durch Zauber an. "
+"Dieses Plugin ist der zentrale Ort um das WordPress Design auf die nächste "
+"Stufe zu heben."
+
+#: wp-admin-theme-cd.php:596
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: wp-admin-theme-cd.php:598
+msgid "You have no permissions to change this options!"
+msgstr "Du hast keine Berechtigungen um diese Optionen zu ändern!"
+
+#: wp-admin-theme-cd.php:603
+msgid "Restore all"
+msgstr "Wiederherstellen"
+
+#: wp-admin-theme-cd.php:647
+msgid "Background Gradient Color"
+msgstr "Hintergrundverlauf Farbe"
+
+#: wp-admin-theme-cd.php:884
+msgid "Invalid Color for"
+msgstr "Ungültiger Farbcode for"
+
+#: wp-admin-theme-cd.php:884
+msgid "Old values has been restored,"
+msgstr "Alte Felder wurden wiederhergestellt,"
+
+#: wp-admin-theme-cd.php:908
+msgid "has been updated."
+msgstr "wurde aktualisiert."
+
+#: wp-admin-theme-cd.php:917
+msgid "All fields has been restored."
+msgstr "Alle Felder wurden wiederhergestellt."
+
+#: wp-admin-theme-cd.php:924
+msgid "Settings saved."
+msgstr "Einstellungen gespeichert."
+
+#: wp-admin-theme-cd.php:1043 wp-admin-theme-cd.php:1117
+#: wp-admin-theme-cd.php:1138 wp-admin-theme-cd.php:1159
+#: wp-admin-theme-cd.php:1180 wp-admin-theme-cd.php:1242
+#: wp-admin-theme-cd.php:1294 wp-admin-theme-cd.php:1321
+#: wp-admin-theme-cd.php:1352 wp-admin-theme-cd.php:1383
+#: wp-admin-theme-cd.php:1414 wp-admin-theme-cd.php:1446
+#: wp-admin-theme-cd.php:1638 wp-admin-theme-cd.php:1659
+#: wp-admin-theme-cd.php:1680 wp-admin-theme-cd.php:1701
+#: wp-admin-theme-cd.php:1722 wp-admin-theme-cd.php:1743
+msgid "Hide"
+msgstr "Verstecken"
+
+#: wp-admin-theme-cd.php:1045
+msgid "Display the user avatar and name before the left wordpress admin menu"
+msgstr "Zeige Benutzerbild und Name vor dem linken WordPress Admin Menü an"
+
+#: wp-admin-theme-cd.php:1070 wp-admin-theme-cd.php:1786
+#: wp-admin-theme-cd.php:1807
+msgid "Enable"
+msgstr "Aktivieren"
+
+#: wp-admin-theme-cd.php:1072
+msgid ""
+"Show a company box with your logo instead of the user box. The user box must "
+"be visible"
+msgstr ""
+"Zeige eine Unternehmens Box mit deinem Logo, anstelle der Benutzer Box an. "
+"The Benutzer Box muss dafür sichtbar sein."
+
+#: wp-admin-theme-cd.php:1080
+msgid "Company Logo"
+msgstr "Unternehmens Logo"
+
+#: wp-admin-theme-cd.php:1082 wp-admin-theme-cd.php:1469
+#: wp-admin-theme-cd.php:1572 wp-admin-theme-cd.php:1606
+msgid "Upload Image"
+msgstr "Bild hochladen"
+
+#: wp-admin-theme-cd.php:1084 wp-admin-theme-cd.php:1574
+msgid "Logo Size"
+msgstr "Logo Größe"
+
+#: wp-admin-theme-cd.php:1119
+msgid ""
+"Display a thumbnail column before the title for post and page table lists"
+msgstr ""
+"Zeige eine Miniaturbild-Spalte für Beitrag und Seiten Tabellen Listen an"
+
+#: wp-admin-theme-cd.php:1140
+msgid "Display a IDs column for post and page table lists"
+msgstr "Zeige eine ID-Spalte für Beitrag und Seiten Tabellen Listen an"
+
+#: wp-admin-theme-cd.php:1161
+msgid "Hide the contextual help at the top right side"
+msgstr "Verstecke die Kontexthilfe auf der oberen rechten Seite."
+
+#: wp-admin-theme-cd.php:1182
+msgid "Hide the screen options at the top right side"
+msgstr "Verstecke die Ansichtsoptionen auf der oberen rechten Seite."
+
+#: wp-admin-theme-cd.php:1206 wp-admin-theme-cd.php:1532
+#: wp-admin-theme-cd.php:1841 wp-admin-theme-cd.php:1875
+#: wp-admin-theme-cd.php:1933 wp-admin-theme-cd.php:1962
+#: wp-admin-theme-cd.php:1998 wp-admin-theme-cd.php:2032
+msgid "Disable"
+msgstr "Deaktivieren"
+
+#: wp-admin-theme-cd.php:1208
+msgid "Remove the spacing around the backend block"
+msgstr "Entferne den Abstand um den Backend-Block herum"
+
+#: wp-admin-theme-cd.php:1217
+msgid "Max Width"
+msgstr "Maximale Breite"
+
+#: wp-admin-theme-cd.php:1244
+msgid "Remove the credits note from the footer"
+msgstr "Entferne die Credits-Erwähnung vom Footer"
+
+#: wp-admin-theme-cd.php:1257
+msgid "Font-Family"
+msgstr "Schrift-Familie"
+
+#: wp-admin-theme-cd.php:1261
+msgid "Font-Weight"
+msgstr "Schrift-Stärke"
+
+#: wp-admin-theme-cd.php:1263
+msgid ""
+"Embed a custom <a target=\"_blank\" href=\"https://fonts.google.com/"
+"\">Google Webfont</a> to your WordPress Admin"
+msgstr ""
+"Lade eine benutzerdefinierte <a target=\"_blank\" href=\"https://fonts."
+"google.com/\">Google Web-Schrift</a> in dein WordPress Admin"
+
+#: wp-admin-theme-cd.php:1272
+msgid ""
+"Please separate in Font-Name and Font-Weight like this example: [Font-Family "
+"= \"Roboto\"] and [Font-Weight = \"400,400i,700\"]"
+msgstr ""
+"Bitte trenne in Schrift-Namen und Schrift-Stärke, wie dieses Beispiel: "
+"[Schrift-Familie = \"Roboto\"] und [Schrift-Stärke = \"400,400i,700\"]"
+
+#: wp-admin-theme-cd.php:1296
+msgid "Remove the upper toolbar"
+msgstr "Entferne die obere Toolbar"
+
+#: wp-admin-theme-cd.php:1323
+msgid "Remove the WordPress Comments Menu from the upper toolbar"
+msgstr "Entferne das WordPress Kommentar-Menü von der oberen Toolbar"
+
+#: wp-admin-theme-cd.php:1354
+msgid "Remove the WordPress New Content Menu from the upper toolbar"
+msgstr "Entferne das WordPress Neuer Inhalt-Menü von der oberen Toolbar"
+
+#: wp-admin-theme-cd.php:1385
+msgid "Remove the WordPress Customize Link from the upper frontend toolbar"
+msgstr "Entferne den WordPress Anpassen Link von der oberen Frontend Toolbar"
+
+#: wp-admin-theme-cd.php:1416
+msgid "Remove the WordPress Search from the upper frontend toolbar"
+msgstr "Entferne die WordPress Suche von der oberen Frontend Toolbar"
+
+#: wp-admin-theme-cd.php:1448
+msgid "Remove the WordPress Menu and Icon from the upper toolbar"
+msgstr "Entferne das WordPress Menu und Icon von der oberen Toolbar"
+
+#: wp-admin-theme-cd.php:1478
+msgid "Upload a custom icon instead of the WordPress icon"
+msgstr "Lade ein benutzerdefiniertes Icon anstelle des WordPress Icons hoch"
+
+#: wp-admin-theme-cd.php:1480
+msgid "Recommended image size is 26 x 26px."
+msgstr "Empfohlene Bildgröße is 26 x 26px."
+
+#: wp-admin-theme-cd.php:1494
+msgid "Select your custom wp admin theme color. Default value is #4777CD"
+msgstr ""
+"Wähle eine benutzerdefinierte Farbe für das WP Admin Theme aus. Standard ist "
+"#4777CD"
+
+#: wp-admin-theme-cd.php:1504
+msgid "Start Color"
+msgstr "Start-Farbe"
+
+#: wp-admin-theme-cd.php:1508
+msgid "End Color"
+msgstr "End-Farbe"
+
+#: wp-admin-theme-cd.php:1510
+msgid ""
+"Select your custom wp admin theme background gradient color. Default start "
+"value is #545c63 and end value is #32373c"
+msgstr ""
+"Wähle deine benutzerdefinierte WP Admin Theme Hintergrundverlauf Farbe aus. "
+"Standard Start-Farbe ist #545c63 und End-Farbe ist #32373c"
+
+#: wp-admin-theme-cd.php:1534
+msgid ""
+"It is useful if you have an other login plugin installed. This is preventing "
+"conflicts with other plugins"
+msgstr ""
+"Es ist nützlich wenn du ein anderes Login Plugin installiert hast. Dies "
+"verhindert Konflikte mit anderen Plugins."
+
+#: wp-admin-theme-cd.php:1585
+msgid "Upload an image for your WordPress login page"
+msgstr "Lade ein Bild für deine WordPress Login Seite hoch"
+
+#: wp-admin-theme-cd.php:1615
+msgid "Upload a background image for your WordPress login page"
+msgstr "Lade ein Hintergrundbild für deine WordPress Login Seite hoch"
+
+#: wp-admin-theme-cd.php:1640
+msgid "Display the currently memory usage of your WordPress installation"
+msgstr "Zeige den aktuellen Speicherverbrauch deiner WordPress Installation an"
+
+#: wp-admin-theme-cd.php:1661
+msgid "Display the memory limit of your WordPress installation"
+msgstr "Zeige das Speicher-Limit deiner WordPress Installation an"
+
+#: wp-admin-theme-cd.php:1682
+msgid "Display the available server memory for your WordPress installation"
+msgstr ""
+"Zeige den verfügbaren Serverspeicher für deine WordPress Installation an"
+
+#: wp-admin-theme-cd.php:1703
+msgid "Display the PHP version of your server"
+msgstr "Zeige die PHP Version des Servers an"
+
+#: wp-admin-theme-cd.php:1724
+msgid "Display the IP address of your server"
+msgstr "Zeige die IP Adresse des Servers an"
+
+#: wp-admin-theme-cd.php:1745
+msgid "Display the installed WordPress version"
+msgstr "Zeige die installiere WordPress Version an"
+
+#: wp-admin-theme-cd.php:1756
+msgid ""
+"Add custom CSS for the Wordpress admin theme. To overwrite some classes, use "
+"\"!important\". Like this example \"border-right: 3px!important\""
+msgstr ""
+"Füge benutzerdefiniertes CSS für das WordPress Admin Theme hinzu. Um einige "
+"Klassen zu überschreiben, benutze \"!important\". Wie dieses Beispiel "
+"\"border-right: 3px!important\" zeigt"
+
+#: wp-admin-theme-cd.php:1767
+msgid ""
+"Add custom CSS for the Wordpress login page. To overwrite some classes, use "
+"\"!important\". Like this example \"border-right: 3px!important\""
+msgstr ""
+"Füge benutzerdefiniertes CSS für die WordPress Login Seite hinzu. Um einige "
+"Klassen zu überschreiben, benutze \"!important\". Wie dieses Beispiel "
+"\"border-right: 3px!important\" zeigt"
+
+#: wp-admin-theme-cd.php:1788
+msgid "Allow the upload of SVG files"
+msgstr "Erlaube den Upload von SVG Dateien"
+
+#: wp-admin-theme-cd.php:1809
+msgid "Allow the upload of ICO files"
+msgstr "Erlaube den Upload von ICO Dateien"
+
+#: wp-admin-theme-cd.php:1832 wp-admin-theme-cd.php:1836
+#: wp-admin-theme-cd.php:1928 wp-admin-theme-cd.php:1957
+#: wp-admin-theme-cd.php:1989 wp-admin-theme-cd.php:1993
+#: wp-admin-theme-cd.php:2027
+msgid "Removed"
+msgstr "Entfernt"
+
+#: wp-admin-theme-cd.php:1847 wp-admin-theme-cd.php:1880
+msgid "Activate multisite support for WordPress to use this option"
+msgstr ""
+"Aktiviere die Multisite Unterstützung für WordPress, um diese Option zu "
+"nutzen."
+
+#: wp-admin-theme-cd.php:1877
+msgid ""
+"Disable the permissions to change WP Admin Theme options for all other "
+"network sites"
+msgstr ""
+"Deaktiviere die Berechtigungen, um WP Admin Theme-Optionen für alle anderen "
+"Netzwerk-Sites zu ändern"
+
+#: wp-admin-theme-cd.php:2006
+msgid ""
+"System info dashboad widget can not be activated, if the plugin system info "
+"page is deactivated"
+msgstr ""
+"System Info Dashboad Widget kann nicht aktiviert werden, wenn die Plugin "
+"System Info Seite deaktiviert ist"
+
+#: wp-admin-theme-cd.php:2315 wp-admin-theme-cd.php:2518
+msgid "Home"
+msgstr "Home"
+
+#: wp-admin-theme-cd.php:2317
+msgid "My Sites"
+msgstr "Meine Webseiten"
+
+#: wp-admin-theme-cd.php:2319
+msgid "Logout"
+msgstr "Ausloggen"
+
+#: wp-admin-theme-cd.php:2481 wp-admin-theme-cd.php:2483
+msgid "Howdy"
+msgstr "Howdy"
+
+#: wp-admin-theme-cd.php:2515
+msgid "No image selected."
+msgstr "Kein Bild ausgewählt."
+
+#: wp-admin-theme-cd.php:2569
+msgid "Image"
+msgstr "Bild"
+
+#: wp-admin-theme-cd.php:2588
+msgid "No Thumbnail"
+msgstr "Kein Miniaturbild"
+
+#: wp-admin-theme-cd.php:2808
+msgid " of "
+msgstr "von"
+
+#: wp-admin-theme-cd.php:2812
+msgid " of"
+msgstr " von"
+
+#: wp-admin-theme-cd.php:2860 wp-admin-theme-cd.php:2862
+msgid "IP"
+msgstr "IP"
+
+#: wp-admin-theme-cd.php:2873 wp-admin-theme-cd.php:2875
+msgid "PHP"
+msgstr "PHP"
+
+#: wp-admin-theme-cd.php:2887 wp-admin-theme-cd.php:2889
+msgid "WP"
+msgstr "WP"
+
+#: wp-admin-theme-cd.php:2985
+msgid "No feed available, please visit our"
+msgstr "Kein Feed verfügbar, bitte besuche unsere"
+
+#: wp-admin-theme-cd.php:2985
+msgid "homepage"
+msgstr "Homepage"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Admin Theme CD"
+msgstr "WP Admin Theme CD"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.creative-dive.de"
+msgstr "http://www.creative-dive.de"
+
+#. Description of the plugin/theme
+msgid "A clean and modern WordPress Admin Theme."
+msgstr "A clean and modern WordPress Admin Theme."
+
+#. Author of the plugin/theme
+msgid "Martin Jost"
+msgstr "Martin Jost"
+
+#~ msgid "WP Login Page"
+#~ msgstr "WP Login Seite"
+
+#~ msgid "Logo"
+#~ msgstr "Logo"
+
+#~ msgid "Background Image"
+#~ msgstr "Hintergrundbild"
+
+#~ msgid "Footer Information"
+#~ msgstr "Footer Informationen"
+
+#~ msgid "Custom Stylesheets"
+#~ msgstr "Benutzerdefinierte Stylesheets"
+
+#~ msgid "Multisite Support"
+#~ msgstr "Multisite Unterstützung"
+
+#~ msgid "WP Optimization & Security"
+#~ msgstr "WP Optimierungen & Sicherheit"
+
+#~ msgid "Logo Size (Pixel)"
+#~ msgstr "Logo Größe (Pixel)"
+
+#~ msgid "Remove the WordPress Icon from the upper toolbar"
+#~ msgstr "Entferne das WordPress Icon aus der oberen Toolbar"
+
+#~ msgid "Remove the WordPress Version Meta-Tag from wp head"
+#~ msgstr "Entferne das WordPress Version Meta-Tag vom wp head"
+
+#~ msgid ""
+#~ "Disable the RSS feed functionality and remove the WordPress page and "
+#~ "comments RSS feed links from wp head"
+#~ msgstr ""
+#~ "Deaktiviere die RSS-Feed-Funktionalität und entferne die WordPress-Seiten "
+#~ "und Kommentar RSS-Feed Links von wp head"
+
+#~ msgid "WP Admin Im-/Export"
+#~ msgstr "WP Admin Im-/Export"
+
+#~ msgid "WP Admin Multisite Update"
+#~ msgstr "WP Admin Multisite Update"
+
+#~ msgid "Toolbar Custom Icon"
+#~ msgstr "Benutzerdefiniertes Toolbar Icon"
+
+#~ msgid "XML-RPC / X-Pingback"
+#~ msgstr "XML-RPC / X-Pingback"
+
+#~ msgid "Remove the WordPress page and comments RSS feed links from wp head"
+#~ msgstr ""
+#~ "Entferne die WordPress Seiten und Kommentar RSS Feed Links vom wp head"
+
+#~ msgid "Oops! That page can&rsquo;t be found."
+#~ msgstr "Hoppla! Diese Seite konnte nicht gefunden werden."
+
+#~ msgid ""
+#~ "It looks like nothing was found at this location. Maybe try a search?"
+#~ msgstr ""
+#~ "An diesem Ort konnte nichts gefunden werden. Möchtest du eine Suche "
+#~ "starten?"
+
+#~ msgid "Published by"
+#~ msgstr "Veröffentlicht von"
+
+#~ msgid "View all posts by %s"
+#~ msgstr "Zeige alle Beiträge von %s"
+
+#~ msgctxt "comments title"
+#~ msgid "One comment on &bdquo;%2$s&rdquo;"
+#~ msgid_plural "%1$s comments on &bdquo;%2$s&rdquo;"
+#~ msgstr[0] "Ein Kommentar zu \"%2$s\""
+#~ msgstr[1] "%1$s Kommentare zu \"%2$s\""
+
+#~ msgid "Comments are closed."
+#~ msgstr "Kommentare sind geschlossen."
+
+#~ msgid "Nothing Found"
+#~ msgstr "Nichts gefunden"
+
+#~ msgid ""
+#~ "Sorry, but nothing matched your search terms. Please try again with some "
+#~ "different keywords."
+#~ msgstr ""
+#~ "Es gibt keine passenden Suchergebnisse. Bitte versuchen Sie es mit "
+#~ "anderen Suchbegriffen."
+
+#~ msgid ""
+#~ "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+#~ "searching can help."
+#~ msgstr ""
+#~ "Es scheint dass wir das, was Sie suchen, nicht finden können. Vielleicht "
+#~ "hilft die Suchfunktion."
+
+#~ msgid "Read More"
+#~ msgstr "Weiterlesen"
+
+#~ msgid "Add widgets or disable the Footerbar by the theme settings."
+#~ msgstr ""
+#~ "Füge Widgets hinzu oder deaktiviere die Footerbar in den Theme-"
+#~ "Einstellungen."
+
+#~ msgid "Assign the footer menu to show menu items."
+#~ msgstr "Weise das Footer Menü zu um Menüpunkte anzuzeigen."
+
+#~ msgid "Page"
+#~ msgstr "Seite"
+
+#~ msgid "0 Views"
+#~ msgstr "0 Gesehen"
+
+#~ msgid "View"
+#~ msgstr "Gesehen"
+
+#~ msgid "Views"
+#~ msgstr "Gesehen"
+
+#~ msgid "Pin it"
+#~ msgstr "Pin it"
+
+#~ msgid "Archive by Category \"%s\""
+#~ msgstr "Archiv nach Kategorie \"%s\""
+
+#~ msgid "Search Results for \"%s\" Query"
+#~ msgstr "Suchergebnisse für \"%s\" Query"
+
+#~ msgid "Posts Tagged \"%s\""
+#~ msgstr "Beiträge mit Schlagwort \"%s\""
+
+#~ msgid "Articles Posted by %s"
+#~ msgstr "Beiträge veröffentlicht von %s"
+
+#~ msgid "Error 404"
+#~ msgstr "404 Fehlermeldung"
+
+#~ msgid "Page %s"
+#~ msgstr "Seite %s"
+
+#~ msgid "Comment Page %s"
+#~ msgstr "Kommentarseite %s"
+
+#~ msgid "No matches were found"
+#~ msgstr "Keine Übereinstimmung gefunden"
+
+#~ msgid ""
+#~ "This content is password protected. To view it please enter your password "
+#~ "below."
+#~ msgstr ""
+#~ "Dieser Inhalt ist Passwortgeschützt. Um den Inhalt zu sehen, musst du ein "
+#~ "Passwort eingeben."
+
+#~ msgid "Password"
+#~ msgstr "Passwort"
+
+#~ msgid "Enter"
+#~ msgstr "Bestätigen"
+
+#~ msgid "Assign the primary menu to show menu items."
+#~ msgstr "Weise das Hauptmenü zu um Menüpunkte anzuzeigen."
+
+#~ msgid "Next Image"
+#~ msgstr "Nächstes Bild"
+
+#~ msgid "Previous Image"
+#~ msgstr "Vorheriges Bild"
+
+#~ msgid "Share"
+#~ msgstr "Teilen"
+
+#~ msgid ""
+#~ "Published <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> at <a "
+#~ "href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in "
+#~ "<a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+#~ msgstr ""
+#~ "Veröffentlicht <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> "
+#~ "at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</"
+#~ "a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+
+#~ msgid ""
+#~ "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post "
+#~ "a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s"
+#~ "\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</"
+#~ "a>."
+#~ msgstr ""
+#~ "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment"
+#~ "\">Hinterlasse einen Kommentar</a> oder ein Trackback: <a class="
+#~ "\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel="
+#~ "\"trackback\">Trackback URL</a>."
+
+#~ msgid ""
+#~ "Comments are closed, but you can leave a trackback: <a class=\"trackback-"
+#~ "link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+#~ "\">Trackback URL</a>."
+#~ msgstr ""
+#~ "Die Kommentarfunktion ist deaktiviert, aber Sie können ein Trackback "
+#~ "hinterlassen: <a class=\\\"trackback-link\\\" href=\\\"%s\\\" title=\\"
+#~ "\"Trackback-URL für Ihren Beitrag\\\" rel=\\\"trackback\\\">Trackback-"
+#~ "URL</a>."
+
+#~ msgid ""
+#~ "Trackbacks are closed, but you can <a class=\"comment-link\" href="
+#~ "\"#respond\" title=\"Post a comment\">post a comment</a>."
+#~ msgstr ""
+#~ "Trackbacks sind nicht möglich aber du kannst einen <a class=\"comment-link"
+#~ "\" href=\"#respond\" title=\"Post a comment\">Kommentar hinterlassen</a>."
+
+#~ msgid "Both comments and trackbacks are currently closed."
+#~ msgstr ""
+#~ "Sowohl die Kommentarfunktion als auch die Trackbacks sind momentan "
+#~ "geschlossen."
+
+#~ msgid "Settings: Colors & Design"
+#~ msgstr "Einstellungen: Design & Farben"
+
+#~ msgid "Logo (colored)"
+#~ msgstr "Logo (farbig)"
+
+#~ msgid "Default color version."
+#~ msgstr "In der Standardfarbe."
+
+#~ msgid "Logo (white)"
+#~ msgstr "Logo (weiß)"
+
+#~ msgid "White color version."
+#~ msgstr "In weißer Farbe."
+
+#~ msgid "Logo for schema.org"
+#~ msgstr "Logo für schema.org"
+
+#~ msgid ""
+#~ "Needs for structured data by schema.org. Important: SVG file will not be "
+#~ "accepted! Also appears in the footer."
+#~ msgstr ""
+#~ "Wird benötigt für strukturierte Daten nach schema.org. Wichtig: SVG "
+#~ "Dateien werden nicht akzeptiert. Wird im Footer angezeigt."
+
+#~ msgid "Logo (colored) Width"
+#~ msgstr "Logo (farbig) Breite"
+
+#~ msgid "Width in Pixels."
+#~ msgstr "Breite in Pixeln."
+
+#~ msgid "Logo (white) Width"
+#~ msgstr "Logo (weiß) Breite"
+
+#~ msgid "Logo Width"
+#~ msgstr "Logo Breite"
+
+#~ msgid "Logo Width for mobile devices (optional)"
+#~ msgstr "Breite des Logos für mobile Endgeräte (optional)"
+
+#~ msgid ""
+#~ "You can setup an individual width for mobile devices. Width in Pixels."
+#~ msgstr ""
+#~ "Du kannst eine individuelle Breite für das Logo auf mobilen Endgeräten "
+#~ "festlegen. Breite in Pixeln."
+
+#~ msgid "Main Color"
+#~ msgstr "Standard-Farbe"
+
+#~ msgid "e.g. #222222"
+#~ msgstr "z.B. #222222"
+
+#~ msgid "Main Color (Second)"
+#~ msgstr "Standard-Farbe (2)"
+
+#~ msgid "e.g. #a29581"
+#~ msgstr "z.B. #a29581"
+
+#~ msgid "H1 Color"
+#~ msgstr "H1 Farbe"
+
+#~ msgid "e.g. #686868"
+#~ msgstr "z.B. #686868"
+
+#~ msgid "H2 Color"
+#~ msgstr "H2 Farbe"
+
+#~ msgid "Link Color"
+#~ msgstr "Farbe der Links"
+
+#~ msgid "e.g. #377fea"
+#~ msgstr "z.B. #377fea"
+
+#~ msgid "Like Button Color"
+#~ msgstr "Farbe des Like-Buttons"
+
+#~ msgid "e.g. #ec6055"
+#~ msgstr "z.B. #ec6055"
+
+#~ msgid "Rating Stars Color"
+#~ msgstr "Farbe der Bewertungssterne"
+
+#~ msgid "e.g. #edb867"
+#~ msgstr "z.B. #edb867"
+
+#~ msgid "Fonts"
+#~ msgstr "Schriften"
+
+#~ msgid "Font-Settings"
+#~ msgstr "Schrift-Einstellungen"
+
+#~ msgid ""
+#~ "Please note the following guidelines. Font familiy usage: e.g. <code>"
+#~ "\"Open+Sans\" or \"mrs-eaves\"</code>, for free spaces in Google "
+#~ "Webfonts, use <code>\"+\"</code> and for Typekit Webfonts <code>\"-\"</"
+#~ "code> instead. Font weight usage: e.g. <code>\"300\" or \"600\"</code>, "
+#~ "use only one value."
+#~ msgstr ""
+#~ "Bitte beachte die folgenden Richtlinien. Gib Font-Familien wie folgt an: "
+#~ "<code>\"Open+Sans\" or \"mrs-eaves\"</code>: Statt Leerzeichen im Name "
+#~ "für Google Webfonts, verwendest Du ein <code>\"+\"</code> und für Typekit "
+#~ "Webfonts verwendest Du ein <code>\"-\"</code>. Font-Stärken gibst du wie "
+#~ "folgt an: <code>\"300\" or \"600\"</code>. Verwende maximal eine davon!"
+
+#~ msgid "Define all Google Webfonts"
+#~ msgstr "Alle Google Webfonts festlegen"
+
+#~ msgid ""
+#~ "If you add new google web fonts, you have to separate the \"Font-Name\" "
+#~ "and \"Font-Weight\" in the following fields. The default font is Open "
+#~ "Sans. Here you can find all <a href=\"//fonts.google.com/\" target="
+#~ "\"_blank\">google fonts</a>. <b><u>Please do not enter Typekit fonts here!"
+#~ "</u></b>"
+#~ msgstr ""
+#~ "Wenn du neue Google Webfonts hinzufügen willst, musst du \"Font-Name\" "
+#~ "und \"Font-Weight\" in die folgenden Felder unterteilen. Die "
+#~ "Standardschrift ist Open Sand. Hier findest du alle <a href=\"//fonts."
+#~ "google.com/\" target=\"_blank\">Google Fonts</a>. <b><u>Bitte gib hier "
+#~ "keine Typekit Fonts ein!</u></b>"
+
+#~ msgid "Add new font"
+#~ msgstr "Neue Schrift hinzufügen"
+
+#~ msgid "Font-Name"
+#~ msgstr "Schrift-Name"
+
+#~ msgid "e.g. \"Open+Sans\" or \"Roboto\"."
+#~ msgstr "z.B. \"Open+Sans\" oder \"Roboto\"."
+
+#~ msgid "e.g. \"300,400,600,700,800\" or \"300i,400i\""
+#~ msgstr "z.B. \"300,400,600,700,800\" oder \"300i,400i\""
+
+#~ msgid "Main Font-Familiy"
+#~ msgstr "Standard Schrift-Familie"
+
+#~ msgid "Main Font-Weight"
+#~ msgstr "Standard Schrift-Stärke"
+
+#~ msgid "Menu Font-Familiy"
+#~ msgstr "Menü Schrift-Familie"
+
+#~ msgid "Menu Font-Weight"
+#~ msgstr "Menü Schrift-Stärke"
+
+#~ msgid "H1 Font-Familiy"
+#~ msgstr "H1 Schrift-Familie"
+
+#~ msgid "H1 Font-Weight"
+#~ msgstr "H1 Schrift-Stärke"
+
+#~ msgid "H2 Font-Familiy"
+#~ msgstr "H2 Schrift-Familie"
+
+#~ msgid "H2 Font-Weight"
+#~ msgstr "H2 Schrift-Stärke"
+
+#~ msgid "H3 Font-Familiy"
+#~ msgstr "H3 Schrift-Familie"
+
+#~ msgid "H3 Font-Weight"
+#~ msgstr "H3 Schrift-Stärke"
+
+#~ msgid "H4 Font-Familiy"
+#~ msgstr "H4 Schrift-Familie"
+
+#~ msgid "H4 Font-Weight"
+#~ msgstr "H4 Schrift-Stärke"
+
+#~ msgid "Activation of Adobe Typekit Webfonts"
+#~ msgstr "Aktivierung von Adobe Typekit Webfonts"
+
+#~ msgid ""
+#~ "After activating, you can embed the Typekit Webfonts. <b>Important</b>: "
+#~ "You can't define the fonts here. You can only do this in your Adobe "
+#~ "Typekit account!"
+#~ msgstr ""
+#~ "Nach Aktivierung kannst du Typekit Webfonts einbinden. <b>Wichtig</b>: Du "
+#~ "kannst die Schriften nicht hier definieren. Das musst du in deinem Adobe "
+#~ "Typekit Account tun!"
+
+#~ msgid "Activate"
+#~ msgstr "Aktivieren"
+
+#~ msgid "Deactivate"
+#~ msgstr "Deaktivieren"
+
+#~ msgid "Your Adobe Typekit Token"
+#~ msgstr "Dein Adobe Typekit Token"
+
+#~ msgid ""
+#~ "Insert your Adobe Typekit Token (Kit-ID). You have to be <a href=\"//"
+#~ "typekit.com\" target=\"_blank\">registered</a> to use the fonts from "
+#~ "Adobe Typekit."
+#~ msgstr ""
+#~ "Für hier den Adobe Typekit Token (Kit-ID) ein. Du musst dafür <a href=\"//"
+#~ "typekit.com\" target=\"_blank\">registriert</a> sein um Adobe Typekit "
+#~ "Schriften nutzen zu können."
+
+#~ msgid "Icons"
+#~ msgstr "Icons"
+
+#~ msgid "Favicon"
+#~ msgstr "Favicon"
+
+#~ msgid ""
+#~ "The icon which appears in the browser. Use \".ICO\" file format in 64 x "
+#~ "64 px."
+#~ msgstr ""
+#~ "Das Icon wird im Browser angezeigt. Nutze das \".ICO\" Dateiformat in 64 "
+#~ "x 64 px."
+
+#~ msgid "Apple Touch Icon Settings"
+#~ msgstr "Apple Touch Icon Einstellungen"
+
+#~ msgid "One size for all resolutions"
+#~ msgstr "Eine Größe für alle Auflösungen"
+
+#~ msgid "Individual icons for each specific resolution"
+#~ msgstr "Individuelle Icons für jede Auflösung"
+
+#~ msgid "Apple Touch Icon"
+#~ msgstr "Apple Touch Icon"
+
+#~ msgid ""
+#~ "Tipp: Use 180 x 180 px, It's the best way, when the icon will scaled "
+#~ "smaller."
+#~ msgstr ""
+#~ "Tipp: Nutze mind. 180 x 180 px. Es ist der beste Weg, wenn das Icon "
+#~ "kleiner skaliert wird."
+
+#~ msgid "76 x 76 px"
+#~ msgstr "76 x 76 px"
+
+#~ msgid "120 x 120 px"
+#~ msgstr "120 x 120 px"
+
+#~ msgid "152 x 152 px"
+#~ msgstr "152 x 152 px"
+
+#~ msgid "180 x 180 px"
+#~ msgstr "180 x 180 px"
+
+#~ msgid "404-Page"
+#~ msgstr "404-Seite"
+
+#~ msgid "Background-Image"
+#~ msgstr "Hintergrundbild"
+
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "Default is: \"Oops! That page can&#39;t be found.\""
+#~ msgstr ""
+#~ "Standardwert ist: \"Hoppla! Diese Seite kann nicht gefunden werden.\""
+
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#~ msgid ""
+#~ "Default is: \"It looks like nothing was found at this location. Maybe try "
+#~ "a search?\""
+#~ msgstr ""
+#~ "Standardwert ist: \"Wie es aussieht, wurde an dieser Stelle nichts "
+#~ "gefunden. Möchten Sie danach suchen?\""
+
+#~ msgid "Background"
+#~ msgstr "Hintergrund"
+
+#~ msgid "Site Image-Background"
+#~ msgstr "Hintergrundbild der Webseite"
+
+#~ msgid "Show an image background on every page."
+#~ msgstr "Zeige ein Hintergrundbild auf jeder Seite an."
+
+#~ msgid "Background Settings"
+#~ msgstr "Hintergrund Einstellungen"
+
+#~ msgid ""
+#~ "Here you can setup your background image. For more features please add "
+#~ "custom css styles to your child theme <code>style.css</code>."
+#~ msgstr ""
+#~ "Hier kannst du die Einstellungen für das Hintergrundbild festlegen. Für "
+#~ "mehr Optionen, füge bitte eigene CSS Klassen in die <code>style.css</"
+#~ "code> des Child-Themes ein."
+
+#~ msgid "Background-Size"
+#~ msgstr "Größe des Hintergrunds"
+
+#~ msgid "Normal"
+#~ msgstr "Normal"
+
+#~ msgid "Cover"
+#~ msgstr "Cover"
+
+#~ msgid "Contain"
+#~ msgstr "Contain"
+
+#~ msgid "Background-Repeat"
+#~ msgstr "Hintergrund-Wiederholung"
+
+#~ msgid "no-repeat"
+#~ msgstr "Nicht wiederholen"
+
+#~ msgid "repeat"
+#~ msgstr "Wiederholen"
+
+#~ msgid "repeat-x"
+#~ msgstr "Auf der X-Achse wiederholen"
+
+#~ msgid "repeat-y"
+#~ msgstr "Auf der Y-Achse wiederholen"
+
+#~ msgid "Background-Positions"
+#~ msgstr "Hintergrund-Positionen"
+
+#~ msgid ""
+#~ "Possible values for background position are <code>center</code>, "
+#~ "<code>top</code>, <code>right</code>, <code>bottom</code>, <code>left</"
+#~ "code> and e.g. <code>10%</code> or <code>10px</code>."
+#~ msgstr ""
+#~ "Mögliche Werte für den Hintergrund sind <code>center</code>, <code>top</"
+#~ "code>, <code>right</code>, <code>bottom</code>, <code>left</code> und z."
+#~ "B. <code>10%</code> oder <code>10px</code>."
+
+#~ msgid "Background-Position X"
+#~ msgstr "Hintergrund-Position auf der X-Achse"
+
+#~ msgid "Background-Position Y"
+#~ msgstr "Hintergrund-Position auf der Y-Achse"
+
+#~ msgid "Settings: Contact Section"
+#~ msgstr "Einstellungen: Kontaktbereich"
+
+#~ msgid "Contact Details"
+#~ msgstr "Kontaktdetails"
+
+#~ msgid "Do you want to display the section?"
+#~ msgstr "Willst du diesen Bereich anzeigen?"
+
+#~ msgid "Displayed after all content sections."
+#~ msgstr "Wird nach allen anderen Bereichen angezeigt."
+
+#~ msgid "Where it's displayed?"
+#~ msgstr "Wo wird es angezeigt?"
+
+#~ msgid "Only on Landingpages"
+#~ msgstr "Nur auf Landingpages"
+
+#~ msgid "On every page at the Footer"
+#~ msgstr "Auf jeder Seite im Footer"
+
+#~ msgid "Contact details"
+#~ msgstr "Kontaktdetails"
+
+#~ msgid "Add column"
+#~ msgstr "Spalte hinzufügen"
+
+#~ msgid "Icon-Name"
+#~ msgstr "Icon-Name"
+
+#~ msgid ""
+#~ "Here you can find <a href=\"//fontawesome.io/icons/\" target=\"_blank"
+#~ "\">all icons</a>. e.g. \"fa-phone\""
+#~ msgstr ""
+#~ "Hier findest du alle <a href=\"//fontawesome.io/icons/\" target=\"_blank"
+#~ "\">Icons</a>. z.B. \"fa-phone\""
+
+#~ msgid "Short title, e.g. \"Phone\"."
+#~ msgstr "Kurzer Titel, z.B. „Telefon“."
+
+#~ msgid "e.g. your phone number"
+#~ msgstr "z.B. deine Telefonnummer"
+
+#~ msgid "Google Maps"
+#~ msgstr "Google Maps"
+
+#~ msgid "Displayed after the contact section."
+#~ msgstr "Wird nach dem Kontaktbereich angezeigt."
+
+#~ msgid ""
+#~ "Nowhere, with the ecxeption of contact page, when the map is activated "
+#~ "there."
+#~ msgstr ""
+#~ "Nirgendwo, mit Ausnahme auf der Kontaktseite, wenn die Map dort aktiviert "
+#~ "ist."
+
+#~ msgid "Google Maps API Key"
+#~ msgstr "Google Maps API Schlüssel"
+
+#~ msgid ""
+#~ "You need a <a target=\"_blank\" href=\"https://developers.google.com/maps/"
+#~ "documentation/javascript/get-api-key\">Google Maps API Key</a> for embed "
+#~ "the map in your website. e.g. \"AIzaSyCEprRgdAfS753A ...\""
+#~ msgstr ""
+#~ "Du benötigst einen <a target=\"_blank\" href=\"https://developers.google."
+#~ "com/maps/documentation/javascript/get-api-key\">Google Maps API Key</a> "
+#~ "um eine Karte auf deiner Webseite anzuzeigen. z.B. "
+#~ "\"AIzaSyCEprRgdAfS753A ...\""
+
+#~ msgid "Map Zoom"
+#~ msgstr "Map Zoom"
+
+#~ msgid ""
+#~ "The custom zoom value is only used, when you have one location selected. "
+#~ "Default value is &#33;12&#33;."
+#~ msgstr ""
+#~ "Der benutzerdefinierte Zoom wird nur genutzt, wenn max. ein Ort "
+#~ "ausgewählt ist. Standardwert ist &#33;12&#33;."
+
+#~ msgid "Lightness Version"
+#~ msgstr "Helle Version"
+
+#~ msgid "Shows the map in a lightness version, instead in a colorful one."
+#~ msgstr "Zeigt eine heller Version der Karte, anstelle einer Bunten."
+
+#~ msgid "Info Window(s)"
+#~ msgstr "Info-Fenster"
+
+#~ msgid "Shows the info window(s) after clicking the map marker only."
+#~ msgstr ""
+#~ "Zeigt eine Info-Fenster nur dann wenn auf den Map-Marker geklickt wird."
+
+#~ msgid "Location(s)"
+#~ msgstr "Ort(e)"
+
+#~ msgid "Add a location"
+#~ msgstr "Ort hinzufügen"
+
+#~ msgid "Select your address"
+#~ msgstr "Wähle Deine Adresse aus"
+
+#~ msgid ""
+#~ "To set a map marker, enter your address in the following field and click "
+#~ "on the map."
+#~ msgstr ""
+#~ "Um ein Map-Marker zu setzen, gibt deine Adresse in das folgende Feld ein "
+#~ "und klicke dann auf die Karte."
+
+#~ msgid "Address"
+#~ msgstr "Adresse"
+
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgid "e-mail"
+#~ msgstr "E-Mail"
+
+#~ msgid "Open on Google Maps Link"
+#~ msgstr "Auf Google Maps öffnen (Link)"
+
+#~ msgid ""
+#~ "Visit https://www.google.de/maps/, click on the map and get the URL from "
+#~ "\"Share and embed\" function."
+#~ msgstr ""
+#~ "Besuche https://www.google.de/maps/, klicke auf die Karte und erhalten "
+#~ "die URL über die „Teilen und einbetten„ Funktion."
+
+#~ msgid "Settings: General"
+#~ msgstr "Einstellungen: Allgemein"
+
+#~ msgid "General"
+#~ msgstr "Allgemein "
+
+#~ msgid "Logo Overlay"
+#~ msgstr "Logo Overlay"
+
+#~ msgid "Shows a logo overlay while loading the site."
+#~ msgstr "Zeigt ein Logo Overlay während die Seite lädt."
+
+#~ msgid "Show"
+#~ msgstr "Anzeigen"
+
+#~ msgid "Search Icon"
+#~ msgstr "Such-Icon"
+
+#~ msgid "Shows the search icon at the right side of the main navigation."
+#~ msgstr "Zeigt das Such-Icon auf der rechten Seite der Hauptnavigation an."
+
+#~ msgid "Scroll to Top Button"
+#~ msgstr "Scroll to Top Button"
+
+#~ msgid "Shows a Scroll to Top Button at the bottom of the page."
+#~ msgstr ""
+#~ "Zeigt einen „Nach oben scrollen“ Button am unteren Ende der Seite an."
+
+#~ msgid "Topbar Settings"
+#~ msgstr "Einstellungen für die obere Leiste"
+
+#~ msgid ""
+#~ "Setup the Top Bar Options. You have to add a new menu at Appearance > "
+#~ "Menus, if you want to show a extra menu here."
+#~ msgstr ""
+#~ "Optionen für die Obere Leiste einstellen. Du musst ein neues Menu unter "
+#~ "Design > Menüs hinzufügen, wenn du ein extra Menü hier anzeigen willst."
+
+#~ msgid "Topbar"
+#~ msgstr "Obere Leiste"
+
+#~ msgid "Shows the topbar with breadcrumb and social profile icons."
+#~ msgstr "Zeige die obere Leiste mit Brotkrümel-Menü und Social-Profil Icons."
+
+#~ msgid "Top Menu"
+#~ msgstr "Oberes Menü"
+
+#~ msgid "Show the Top Menu instead of the breadcrumb or social profile icons."
+#~ msgstr ""
+#~ "Zeige das obere Menü anstelle des Brotkrümel-Menüs oder der Social-Profil "
+#~ "Icons."
+
+#~ msgid "Instead of Breadcrumb"
+#~ msgstr "Anstelle des Brotkrümel-Menüs"
+
+#~ msgid "Instead of Social Profile Icons"
+#~ msgstr "Anstelle der Social-Profil-Icons"
+
+#~ msgid "Thumbnail Stretching"
+#~ msgstr "Miniaturbild strecken"
+
+#~ msgid ""
+#~ "It is useful, if you want to stretch small width thumbnail images of post "
+#~ "listing to full width."
+#~ msgstr ""
+#~ "Das ist nützlich, wenn du Miniaturbilder mit geringer Breite, in der "
+#~ "Beitragslisten-Ansicht, auf volle Breite strecken möchtest."
+
+#~ msgid "Sticky Menu"
+#~ msgstr "Sticky Menü"
+
+#~ msgid "Disable the sticky menu on page scrolling down."
+#~ msgstr "Deaktiviere das festklebende Menü bei runter scrollen der Seite."
+
+#~ msgid "Author Bio."
+#~ msgstr "Autor Bio."
+
+#~ msgid "Shows the author section below the post."
+#~ msgstr "Zeige einen Autorenbereich unter dem Beitrag an."
+
+#~ msgid "Post Tags"
+#~ msgstr "Beitrags-Schlagwörter"
+
+#~ msgid "Shows the tags at bottom of post content."
+#~ msgstr "Zeigt Schlagwörter unter dem Beitrag an."
+
+#~ msgid "Post Meta"
+#~ msgstr "Beitrags-Meta"
+
+#~ msgid "Shows the post meta bar below the title."
+#~ msgstr "Zeigt die Beitrags-Meta-Leiste nach dem Titel an."
+
+#~ msgid "Like Button"
+#~ msgstr "Gefällt mir Button"
+
+#~ msgid "Shows a love button with like count."
+#~ msgstr "Zeigt einen Gefällt mir Button mit der Like-Anzahl an."
+
+#~ msgid "Post Rating"
+#~ msgstr "Beitragsbewertung"
+
+#~ msgid "Shows star rating with the score."
+#~ msgstr "Zeigt eine Sternebewertung mit einem Wert an."
+
+#~ msgid "Dropcap"
+#~ msgstr "Initial-Buchstabe"
+
+#~ msgid "Shows the first letter of posts as initial."
+#~ msgstr "Zeigt den ersten Buchstaben als Initiale an."
+
+#~ msgid "Related Posts"
+#~ msgstr "Verwandte Beiträge"
+
+#~ msgid "Shows related posts after the post content."
+#~ msgstr "Zeigt verwandte Beiträge nach dem Beitragsinhalt an."
+
+#~ msgid "Filtering for Related Posts"
+#~ msgstr "Filterung für verwandte Beiträge"
+
+#~ msgid "Filtered by Categories"
+#~ msgstr "nach Kategorien filtern"
+
+#~ msgid "Filtered by Tags"
+#~ msgstr "nach Schlagwörtern filtern"
+
+#~ msgid "Post Format exclude for Related Posts"
+#~ msgstr "Post Format ausschließen für Verwandte Beiträge."
+
+#~ msgid "Exclude specific post format types."
+#~ msgstr "Schließe spezielle Post Format Typen aus."
+
+#~ msgid "Video"
+#~ msgstr "Video"
+
+#~ msgid "Audio"
+#~ msgstr "Audio"
+
+#~ msgid "Quote"
+#~ msgstr "Zitat"
+
+#~ msgid "Link"
+#~ msgstr "Link"
+
+#~ msgid "Gallery"
+#~ msgstr "Galerie"
+
+#~ msgid "Archive / Categories"
+#~ msgstr "Archive / Kategorien"
+
+#~ msgid "Layout"
+#~ msgstr "Layout"
+
+#~ msgid "Choose the layout for the archive / category view."
+#~ msgstr "Wähle das Layout für die Archiv- / Kategorieanzeige aus."
+
+#~ msgid "Grid"
+#~ msgstr "Grid"
+
+#~ msgid "Masonry Grid"
+#~ msgstr "Masonry Grid"
+
+#~ msgid "Visual Left"
+#~ msgstr "Visuell Links"
+
+#~ msgid "Visual Right"
+#~ msgstr "Visuell Rechts"
+
+#~ msgid "Number of Columns"
+#~ msgstr "Anzahl der Spalten"
+
+#~ msgid ""
+#~ "Shows the Grid & Masonry Grid layout in the selected number of columns."
+#~ msgstr ""
+#~ "Zeigt das Grid & Masonry Grid Layout in der ausgewählten Anzahl der "
+#~ "Spalten an."
+
+#~ msgid "2"
+#~ msgstr "2"
+
+#~ msgid "3"
+#~ msgstr "3"
+
+#~ msgid "4"
+#~ msgstr "4"
+
+#~ msgid "Post per Page for Masonry Grid"
+#~ msgstr "Beiträge pro Seite für Masonry Grid"
+
+#~ msgid "Setup the post count for normal layout, at \"Settings > Reading\"!"
+#~ msgstr ""
+#~ "Für normales Layout, kannst Du die Beitragsanzahl unter „Einstellungen > "
+#~ "Lesen“ einstellen."
+
+#~ msgid "Double Width Masonry Element"
+#~ msgstr "Doppelt so breites Masonry Element"
+
+#~ msgid ""
+#~ "Show the first masonry element in double width. It's possible for 3 and 4 "
+#~ "column masonry grid."
+#~ msgstr ""
+#~ "Zeigt das erste Masonry Element in doppelter Breite an. Es ist für 3 und "
+#~ "4 Spalten möglich."
+
+#~ msgid "Post Meta Archiv"
+#~ msgstr "Beitrags Meta für Archive"
+
+#~ msgid ""
+#~ "Shows the post meta bar (Author, Category, Comments & Views) after the "
+#~ "title."
+#~ msgstr ""
+#~ "Zeigt die Post-Meta Leiste (Autor, Kategorie, Kommentare & Anzeigen) nach "
+#~ "dem Titel an."
+
+#~ msgid "Author Post Meta"
+#~ msgstr "Autor Beitrags-Meta"
+
+#~ msgid "Categories Post Meta"
+#~ msgstr "Kategorie Beitrags-Meta"
+
+#~ msgid "Comments Post Meta"
+#~ msgstr "Kommentar Beitrags-Meta"
+
+#~ msgid "Views Post Meta"
+#~ msgstr "Anzeigen Beitrags-Meta"
+
+#~ msgid "Extra Post Meta Boxes"
+#~ msgstr "Zusätzliche Meta-Boxen"
+
+#~ msgid ""
+#~ "You <u>can't</u> display all of the post meta boxes together. Please "
+#~ "select up to 4 boxes. Otherwise, layout problems may occur. The following "
+#~ "post meta boxes are extra to the default boxes and can be selected "
+#~ "instead of this."
+#~ msgstr ""
+#~ "Du kannst <u>nicht</u> alle Meta-Boxen zusammen anzeigen. Wähle bis zu 4 "
+#~ "Boxen gleichzeitig. Andernfalls könnte es zu Problemen mit dem Layout "
+#~ "kommen. Die folgenden Meta-Boxen sind zusätzlich und können anstelle der "
+#~ "Standard Meta-Boxen angezeigt werden."
+
+#~ msgid "Rating Post Meta"
+#~ msgstr "Bewertung Beitrags-Meta"
+
+#~ msgid "Like Post Meta"
+#~ msgstr "Likes Beitrags-Meta"
+
+#~ msgid "Sidebar"
+#~ msgstr "Sidebar"
+
+#~ msgid "Hide or show the sidebar on all posts and pages."
+#~ msgstr ""
+#~ "Verstecke oder zeige die Seitenleiste bei allen Beiträgen oder Seiten."
+
+#~ msgid "Sidebar Position"
+#~ msgstr "Sidebar Position"
+
+#~ msgid "Shows the sidebar on the left or right side."
+#~ msgstr "Zeigt die Seitenleiste auf der linken oder rechten Seite an."
+
+#~ msgid "Left"
+#~ msgstr "Links"
+
+#~ msgid "Right"
+#~ msgstr "Rechts"
+
+#~ msgid "Hide Sidebar for Archive / Category Pages only"
+#~ msgstr "Verstecke die Seitenleiste nur für Archiv / Kategorie Seiten"
+
+#~ msgid ""
+#~ "It is useful, if you want disable the sidebar only for archive and "
+#~ "category pages with selected masonry layout."
+#~ msgstr ""
+#~ "Das ist nützlich, wenn du die Seitenleiste nur für Archiv oder Kategorie "
+#~ "Seiten mit dem ausgewählten Masonry Grid Layout ausblenden willst."
+
+#~ msgid "Footerbar"
+#~ msgstr "Footerleiste"
+
+#~ msgid "Shows a Footerbar, which can include custom widgets."
+#~ msgstr ""
+#~ "Zeigt eine Footerbar an, welche beuntzerdefinierte Widgets erhalten kann."
+
+#~ msgid "Copyright"
+#~ msgstr "Copyright"
+
+#~ msgid "Shows a copyright line with owner details."
+#~ msgstr "Zeigt eine Copyright-Leiste mit Details zum Eigentümer an."
+
+#~ msgid "Year"
+#~ msgstr "Jahr"
+
+#~ msgid "Established year of the website or company."
+#~ msgstr "Etabliertes Jahr der Webseite oder des Unternehmens."
+
+#~ msgid "Name / Business Name"
+#~ msgstr "Name / Unternehmensname"
+
+#~ msgid "e.g. Mustermann Ltd."
+#~ msgstr "z.B. Mustermann GmbH"
+
+#~ msgid "EU Cookiebar"
+#~ msgstr "EU Cookiebar"
+
+#~ msgid "Activate the cookiebar"
+#~ msgstr "Aktiviere die Cookiebar"
+
+#~ msgid "Shows the EU cookie law bar at the bottom of the site."
+#~ msgstr "Zeigt die EU Cookie Bar am unteren Ende der Seite an."
+
+#~ msgid "Accept Button"
+#~ msgstr "Akzeptieren (Button)"
+
+#~ msgid "Shows an accept button."
+#~ msgstr "Zeigt einen Akzeptieren Button an."
+
+#~ msgid "Accept Button Label"
+#~ msgstr "Bezeichnung für Akzeptieren (Button)"
+
+#~ msgid "The label of the accept button."
+#~ msgstr "Die Beschriftung des Akzeptieren Buttons."
+
+#~ msgid "Cookiebar Message"
+#~ msgstr "Cookiebar Hinweistext"
+
+#~ msgid "The note of the cookiebar."
+#~ msgstr "Der Hinweis der in der Cookiebar angezeigt wird."
+
+#~ msgid "Privacy Policy Button"
+#~ msgstr "Datenschutz-Bestimmungen (Button)"
+
+#~ msgid "Shows a privacy policy button."
+#~ msgstr "Zeigt einen Datenschutzbestimmungen Button an."
+
+#~ msgid "Privacy Policy Button Label"
+#~ msgstr "Bezeichnung für Datenschutz-Bestimmungen (Button)"
+
+#~ msgid "The label of the privacy policy button."
+#~ msgstr "Die Beschriftung des Buttons."
+
+#~ msgid "Privacy Policy Button Link"
+#~ msgstr "Datenschutz-Bestimmungen (Link)"
+
+#~ msgid "The link to your privacy policy page."
+#~ msgstr "Der Link zur Datenschutz-Bestimmungen Seite."
+
+#~ msgid "Accept On Continue"
+#~ msgstr "Durch weitersurfen akzeptieren"
+
+#~ msgid ""
+#~ "Set to true to silently accept cookies when visitor moves to another "
+#~ "page, instead to click the accept button."
+#~ msgstr ""
+#~ "Wenn angeklickt, dann wird der Cookie automatisch akzeptiert, ohne einen "
+#~ "Button anzuklicken."
+
+#~ msgid "Accept On Scroll"
+#~ msgstr "Durch scrollen akzeptieren"
+
+#~ msgid "Set to true to accept cookies when visitor scrolls 200 pixels down."
+#~ msgstr ""
+#~ "Wenn angeklickt, wird die Cookie Bar ausgeblendet, wenn man 200 Pixel "
+#~ "nach unten geschellt hat."
+
+#~ msgid "Settings: Leading Area"
+#~ msgstr "Einstellungen: Führender Bereich"
+
+#~ msgid "Activate the Leading Area"
+#~ msgstr "Aktiviere den führenden Bereich"
+
+#~ msgid ""
+#~ "Shows a area (post carousel, ad banner, promo boxes or custom HTML) below "
+#~ "the main menu."
+#~ msgstr ""
+#~ "Zeigt einen Bereich (Beitrags-Carousel, Werbebanner, Promo Boxen oder "
+#~ "benutzerdefiniertes HTML) unterhalb des Hauptmenüs an."
+
+#~ msgid "Add a Leading Area"
+#~ msgstr "Einen führenden Bereich hinzufügen"
+
+#~ msgid "Add new"
+#~ msgstr "Neu hinzufügen"
+
+#~ msgid "Visibility"
+#~ msgstr "Sichtbarkeit"
+
+#~ msgid "Show different areas on specific or all sites."
+#~ msgstr "Zeige verschiedene Bereiche auf speziellen oder allen Seiten an."
+
+#~ msgid "On each site"
+#~ msgstr "Auf der gesamten Seite"
+
+#~ msgid "On each page"
+#~ msgstr "Auf jeder Seite"
+
+#~ msgid "On each post"
+#~ msgstr "Auf jedem Beitrag"
+
+#~ msgid "Only on front page"
+#~ msgstr "Nur auf der Startseite"
+
+#~ msgid "Only on specific pages"
+#~ msgstr "Nur auf speziellen Seiten"
+
+#~ msgid "Only on specific posts"
+#~ msgstr "Nur auf speziellen Beiträgen"
+
+#~ msgid "Position"
+#~ msgstr "Position"
+
+#~ msgid "Above the Header"
+#~ msgstr "Oberhalb des Headers"
+
+#~ msgid "Below the Header"
+#~ msgstr "Unterhalb des Headers"
+
+#~ msgid "Content"
+#~ msgstr "Inhalt"
+
+#~ msgid "What do you want to show here?"
+#~ msgstr "Was möchtest du hier zeigen?"
+
+#~ msgid "Post Carousel"
+#~ msgstr "Beitrags-Carousel"
+
+#~ msgid "Promo Boxes"
+#~ msgstr "Promo Boxen"
+
+#~ msgid "Random Ad Banner"
+#~ msgstr "Zufällige Werbebanner"
+
+#~ msgid "Custom HTML"
+#~ msgstr "Benutzerdefiniertes HTML"
+
+#~ msgid "Show only on this pages"
+#~ msgstr "Nur auf diesen Seiten anzeigen"
+
+#~ msgid "Show only on this posts"
+#~ msgstr "Nur auf diesen Beiträgen anzeigen"
+
+#~ msgid "Typ of Posts"
+#~ msgstr "Art der Beiträge"
+
+#~ msgid "Popular Posts"
+#~ msgstr "Beliebte Beiträge"
+
+#~ msgid "Most Liked Posts"
+#~ msgstr "Meist gelikte Beiträge"
+
+#~ msgid "Most Rated Posts"
+#~ msgstr "Meist bewertete Beiträge"
+
+#~ msgid "Most Commented Posts"
+#~ msgstr "Meist kommentierte Beiträge"
+
+#~ msgid "Selected Posts"
+#~ msgstr "Ausgewählte Beiträge"
+
+#~ msgid "Select your specific posts"
+#~ msgstr "Wähle deine speziellen beitrage aus"
+
+#~ msgid "Amount of Post Teaser"
+#~ msgstr "Menge der Beitrags-Teaser"
+
+#~ msgid "Label of Advertising"
+#~ msgstr "Werbekennzeichnung"
+
+#~ msgid "Add Banner"
+#~ msgstr "Banner hinzufügen"
+
+#~ msgid "Link (URL)"
+#~ msgstr "Link (URL)"
+
+#~ msgid "Column Count"
+#~ msgstr "Anzahl der Spalten"
+
+#~ msgid "One column"
+#~ msgstr "Eine Spalte"
+
+#~ msgid "Two columns"
+#~ msgstr "Zwei Spalten"
+
+#~ msgid "Three columns"
+#~ msgstr "Drei Spalten"
+
+#~ msgid "None"
+#~ msgstr "Nichts"
+
+#~ msgid "Internal"
+#~ msgstr "Intern"
+
+#~ msgid "External"
+#~ msgstr "Extern"
+
+#~ msgid "Link to"
+#~ msgstr "Verlinken zu"
+
+#~ msgid "Settings: PopUp Layer"
+#~ msgstr "Einstellungen: PopUp Layer"
+
+#~ msgid "Layer"
+#~ msgstr "Layer"
+
+#~ msgid ""
+#~ "Call PopUp Layers with their unique ID (e.g. <code>\"request\"</code>). "
+#~ "You can open the layer, by clicking buttons or links (e.g. <code>\"< a "
+#~ "href=\"#request\">Click me< /a ></code>)."
+#~ msgstr ""
+#~ "Rufe einen PopUp Layer durch seine eigene ID auf (z.B. <code>\"request\"</"
+#~ "code>). Du kann einen Layer über einen Klick auf einen Button oder Link "
+#~ "aufrufen (z.B. <code>\"< a href=\"#request\">Click me< /a ></code>)."
+
+#~ msgid "Add a layer"
+#~ msgstr "Layer hinzufügen"
+
+#~ msgid "The title of the popup layer."
+#~ msgstr "Der Titel des PopUp Layers."
+
+#~ msgid "The ID must be unique and can not match with other popup layers!"
+#~ msgstr ""
+#~ "Die ID muss einzigartig sein und darf nicht mit der ID anderer PopUp "
+#~ "Layer übereinstimmen!"
+
+#~ msgid "You can embed text or links (like information boxes or something)."
+#~ msgstr ""
+#~ "Du kannst Text oder Links hinzufügen (z.B. Informationsboxen oder "
+#~ "ähnliches)."
+
+#~ msgid "Add a form instead the content."
+#~ msgstr "Füge anstelle des Inhaltes ein Formular hinzu."
+
+#~ msgid ""
+#~ "You can add specific forms to this layer. Please, before add a form with "
+#~ "the contact form 7 plugin. After adding the form, you can insert the form "
+#~ "ID here, to show this at the layer."
+#~ msgstr ""
+#~ "Du kannst Formulare in Bayern anzeigen. Bitte erstelle zuvor ein Formular "
+#~ "mit dem Plugin Contact Form 7. Nach Erstellung des Formulars, kannst du "
+#~ "hier die Formular ID eingeben, um es hier anzuzeigen."
+
+#~ msgid "Form"
+#~ msgstr "Formular"
+
+#~ msgid ""
+#~ "If you activated the form, the above content box will replace instead."
+#~ msgstr ""
+#~ "Wenn du das Formular aktivierst, wird es anstelle des obigen Inhaltes "
+#~ "angezeigt."
+
+#~ msgid "Form ID"
+#~ msgstr "Formular ID"
+
+#~ msgid "The ID from your added \"contact form 7\" form."
+#~ msgstr "Die ID von deinem hinzugefügten Contact Form 7 Formular."
+
+#~ msgid "Settings: Social"
+#~ msgstr "Einstellungen: Social"
+
+#~ msgid "Settings"
+#~ msgstr "Einstellungen"
+
+#~ msgid "Social Profile Icons at Footer"
+#~ msgstr "Social Profil Icons im Footer"
+
+#~ msgid "Shows your social profile icons at the bottom of the page."
+#~ msgstr "Zeigt deine Social Network Profile am unteren Ende der Seite an."
+
+#~ msgid "Social Sharing Postbar"
+#~ msgstr "Social Sharing Beitragleiste"
+
+#~ msgid "Shows the social postbar at the bottom of post content."
+#~ msgstr "Zeigt eine Teilen-Leiste unter dem Beitrag an."
+
+#~ msgid "Social Sharing Sidebar"
+#~ msgstr "Social Sharing Seitenleiste"
+
+#~ msgid ""
+#~ "Shows a fixed social sharing sidebar in posts. (is visible by page "
+#~ "scrolling)"
+#~ msgstr ""
+#~ "Zeigt eine fixierte Teilen-Leiste neben den Beitrag an. (Ist währende des "
+#~ "Scrollens immer sichtbar)"
+
+#~ msgid "Social Sharing Sidebar Color"
+#~ msgstr "Farbe der Social Sharing Seitenleiste"
+
+#~ msgid "Shows the social icons in default color."
+#~ msgstr "Zeigt die Social Network Icons in der Standardfarbe an."
+
+#~ msgid "Light"
+#~ msgstr "Hell"
+
+#~ msgid "Colored"
+#~ msgstr "Eingefärbt"
+
+#~ msgid "Pin Button on Post Images"
+#~ msgstr "Pin Button für Beitragsbilder"
+
+#~ msgid "On mouseover the post image, the button appears."
+#~ msgstr "Bei Mouseover des Beitragsbildes, wird der Button angezeigt."
+
+#~ msgid "Your Social Profiles"
+#~ msgstr "Deine Social Profile"
+
+#~ msgid "Social Profiles"
+#~ msgstr "Social Profile"
+
+#~ msgid "Add a profil"
+#~ msgstr "Profil hinzufügen"
+
+#~ msgid "Your social profil URL."
+#~ msgstr "Deine URL zum social Profil."
+
+#~ msgid ""
+#~ "Here you can find <a href=\"//fontawesome.io/icons/\" target=\"_blank"
+#~ "\">all icons</a>. e.g. \"fa-facebook\""
+#~ msgstr ""
+#~ "Hier findest du alle <a href=\"//fontawesome.io/icons/\" target=\"_blank"
+#~ "\">Icons</a>. z.B. \"fa-facebook\""
+
+#~ msgid "Settings: Top Layer"
+#~ msgstr "Einstellungen: Top Layer"
+
+#~ msgid "Activate the top layer"
+#~ msgstr "Aktiviere den Top Layer"
+
+#~ msgid ""
+#~ "Shows a layer above the site. E.g. you can use this for a subscription "
+#~ "form."
+#~ msgstr ""
+#~ "Zeigt einen Layer oberhalb der Seite. z.B. kannst du hier ein "
+#~ "Anmeldeformular für deinen Newsletter anzeigen."
+
+#~ msgid "Add top layer"
+#~ msgstr "Top Layer hinzufügen"
+
+#~ msgid "Show different layers on specific pages."
+#~ msgstr "Zeige verschiedene Layer auf speziellen Seiten an."
+
+#~ msgid ""
+#~ "To display a particular font section larger, use the following shortcode: "
+#~ "[mark]larger[/mark]"
+#~ msgstr ""
+#~ "Um einen bestimmten Abschnitt des Textes größer darzustellen, nutze den "
+#~ "folgenden Shortcode : [mark]größer[/mark]"
+
+#~ msgid "Icon"
+#~ msgstr "Icon"
+
+#~ msgid "Call-to-Action"
+#~ msgstr "Call-to-Action"
+
+#~ msgid "Show nothing"
+#~ msgstr "Zeige nichts"
+
+#~ msgid "Show a button"
+#~ msgstr "Zeige einen Button"
+
+#~ msgid "Show a subscription form"
+#~ msgstr "Zeige einen Newsletter Anmeldeformular"
+
+#~ msgid "Subscription Form"
+#~ msgstr "Newsletter Anmeldeformular"
+
+#~ msgid "Add your MailChimp form id."
+#~ msgstr "Füge deine MailChimp Formular ID hinzu."
+
+#~ msgid "Buttons"
+#~ msgstr "Buttons"
+
+#~ msgid "Add button"
+#~ msgstr "Button hinzufügen"
+
+#~ msgid "The Link Text."
+#~ msgstr "Der Linktext."
+
+#~ msgid "Linktype"
+#~ msgstr "Typ des Links"
+
+#~ msgid "Select the type."
+#~ msgstr "Wähle den Typ aus."
+
+#~ msgid "Post"
+#~ msgstr "Beitrag"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Select your page."
+#~ msgstr "Wähle eine Seite aus."
+
+#~ msgid "Select your post."
+#~ msgstr "Wähle einen Beitrag aus."
+
+#~ msgid "Enter your URL."
+#~ msgstr "Gib eine URL ein."
+
+#~ msgid "Header"
+#~ msgstr "Header"
+
+#~ msgid "Header Settings"
+#~ msgstr "Header Einstellungen"
+
+#~ msgid "Sections"
+#~ msgstr "Bereiche"
+
+#~ msgid "Section Settings"
+#~ msgstr "Bereich Einstellungen"
+
+#~ msgid "Page: Categories"
+#~ msgstr "Seite: Kategorien"
+
+#~ msgid "Categories"
+#~ msgstr "Kategorien"
+
+#~ msgid "Show all categories"
+#~ msgstr "Zeige alle Kategorien"
+
+#~ msgid "Show specific categories"
+#~ msgstr "Zeige spezielle Kategorien"
+
+#~ msgid "1 Column"
+#~ msgstr "1 Spalte"
+
+#~ msgid "2 Columns"
+#~ msgstr "2 Spalten"
+
+#~ msgid "3 Columns"
+#~ msgstr "3 Spalten"
+
+#~ msgid "Description"
+#~ msgstr "Beschreibung"
+
+#~ msgid "Post Count"
+#~ msgstr "Anzahl der Beiträge"
+
+#~ msgid "Empty Categories"
+#~ msgstr "Leere Kategorien"
+
+#~ msgid "Exclude Categories"
+#~ msgstr "Kategorien auschließen"
+
+#~ msgid "Category ID separated with comma: e.g. 13,5,22"
+#~ msgstr "Die Kategorie ID mit Komma getrennt: z.B. 13,5,22"
+
+#~ msgid "Select Category"
+#~ msgstr "Kategorie auswählen"
+
+#~ msgid "Select all categories to be displayed."
+#~ msgstr "Alle Kategorien auswählen die angezeigt werden sollen."
+
+#~ msgid "Sidebar Settings"
+#~ msgstr "Sidebar Einstellungen"
+
+#~ msgid "Page: Classic"
+#~ msgstr "Seite: Klassisch"
+
+#~ msgid "Page: Contact"
+#~ msgstr "Seite: Kontakt"
+
+#~ msgid "Google Maps view on the left side of the form"
+#~ msgstr ""
+#~ "Google Maps auf der linken Seite neben dem Kontaktformular anzeigen."
+
+#~ msgid ""
+#~ "Please setup the map settings at \"Theme Settings > Contact > Google Maps"
+#~ "\"."
+#~ msgstr ""
+#~ "Bitte fülle zuvor die Map-Einstellungen aus \"Theme Einstellungen > "
+#~ "Kontakt > Google Maps\"."
+
+#~ msgid "Contact Person(s)"
+#~ msgstr "Kontakt Person(en)"
+
+#~ msgid "The title above the contact person."
+#~ msgstr "Der Title nach der Kontaktperson."
+
+#~ msgid "Contact Person"
+#~ msgstr "Kontaktperson"
+
+#~ msgid "Add an instructor"
+#~ msgstr "Dozent hinzufügen"
+
+#~ msgid "Name of the person."
+#~ msgstr "Name der Person."
+
+#~ msgid "e.g. occupational title"
+#~ msgstr "z.B. Berufsbezeichnung"
+
+#~ msgid "Photo of the person."
+#~ msgstr "Foto der Person."
+
+#~ msgid "Page: FAQ"
+#~ msgstr "Seite: FAQ"
+
+#~ msgid "FAQ Content"
+#~ msgstr "FAQ Inhalt"
+
+#~ msgid "Collapsing"
+#~ msgstr "Collapsing"
+
+#~ msgid "Defined by each question"
+#~ msgstr "Definiert durch jede einzelne Frage"
+
+#~ msgid "Collapse all"
+#~ msgstr "Alle einklappen"
+
+#~ msgid "Uncollapse all"
+#~ msgstr "Alle ausklappen"
+
+#~ msgid "Questions"
+#~ msgstr "Fragen"
+
+#~ msgid "Add new question"
+#~ msgstr "Neue Frage hinzufügen"
+
+#~ msgid "Question (Title)"
+#~ msgstr "Frage (Titel)"
+
+#~ msgid "Collapse"
+#~ msgstr "Einklappen"
+
+#~ msgid "Answer"
+#~ msgstr "Antwort"
+
+#~ msgid "Page: Filter"
+#~ msgstr "Seite: Filter"
+
+#~ msgid "Display of content"
+#~ msgstr "Anzeige des Inhalts"
+
+#~ msgid "Shows the content (title and text) of this page."
+#~ msgstr "Zeigt den Inhalt (Titel und Text( dieser Seite an."
+
+#~ msgid "Order of content"
+#~ msgstr "Reihenfolge des Inhalts"
+
+#~ msgid "Shows the content above or below the post listing."
+#~ msgstr "Zeigt den Inhalt vor oder nach der Auflistung der Beiträge an."
+
+#~ msgid "Above the Listing"
+#~ msgstr "Vor der Auflistung"
+
+#~ msgid "Below the Listing"
+#~ msgstr "Nach der Auflistung"
+
+#~ msgid "Choose the layout for the post listing view."
+#~ msgstr "Wähle das Layout für die Beitragslisten-Ansicht aus."
+
+#~ msgid "Like global settings"
+#~ msgstr "Wie in den globalen Einstellungen"
+
+#~ msgid "Filtered by selected posts"
+#~ msgstr "Gefiltert nach speziellen Beiträgen"
+
+#~ msgid "Filtered by post, which are inclued in the following categories"
+#~ msgstr ""
+#~ "Gefiltert nach Beiträgen, welche in den folgenden Kategorien enthalten "
+#~ "sind"
+
+#~ msgid "Filtered by post, which are inclued in the following tags"
+#~ msgstr ""
+#~ "Gefiltert nach Beiträgen, welche in den folgenden Schlagwörtern enthalten "
+#~ "sind"
+
+#~ msgid "Page: Grouped Posts"
+#~ msgstr "Seite: Gruppierte Beiträge"
+
+#~ msgid "Grouped Posts"
+#~ msgstr "Gruppierte Beiträge"
+
+#~ msgid "Post Group(s)"
+#~ msgstr "Beitragsgruppe(n)"
+
+#~ msgid "Headline"
+#~ msgstr "Überschrift"
+
+#~ msgid "Grouped by"
+#~ msgstr "Gruppiert nach"
+
+#~ msgid "All recent Posts"
+#~ msgstr "Allen neuen Beiträgen"
+
+#~ msgid "All recent Posts from Categories"
+#~ msgstr "Allen neuen Beiträgen nach Kategorien"
+
+#~ msgid "All recent Posts from Tags"
+#~ msgstr "Allen neuen Beiträgen nach Schlagwörtern"
+
+#~ msgid "Selected Posts from Categories"
+#~ msgstr "Ausgewählten Beiträgen nach Kategorien"
+
+#~ msgid "Selected Posts from Tags"
+#~ msgstr "Ausgewählten Beiträgen nach Schlagwörtern"
+
+#~ msgid "Selected by Posts"
+#~ msgstr "Ausgewählten Beiträgen"
+
+#~ msgid "Selected by Category"
+#~ msgstr "Ausgewählt nach Kategorie"
+
+#~ msgid "Selected by Tag"
+#~ msgstr "Ausgewählt nach Schlagwort"
+
+#~ msgid "Columns"
+#~ msgstr "Spalten"
+
+#~ msgid "4 Columns"
+#~ msgstr "4 Spalten"
+
+#~ msgid "Number of Posts"
+#~ msgstr "Anzahl der Beiträge"
+
+#~ msgid "Post Format exclude"
+#~ msgstr "Post Format ausschließen"
+
+#~ msgid "Page: Landingpage"
+#~ msgstr "Seite: Landingpage"
+
+#~ msgid "Scrollmenu"
+#~ msgstr "ScrollmenÜ"
+
+#~ msgid "Menu-Items"
+#~ msgstr "Menüpunkte"
+
+#~ msgid ""
+#~ "Each content section have an own ID (Link to) + a consecutive number "
+#~ "(Number). With the ecxeption of \"header\" and \"contact\". The number is "
+#~ "depends from the order of the content sections. You can see the number in "
+#~ "the source code. For more information, look at the documentation."
+#~ msgstr ""
+#~ "Jeder Inhaltsbereich hat eine eigene ID (Verlinken zu) + eine "
+#~ "fortlaufende Nummer (Nummer). Mit Ausnahme vom „Header“ und "
+#~ "„Kontaktbereich“. Die Nummer ist abhängig von der Reihenfolge der "
+#~ "Inhaltsbereiche. Du kann das z.B. im Quelltext der Seite nachvollziehen. "
+#~ "Für mehr Informationen, schau bitte in der Dokumentation nach."
+
+#~ msgid "Add menu item"
+#~ msgstr "Menüpunkt hinzufügen"
+
+#~ msgid "Label of the menu item."
+#~ msgstr "Beschriftung des Menüpunktes."
+
+#~ msgid "The ID of the linked content section."
+#~ msgstr "Die ID des verlinkten Inhaltsbereiches."
+
+#~ msgid "Number"
+#~ msgstr "Nummer"
+
+#~ msgid "The number of the linked content section."
+#~ msgstr "Die Nummer des verlinkten Inhaltsbereiches."
+
+#~ msgid "Page: Sitemap"
+#~ msgstr "Seite: Sitemap"
+
+#~ msgid "Sitemap Menu"
+#~ msgstr "Sitemap Menü"
+
+#~ msgid "Shows the top menu of the sitemap."
+#~ msgstr "Zeigt das Sitemap-Menü an."
+
+#~ msgid "Shows sitemap items with their thumbnails."
+#~ msgstr "Zeige die Seiten der Sitemap mit ihrem Miniaturbild."
+
+#~ msgid "Page exclude"
+#~ msgstr "Seiten ausschließen"
+
+#~ msgid "Post exclude"
+#~ msgstr "Beiträge ausschließen"
+
+#~ msgid "Category exclude"
+#~ msgstr "Kategorien ausschließen"
+
+#~ msgid "Tags"
+#~ msgstr "Schlagwörter"
+
+#~ msgid "Tag exclude"
+#~ msgstr "Schlagwörter ausschließen"
+
+#~ msgid "Archives"
+#~ msgstr "Archive"
+
+#~ msgid "Authors"
+#~ msgstr "Autoren"
+
+#~ msgid "Author exclude"
+#~ msgstr "Autoren ausschließen"
+
+#~ msgid "Author ID separated with comma: e.g. 13,5,22"
+#~ msgstr "Autoren ID getrennt durch Komma: z.B. 13,5,22"
+
+#~ msgid "Page: Tabs"
+#~ msgstr "Seite: Tabs"
+
+#~ msgid "Tab Content"
+#~ msgstr "Tab Inhalt"
+
+#~ msgid "Add unlimited tabs"
+#~ msgstr "Füge unbegrenzt Tabs hinzu"
+
+#~ msgid ""
+#~ "Use Font Awesome to include icons for each tab. If you use no icon, than "
+#~ "will display the first letter of the title instead. Here you can find <a "
+#~ "href=\"//fontawesome.io/icons/\" target=\"_blank\">all icons</a>. e.g. "
+#~ "\"fa-quote-right\""
+#~ msgstr ""
+#~ "Nutze Font Awesome um Icons für jeden Tab hinzuzufügen. Wenn du kein Icon "
+#~ "verwendest, wird stattdessen der erste Buchstabe des Titels verwendet. "
+#~ "Hier kannst du <a href=\"//fontawesome.io/icons/\" target=\"_blank\">alle "
+#~ "Icons</a> finden. z.B. \"fa-quote-right\""
+
+#~ msgid "Tabs"
+#~ msgstr "Tabs"
+
+#~ msgid "Add new tab"
+#~ msgstr "Neuen Tab hinzufügen"
+
+#~ msgid "Direction"
+#~ msgstr "Ausrichtung"
+
+#~ msgid "Select the direction of the tab menu."
+#~ msgstr "Wähle die Ausrichtung des Tab Menüs aus."
+
+#~ msgid "Page: Tags"
+#~ msgstr "Seite: Schlagwörter"
+
+#~ msgid "Show all tags"
+#~ msgstr "Zeigt alle Schlagwörter"
+
+#~ msgid "Show specific tags"
+#~ msgstr "Bestimmte Schlagwörter anzeigen"
+
+#~ msgid "Empty Tags"
+#~ msgstr "Leere Schlagwörter"
+
+#~ msgid "Exclude Tags"
+#~ msgstr "Schlagwörter ausschließen"
+
+#~ msgid "Tag ID separated with comma: e.g. 13,5,22"
+#~ msgstr "Schlagwort ID getrennt durch Komma, z.B. 13,5,22"
+
+#~ msgid "Select Tags"
+#~ msgstr "Schlagwörter auswählen"
+
+#~ msgid "Select all tags to be displayed."
+#~ msgstr "Wähle alle Schlagwörter aus die angezeigt werden sollen."
+
+#~ msgid "Page: Taxonomy"
+#~ msgstr "Seite: Tanxonomie"
+
+#~ msgid "Page: Glossary"
+#~ msgstr "Seite: Verzeichnis"
+
+#~ msgid "Thumbnail"
+#~ msgstr "Miniaturbild"
+
+#~ msgid "Shows glossary items with thumbnails."
+#~ msgstr "Zeigt die Verzeichnis-Elemente mit ihrem Miniaturbild an."
+
+#~ msgid "Excerpt"
+#~ msgstr "Textauszug"
+
+#~ msgid "Shows glossary items with their excerpt."
+#~ msgstr "Zeigt die Verzeichnis-Elemente mit ihrem Textauszug an."
+
+#~ msgid "Post Exclude"
+#~ msgstr "Beiträge ausschließen"
+
+#~ msgid "Post ID separated with comma: e.g. 13,5,22"
+#~ msgstr "Beitrags-ID getrennt durch Komma: z.B. 13,5,22"
+
+#~ msgid "Postformat: Audio"
+#~ msgstr "Postformat: Audio"
+
+#~ msgid "Embed Audio"
+#~ msgstr "Eingebettete Audio-Datei"
+
+#~ msgid "Enter an audio file URL from soundcloud."
+#~ msgstr "Gib eine Audio-Datei von SoundCloud an."
+
+#~ msgid "Add soundcloud audio"
+#~ msgstr "SoundCloud Audio hinzufügen"
+
+#~ msgid "Soundcloud-String"
+#~ msgstr "Soudcloud-Audio ID"
+
+#~ msgid ""
+#~ "If you want to embed a soundcloud audio file, use the string after "
+#~ "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/ "
+#~ "[ ... ]\te.g. \"270538540\"."
+#~ msgstr ""
+#~ "Um eine SoundCloud Audio-Datei einzubetten, musst du die ID nach https://"
+#~ "w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/ "
+#~ "[ ... ]\tz.B. \"270538540\" eingeben: "
+
+#~ msgid "Postformat: Gallery"
+#~ msgstr "Postformat: Galerie"
+
+#~ msgid "Gallery Images"
+#~ msgstr "Galerie Bilder"
+
+#~ msgid "Select all images for the gallery output."
+#~ msgstr "Wähle alle Bilder aus die in der Galerie angezeigt werden sollen."
+
+#~ msgid "Postformat: Link"
+#~ msgstr "Postformat: Link"
+
+#~ msgid "Linktext"
+#~ msgstr "Linktext"
+
+#~ msgid "Postformat: Quote"
+#~ msgstr "Postformat: Zitat"
+
+#~ msgid "Quote Author"
+#~ msgstr "Zitat Autor"
+
+#~ msgid "Postformat: Standard"
+#~ msgstr "Postformat: Standard"
+
+#~ msgid "Postformat: Video"
+#~ msgstr "Postformat: Video"
+
+#~ msgid "Embed Videos"
+#~ msgstr "Eingebettete Videos"
+
+#~ msgid "Enter a youtube or vimeo video URL."
+#~ msgstr "Gib eine YouTube oder Vimeo Video-URL ein."
+
+#~ msgid "Add video"
+#~ msgstr "Video hinzufügen"
+
+#~ msgid "Video-Type"
+#~ msgstr "Video-Typ"
+
+#~ msgid "YouTube"
+#~ msgstr "YouTube"
+
+#~ msgid "Vimeo"
+#~ msgstr "Vimeo"
+
+#~ msgid "YouTube-String"
+#~ msgstr "YouTube-ID"
+
+#~ msgid ""
+#~ "If you want to embed a youtube video, use the string after https://www."
+#~ "youtube.com/embed/ [ ... ]\te.g. \"QoY77paKjLY\"."
+#~ msgstr ""
+#~ "Wenn du ein YouTube Video einbetten willst, nutze die ID nach https://www."
+#~ "youtube.com/embed/ [ ... ]\tz.B. \"QoY77paKjLY\"."
+
+#~ msgid "Vimeo-String"
+#~ msgstr "Vimeo-ID"
+
+#~ msgid ""
+#~ "If you want to embed a vimeo video, use the string after https://player."
+#~ "vimeo.com/video/ [ ... ]\te.g. \"183560799\"."
+#~ msgstr ""
+#~ "Wenn du ein Vimeo Video einbetten willst, nutze die ID nach https://"
+#~ "player.vimeo.com/video/ [ ... ]\tz.B. \"QoY77paKjLY\"."
+
+#~ msgid "Content Section: Banner"
+#~ msgstr "Inhaltsbereich: Banner"
+
+#~ msgid "Button Select"
+#~ msgstr "Button auswählen"
+
+#~ msgid "Content Section: Custom HTML"
+#~ msgstr "Inhaltsbereich: Benutzerdefiniertes HTML"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "Content Section: Features 1"
+#~ msgstr "Inhaltsbereich: Features 1"
+
+#~ msgid "Four columns"
+#~ msgstr "Vier Spalten"
+
+#~ msgid "Five columns"
+#~ msgstr "Fünf Spalten"
+
+#~ msgid "Six columns"
+#~ msgstr "Sechs Spalten"
+
+#~ msgid "Content Section: Features 2"
+#~ msgstr "Inhaltsbereich: Features 2"
+
+#~ msgid "Effect Select"
+#~ msgstr "Effekt-Auswahl"
+
+#~ msgid "Rows"
+#~ msgstr "Zeilen"
+
+#~ msgid "Add row"
+#~ msgstr "Zeile hinzufügen"
+
+#~ msgid "Content Section: Features 3"
+#~ msgstr "Inhaltsbereich: Features 3"
+
+#~ msgid "Content Section: Image"
+#~ msgstr "Inhaltsbereich: Bild"
+
+#~ msgid "Background-Image or -Video"
+#~ msgstr "Hintergrundbild oder -video"
+
+#~ msgid "Content Section: Image Animated"
+#~ msgstr "Inhaltsbereich: Animiertes Bild"
+
+#~ msgid "Image Effect Select"
+#~ msgstr "Bildeffekt-Auswahl"
+
+#~ msgid "Content Section: Logos"
+#~ msgstr "Inhaltsbereich: Logos"
+
+#~ msgid "Logos"
+#~ msgstr "Logos"
+
+#~ msgid "Add partner"
+#~ msgstr "Partner hinzufügen"
+
+#~ msgid "An external link."
+#~ msgstr "Ein externer Link."
+
+#~ msgid "Content Section: Newsletter"
+#~ msgstr "Inhaltsbereich: Newsletter"
+
+#~ msgid "MailChimp"
+#~ msgstr "MailChimp"
+
+#~ msgid ""
+#~ "Insert your Mailchimp form ID here. You have to install the WordPress "
+#~ "plugin <a href=\"https://de.wordpress.org/plugins/mailchimp-for-wp/\" "
+#~ "target=\"_blank\">MailChimp</a>."
+#~ msgstr ""
+#~ "Füge hier die Mailchimp Formular ID ein. Du musst zuvor das WordPress "
+#~ "Plugin <a href=\"https://de.wordpress.org/plugins/mailchimp-for-wp/\" "
+#~ "target=\"_blank\">MailChimp</a> installieren."
+
+#~ msgid "Content Section: Popular / Recent / Selected Posts Teaser"
+#~ msgstr "Inhaltsbereich: Beliebte / Neue / Ausgewählte Beitrags-Teaser"
+
+#~ msgid "Teaser"
+#~ msgstr "Teaser"
+
+#~ msgid "Category"
+#~ msgstr "Kategorie"
+
+#~ msgid "Content Section: Post / Page Teaser"
+#~ msgstr "Inhaltsbereich: Beiträge / Seiten Teaser"
+
+#~ msgid "Teaser Boxes"
+#~ msgstr "Teaser Boxen"
+
+#~ msgid ""
+#~ "If you want to use a custom image, please select it. Otherwise the post/"
+#~ "page thumbnail will used instead."
+#~ msgstr ""
+#~ "Wenn Du ein anderes Bild für den Teaser verwenden willst, kannst Du es "
+#~ "auswählen. Ansonsten wird das Standard-Miniaturbild ausgewählt."
+
+#~ msgid "Add Row"
+#~ msgstr "Zeile hinzufügen"
+
+#~ msgid "Select Post or Page"
+#~ msgstr "Beitrag oder Seite auswählen"
+
+#~ msgid "Content Section: Reviews"
+#~ msgstr "Inhaltsbereich: Bewertungen"
+
+#~ msgid "Add review"
+#~ msgstr "Bewertung hinzufügen"
+
+#~ msgid "Author photo."
+#~ msgstr "Foto des Autors."
+
+#~ msgid "Author name."
+#~ msgstr "Name des Autors."
+
+#~ msgid "Quote from author."
+#~ msgstr "Zitat vom Autor."
+
+#~ msgid "Rating"
+#~ msgstr "Bewertung"
+
+#~ msgid "Rating from author."
+#~ msgstr "Bewertung vom Autor."
+
+#~ msgid "1 Star"
+#~ msgstr "1 Stern"
+
+#~ msgid "2 Stars"
+#~ msgstr "2 Sterne"
+
+#~ msgid "3 Stars"
+#~ msgstr "3 Sterne"
+
+#~ msgid "4 Stars"
+#~ msgstr "4 Sterne"
+
+#~ msgid "5 Stars"
+#~ msgstr "5 Sterne"
+
+#~ msgid "Reviewed Item"
+#~ msgstr "Was wurde bewertet?"
+
+#~ msgid "Reviewed product or service."
+#~ msgstr "Bewertetes Produkt oder Dienstleistung."
+
+#~ msgid "Date"
+#~ msgstr "Datum"
+
+#~ msgid "The published date of the review. Will not be shown at frontend."
+#~ msgstr ""
+#~ "Das Datum an dem die Bewertung abgegeben wurde. Wird auf der Seite nicht "
+#~ "angezeigt."
+
+#~ msgid "Widget: About Author"
+#~ msgstr "Widget: Über den Autor"
+
+#~ msgid "Author Image:"
+#~ msgstr "Autor Foto:"
+
+#~ msgid "Widget: Ad Banner"
+#~ msgstr "Widget: Werbebanner"
+
+#~ msgid "Add your Banner"
+#~ msgstr "Füge einen Banner hinzu"
+
+#~ msgid "Type"
+#~ msgstr "Typ"
+
+#~ msgid "HTML Code"
+#~ msgstr "HTML Code"
+
+#~ msgid "Widget: Newsletter"
+#~ msgstr "Widget: Newsletter"
+
+#~ msgid "Background Image:"
+#~ msgstr "Hintergrundbild:"
+
+#~ msgid "Widget: Recent / Popular / Trending Posts"
+#~ msgstr "Widget: Aktuelle / Beliebte / Aufsteigende Beiträge"
+
+#~ msgid "Post Format exclude:"
+#~ msgstr "Post Format ausschließen:"
+
+#~ msgid "Global: All Content Sections"
+#~ msgstr "Global: Alle Inhaltsbereiche"
+
+#~ msgid "Content Sections"
+#~ msgstr "Inhaltsbereiche"
+
+#~ msgid "Add custom content sections and sort them using drag and drop."
+#~ msgstr "Füge neue Inhaltsbereiche hinzu und sortiere sie mit Drag & Drop."
+
+#~ msgid "Features 1"
+#~ msgstr "Features 1"
+
+#~ msgid "Features 2"
+#~ msgstr "Features 2"
+
+#~ msgid "Features 3"
+#~ msgstr "Features 3"
+
+#~ msgid "Banner"
+#~ msgstr "Banner"
+
+#~ msgid "Reviews"
+#~ msgstr "Bewertungen"
+
+#~ msgid "Video / Image Background"
+#~ msgstr "Video- / Bildhintergrund"
+
+#~ msgid "Newsletter"
+#~ msgstr "Newsletter"
+
+#~ msgid "Animated Image"
+#~ msgstr "Animiertes Bild"
+
+#~ msgid "Page / Post Teaser"
+#~ msgstr "Seiten- / Beitrags-Teaser"
+
+#~ msgid "Custom Post Teaser"
+#~ msgstr "Benutzerdefinierte Beitrags-Teaser"
+
+#~ msgid "Page Content Position"
+#~ msgstr "Position des Seiteninhalts"
+
+#~ msgid ""
+#~ "Normally the content (title, text and thumbnail) of this page is shown at "
+#~ "the top. With this section you can move it."
+#~ msgstr ""
+#~ "Normalerweise wird der Inhalt dieser Seite (Titel, Text und Miniaturbild) "
+#~ "immer oben angezeigt. Mit diesem Bereich kannst Du ihn verschieben oder "
+#~ "ausblenden."
+
+#~ msgid "Show above"
+#~ msgstr "Oben anzeigen"
+
+#~ msgid "Show here"
+#~ msgstr "Hier anzeigen"
+
+#~ msgid "Hide WP Content"
+#~ msgstr "Verstecke den Inhalt"
+
+#~ msgid "You can hide the page content completely."
+#~ msgstr "Du kannst den Seiteninhalt komplett ausblenden."
+
+#~ msgid "Global: Button Select"
+#~ msgstr "Global: Buttonauswahl"
+
+#~ msgid "PopUp Video"
+#~ msgstr "PopUp Video"
+
+#~ msgid "PopUp Map"
+#~ msgstr "PopUp Map"
+
+#~ msgid "PopUp Layer"
+#~ msgstr "PopUp Layer"
+
+#~ msgid "Anchor Link"
+#~ msgstr "Anker Link"
+
+#~ msgid ""
+#~ "e.g. YouTube: http://www.youtube.com/watch?v=7HKoqNJtMTQ or Vimeo:\n"
+#~ "http://vimeo.com/123123"
+#~ msgstr ""
+#~ "z.B. YouTube: http://www.youtube.com/watch?v=7HKoqNJtMTQ oder Vimeo:\n"
+#~ "http://vimeo.com/123123"
+
+#~ msgid "For include example, show at documentation."
+#~ msgstr "Schau für ein Anwendungsbeispiel in der Dokumentation nach."
+
+#~ msgid "Enter your PopUp Layer ID. You can manage this at Theme Settings."
+#~ msgstr ""
+#~ "Gib die ID des PopUp Bayers ein. Du kannst sie unter Theme Einstellungen "
+#~ "erzeugen."
+
+#~ msgid ""
+#~ "Enter your Anchor-Link. Only, if you have page sections with unique ID."
+#~ msgstr ""
+#~ "Gibt einen Anker Link ein. Nur wenn Du einen Bereich mit einer "
+#~ "einzigartigen ID verwendest."
+
+#~ msgid "Global: Image Effect"
+#~ msgstr "Global: Bildeffekt"
+
+#~ msgid "Image Effect"
+#~ msgstr "Bildeffekt"
+
+#~ msgid "What effect will get the picture?"
+#~ msgstr "Welchen Effekt soll das Bild erhalten?"
+
+#~ msgid "Image Effect Duration"
+#~ msgstr "Bildeffekt Dauer"
+
+#~ msgid "In seconds."
+#~ msgstr "In Sekunden."
+
+#~ msgid "Global: Image or Video Background for Section"
+#~ msgstr "Global: Hintergrundbild oder -video für Bereiche"
+
+#~ msgid "Image or Video"
+#~ msgstr "Bild oder Video"
+
+#~ msgid "External Video"
+#~ msgstr "Externes Video"
+
+#~ msgid "Background-Video"
+#~ msgstr "Hintergrundvideo"
+
+#~ msgid "File format: mp4"
+#~ msgstr "Dateiformat: mp4"
+
+#~ msgid "Background-Video (alternate)"
+#~ msgstr "Hintergrund-Video (alternativ)"
+
+#~ msgid "File format: webm"
+#~ msgstr "Dateiformat: webm"
+
+#~ msgid "Background-Video external"
+#~ msgstr "Hintergrund-Video extern"
+
+#~ msgid "Background-Video external (alternate)"
+#~ msgstr "Hintergrund-Video extern (alternativ)"
+
+#~ msgid "Video-Poster"
+#~ msgstr "Video-Poster"
+
+#~ msgid "Use an alternate image, when the video cannot load."
+#~ msgstr ""
+#~ "Verwende ein alternatives Bild, falls das Video nicht geladen werden kann."
+
+#~ msgid "Global: Page Header"
+#~ msgstr "Global: Seiten Header"
+
+#~ msgid "Do you want to display the header?"
+#~ msgstr "Willst Du den Header anzeigen?"
+
+#~ msgid "Shows a header with blog posts or custom background-image or -video."
+#~ msgstr ""
+#~ "Zeigt einen Header mit Blog Beiträgen oder benutzerdefinierten "
+#~ "Hintergrundbild oder -video an."
+
+#~ msgid "Compact header"
+#~ msgstr "Kompakter Header"
+
+#~ msgid "Centered header"
+#~ msgstr "Zentrierter Header"
+
+#~ msgid "Wide header"
+#~ msgstr "Breiter Header"
+
+#~ msgid "Full Page header"
+#~ msgstr "Header über die ganze Seite"
+
+#~ msgid "Header Type"
+#~ msgstr "Typ des Headers"
+
+#~ msgid "Default Header"
+#~ msgstr "Standard Header"
+
+#~ msgid "Post Header"
+#~ msgstr "Beitrags Header"
+
+#~ msgid "Header(s)"
+#~ msgstr "Header"
+
+#~ msgid "Add header"
+#~ msgstr "Header hinzufügen"
+
+#~ msgid "Select the count of visible items."
+#~ msgstr "Wähle die Anzahl der sichtbare Beiträge aus."
+
+#~ msgid "Shows a space between the items."
+#~ msgstr "Zeigt einen Abstand zwischen den Beiträgen an."
+
+#~ msgid "Show or hide the post excerpt."
+#~ msgstr "Zeige oder verstecke den Beitragsauszug."
+
+#~ msgid "Global: Sidebar"
+#~ msgstr "Global: Sidebar"
+
+#~ msgid "Hide or show the sidebar for this post / page."
+#~ msgstr ""
+#~ "Verstecke oder zeige die Seitenleiste für diesen Beitrag / Seite an."
+
+#~ msgid "Like global Settings"
+#~ msgstr "Wie in den globalen Einstellungen"
+
+#~ msgid "Reviewed"
+#~ msgstr "Bewertet"
+
+#~ msgid "Read more"
+#~ msgstr "Weiterlesen"
+
+#~ msgid "Open on Google Maps."
+#~ msgstr "In Google Maps öffnen"
+
+#~ msgid "Primary Menu"
+#~ msgstr "Primäres Menü"
+
+#~ msgid "Footer Menu"
+#~ msgstr "Footermenü"
+
+#~ msgid "Theme Settings"
+#~ msgstr "Theme Einstellungen"
+
+#~ msgid "Theme Settings - General"
+#~ msgstr "Theme Einstellungen - Allgemein"
+
+#~ msgid "Theme Settings - Colors & Design"
+#~ msgstr "Theme Einstellungen - Farben & Design"
+
+#~ msgid "Colors & Design"
+#~ msgstr "Farben & Design"
+
+#~ msgid "Theme Settings - Social"
+#~ msgstr "Theme Einstellungen - Social"
+
+#~ msgid "Social"
+#~ msgstr "Social"
+
+#~ msgid "Theme Settings - Contact"
+#~ msgstr "Theme Einstellungen - Kontakt"
+
+#~ msgid "Contact"
+#~ msgstr "Kontakt"
+
+#~ msgid "Theme Settings - Leading Area"
+#~ msgstr "Theme Einstellungen - Führender Bereich"
+
+#~ msgid "Leading Area"
+#~ msgstr "Führender Bereich"
+
+#~ msgid "Theme Settings - PopUp Layer"
+#~ msgstr "Theme Einstellungen - PopUp Layer"
+
+#~ msgid "Theme Settings - Top Layer"
+#~ msgstr "Theme Einstellungen - Top Layer"
+
+#~ msgid "Top Layer"
+#~ msgstr "Top Layer"
+
+#~ msgid "Add widgets here to appear in your left or right content sidebar."
+#~ msgstr ""
+#~ "Füge hier Widgets hinzu um sie in der linken oder rechten Inhalts "
+#~ "Seitenleiste anzuzeigen."
+
+#~ msgid "Footerbar Left"
+#~ msgstr "Footerbar links"
+
+#~ msgid "Add widgets here to appear in your left footerbar."
+#~ msgstr "Füge hier Widgets hinzu um sie in der linken Footerbar anzuzeigen."
+
+#~ msgid "Footerbar Middle"
+#~ msgstr "Footerbar Mittel"
+
+#~ msgid "Add widgets here to appear in your middle footerbar."
+#~ msgstr ""
+#~ "Füge hier Widgets hinzu um sie in der mittleren Footerbar anzuzeigen."
+
+#~ msgid "Footerbar Right"
+#~ msgstr "Footerbar Rechts"
+
+#~ msgid "Add widgets here to appear in your right footerbar."
+#~ msgstr "Füge hier Widgets hinzu um sie in der rechten Footerbar anzuzeigen."
+
+#~ msgid "Footerbar Full-Size"
+#~ msgstr "Footerbar Full-Size"
+
+#~ msgid ""
+#~ "Add instagram widgets here to show it at footerbar. Set minimum amount of "
+#~ "images to 10!"
+#~ msgstr ""
+#~ "Instagram hinzufügen um es in der Footerbar anzuzeigen. Empfohlene "
+#~ "Mindestmenge von 10 Bildern!"
+
+#~ msgid "TOP 10: Popular Posts"
+#~ msgstr "TOP 10: Beliebte Beiträge"
+
+#~ msgid "Ordered by views"
+#~ msgstr "Geordnet nach Ansichten"
+
+#~ msgid "Ordered by likes"
+#~ msgstr "Geordnet nach Likes"
+
+#~ msgid "Ordered by rated"
+#~ msgstr "Geordnet nach Bewertungen"
+
+#~ msgid "Ordered by commented"
+#~ msgstr "Geordnet nach Kommentaren"
+
+#~ msgid "Likes"
+#~ msgstr "Likes"
+
+#~ msgid "Score"
+#~ msgstr "Wertung"
+
+#~ msgid "Liked"
+#~ msgstr "geliked"
+
+#~ msgid "Like"
+#~ msgstr "Gefällt mir"
+
+#~ msgid "Advanced Custom Fields Pro"
+#~ msgstr "Advanced Custom Fields Pro"
+
+#~ msgid "Hannah CD Helper"
+#~ msgstr "Hannah CD Helper"
+
+#~ msgid "MailChimp for WordPress"
+#~ msgstr "MailChimp für WordPress"
+
+#~ msgid "Contact Form 7"
+#~ msgstr "Contact Form 7"
+
+#~ msgid "Install Required Plugins"
+#~ msgstr "Installieren Sie die erforderlichen Plugins"
+
+#~ msgid "Install Plugins"
+#~ msgstr "Plugins installieren"
+
+#~ msgid "Installing Plugin: %s"
+#~ msgstr "Installiere Plugin: %s"
+
+#~ msgid "Updating Plugin: %s"
+#~ msgstr "Plugin aktualisieren: %s"
+
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr "Mit der Plugin-API ist ein Fehler aufgetreten."
+
+#~ msgid "This theme requires the following plugin: %1$s."
+#~ msgid_plural "This theme requires the following plugins: %1$s."
+#~ msgstr[0] "Dieses Theme erfordert die folgende Plugin: %1$s."
+#~ msgstr[1] "Dieses Theme erfordert die folgenden Plugins: %1$s."
+
+#~ msgid "This theme recommends the following plugin: %1$s."
+#~ msgid_plural "This theme recommends the following plugins: %1$s."
+#~ msgstr[0] "Dieses Thema empfiehlt das folgende Plugin: %1$s."
+#~ msgstr[1] "Dieses Theme empfiehlt die folgenden Plugins: %1$s."
+
+#~ msgid ""
+#~ "The following plugin needs to be updated to its latest version to ensure "
+#~ "maximum compatibility with this theme: %1$s."
+#~ msgid_plural ""
+#~ "The following plugins need to be updated to their latest version to "
+#~ "ensure maximum compatibility with this theme: %1$s."
+#~ msgstr[0] ""
+#~ "Die folgende Plugin muss auf die neueste Version aktualisiert werden, um "
+#~ "maximale Kompatibilität mit diesem Theme zu sicher zu stellen: %1$s."
+#~ msgstr[1] ""
+#~ "Die folgenden Plugins müssen auf die neueste Version aktualisiert werden, "
+#~ "um maximale Kompatibilität mit diesem Theme zu sicher zu stellen: %1$s."
+
+#~ msgid "There is an update available for: %1$s."
+#~ msgid_plural "There are updates available for the following plugins: %1$s."
+#~ msgstr[0] "Es ist ein Update verfügbar für: %1$s."
+#~ msgstr[1] "Es sind Updates verfügbar für: %1$s."
+
+#~ msgid "The following required plugin is currently inactive: %1$s."
+#~ msgid_plural "The following required plugins are currently inactive: %1$s."
+#~ msgstr[0] "Das folgende erforderliche Plugin ist derzeit inaktiv: %1$s."
+#~ msgstr[1] "Die folgenden erforderlichen Plugins sind derzeit inaktiv: %1$s."
+
+#~ msgid "The following recommended plugin is currently inactive: %1$s."
+#~ msgid_plural ""
+#~ "The following recommended plugins are currently inactive: %1$s."
+#~ msgstr[0] "Das folgende empfohlene Plugin ist derzeit inaktiv: %1$s."
+#~ msgstr[1] "Die folgenden empfohlenen Plugins ist derzeit inaktiv: %1$s."
+
+#~ msgid "Begin installing plugin"
+#~ msgid_plural "Begin installing plugins"
+#~ msgstr[0] "Beginne das Plugin zu installieren"
+#~ msgstr[1] "Beginne Plugins zu installieren"
+
+#~ msgid "Begin updating plugin"
+#~ msgid_plural "Begin updating plugins"
+#~ msgstr[0] "Beginne mit der Aktualisierung des Plugins"
+#~ msgstr[1] "Beginne mit der Aktualisierung der Plugins"
+
+#~ msgid "Begin activating plugin"
+#~ msgid_plural "Begin activating plugins"
+#~ msgstr[0] "Beginne mit der Aktivierung des Plugins"
+#~ msgstr[1] "Beginne mit der Aktivierung der Plugins"
+
+#~ msgid "Return to Required Plugins Installer"
+#~ msgstr "Zurück zum Installieren der benötigten Plugins"
+
+#~ msgid "Return to the Dashboard"
+#~ msgstr "Zurück zum Dashboard"
+
+#~ msgid "Plugin activated successfully."
+#~ msgstr "Plugin erfolgreich aktiviert."
+
+#~ msgid "The following plugin was activated successfully:"
+#~ msgid_plural "The following plugins were activated successfully:"
+#~ msgstr[0] "Das folgende Plugin wurde erfolgreich aktiviert:"
+#~ msgstr[1] "Die folgenden Plugins wurden erfolgreich aktiviert:"
+
+#~ msgid "No action taken. Plugin %1$s was already active."
+#~ msgstr "Keine Aktion durchgeführt. Plugin %1$s war bereits aktiv."
+
+#~ msgid ""
+#~ "Plugin not activated. A higher version of %s is needed for this theme. "
+#~ "Please update the plugin."
+#~ msgstr ""
+#~ "Plugin nicht aktiviert. Eine höhere Version von %s ist für dieses Theme "
+#~ "erforderlich. Bitte aktualisieren Sie das Plugin."
+
+#~ msgid "All plugins installed and activated successfully. %1$s"
+#~ msgstr "Alle Plugins erfolgreich installiert und aktiviert. %1$s"
+
+#~ msgid "Dismiss this notice"
+#~ msgstr "Ignoriere diese Nachricht"
+
+#~ msgid ""
+#~ "There are one or more required or recommended plugins to install, update "
+#~ "or activate."
+#~ msgstr "Es stehen eine oder mehrere Aktualisierungen zur Verfügung."
+
+#~ msgid "Please contact the administrator of this site for help."
+#~ msgstr ""
+#~ "Bitte wende Dich an den Administrator dieser Seite für Hilfestellung."
+
+#~ msgid "This plugin needs to be updated to be compatible with your theme."
+#~ msgstr ""
+#~ "Das Plugin muss aktualisiert werden, um mit deinem Theme kompatibel zu "
+#~ "sein."
+
+#~ msgid "Update Required"
+#~ msgstr "Update erforderlich"
+
+#~ msgid ""
+#~ "The remote plugin package does not contain a folder with the desired slug "
+#~ "and renaming did not work."
+#~ msgstr ""
+#~ "Das entfernte Plugin-Paket enthält kein Verzeichnis mit dem gewünschten "
+#~ "Slug und umbenennen hat nicht funktioniert."
+
+#~ msgid ""
+#~ "Please contact the plugin provider and ask them to package their plugin "
+#~ "according to the WordPress guidelines."
+#~ msgstr ""
+#~ "Bitte setze dich mit dem Plugin-Anbieter in Verbindung und bitte ihn, "
+#~ "sein Plugin entsprechend den WordPress-Richtlinien zu packen."
+
+#~ msgid ""
+#~ "The remote plugin package consists of more than one file, but the files "
+#~ "are not packaged in a folder."
+#~ msgstr ""
+#~ "Das entfernte Plugin-Paket besteht aus mehr als einer Datei, aber die "
+#~ "Dateien sind nicht in einem Verzeichnis verpackt."
+
+#~ msgctxt "plugin A *and* plugin B"
+#~ msgid "and"
+#~ msgstr "und"
+
+#~ msgid "TGMPA v%s"
+#~ msgstr "TGMPA v%s"
+
+#~ msgid "Required"
+#~ msgstr "Erforderlich"
+
+#~ msgid "Recommended"
+#~ msgstr "Empfohlen"
+
+#~ msgid "WordPress Repository"
+#~ msgstr "WordPress Repository"
+
+#~ msgid "External Source"
+#~ msgstr "Externe Quelle"
+
+#~ msgid "Pre-Packaged"
+#~ msgstr "Pre-Packaged"
+
+#~ msgid "Not Installed"
+#~ msgstr "Nicht installiert"
+
+#~ msgid "Installed But Not Activated"
+#~ msgstr "Installiert, aber nicht aktiviert"
+
+#~ msgid "Active"
+#~ msgstr "Aktiv"
+
+#~ msgid "Required Update not Available"
+#~ msgstr "Erforderliches Update nicht verfügbar"
+
+#~ msgid "Requires Update"
+#~ msgstr "Erfordert Aktualisierung"
+
+#~ msgid "Update recommended"
+#~ msgstr "Update empfohlen"
+
+#~ msgctxt "Install/Update Status"
+#~ msgid "%1$s, %2$s"
+#~ msgstr "%1$s, %2$s"
+
+#~ msgctxt "plugins"
+#~ msgid "All <span class=\"count\">(%s)</span>"
+#~ msgid_plural "All <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+#~ msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#~ msgid "To Install <span class=\"count\">(%s)</span>"
+#~ msgid_plural "To Install <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "Zu installieren <span class=\"count\">(%s)</span>"
+#~ msgstr[1] "Zu installieren <span class=\"count\">(%s)</span>"
+
+#~ msgid "Update Available <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "Aktualisierung verfügbar <span class=\"count\">(%s)</span>"
+#~ msgstr[1] "Aktualisierungen verfügbar <span class=\"count\">(%s)</span>"
+
+#~ msgid "To Activate <span class=\"count\">(%s)</span>"
+#~ msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "Zum Aktivieren <span class=„count“>(%s)</span>"
+#~ msgstr[1] "Zum Aktivieren <span class=„count“>(%s)</span>"
+
+#~ msgctxt "as in: \"version nr unknown\""
+#~ msgid "unknown"
+#~ msgstr "unbekannt"
+
+#~ msgid "Installed version:"
+#~ msgstr "Installierte Version:"
+
+#~ msgid "Minimum required version:"
+#~ msgstr "Erforderliche Mindestversion:"
+
+#~ msgid "Available version:"
+#~ msgstr "Verfügbare Version:"
+
+#~ msgid "No plugins to install, update or activate."
+#~ msgstr ""
+#~ "Keine Plugins zum installieren, aktivieren oder aktualisieren vorhanden."
+
+#~ msgid "Plugin"
+#~ msgstr "Plugin"
+
+#~ msgid "Source"
+#~ msgstr "Quelle"
+
+#~ msgid "Install %2$s"
+#~ msgstr "Installiere %2$s"
+
+#~ msgid "Update %2$s"
+#~ msgstr "Aktualisiere %2$s"
+
+#~ msgid "Activate %2$s"
+#~ msgstr "Aktiviere %2$s"
+
+#~ msgid "Upgrade message from the plugin author:"
+#~ msgstr "Aktualisierungsnachricht vom Plugin-Autor:"
+
+#~ msgid "Install"
+#~ msgstr "Installieren"
+
+#~ msgid "Update"
+#~ msgstr "Aktualisieren"
+
+#~ msgid "No plugins were selected to be installed. No action taken."
+#~ msgstr ""
+#~ "Keine Plugins für Installation ausgewählt. Keine Aktion durchgeführt."
+
+#~ msgid "No plugins were selected to be updated. No action taken."
+#~ msgstr ""
+#~ "Keine Plugins für Aktualisierung ausgewählt. Keine Aktion durchgeführt."
+
+#~ msgid "No plugins are available to be installed at this time."
+#~ msgstr ""
+#~ "Aktuell sind keine Plugins vorhanden, die installiert werden können."
+
+#~ msgid "No plugins are available to be updated at this time."
+#~ msgstr ""
+#~ "Aktuell sind keine Plugins vorhanden, die aktualisiert werden können."
+
+#~ msgid "No plugins were selected to be activated. No action taken."
+#~ msgstr ""
+#~ "Keine Plugins wurden zur Aktivierung ausgewählt. Keine Aktion ausgeführt."
+
+#~ msgid "No plugins are available to be activated at this time."
+#~ msgstr "Momentan stehen keine Plugins zur Aktivierung zur Verfügung."
+
+#~ msgid "Plugin activation failed."
+#~ msgstr "Aktivierung des Plugins fehlgeschlagen"
+
+#~ msgid "Updating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Aktualisiere Plugin %1$s (%2$d/%3$d)"
+
+#~ msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+#~ msgstr ""
+#~ "Es ist ein Fehler während der Installation von %1$s aufgetreten: <strong>"
+#~ "%2$s</strong>."
+
+#~ msgid "The installation of %1$s failed."
+#~ msgstr "Die Installation von %1$s ist fehlgeschlagen."
+
+#~ msgid ""
+#~ "The installation and activation process is starting. This process may "
+#~ "take a while on some hosts, so please be patient."
+#~ msgstr ""
+#~ "Der Installations- und Aktivierungsprozess wurde gestartet. Dieser "
+#~ "Vorgang kann eine Weile dauern. Bitte habe etwas Geduld."
+
+#~ msgid "%1$s installed and activated successfully."
+#~ msgstr "%1$s installiert und erfolgreich aktiviert"
+
+#~ msgid "Show Details"
+#~ msgstr "Zeige Details"
+
+#~ msgid "Hide Details"
+#~ msgstr "Details verstecken"
+
+#~ msgid "All installations and activations have been completed."
+#~ msgstr "Alle Installationen und Aktivierungen sind abgeschlossen."
+
+#~ msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Installiere und aktiviere Plugin %1$s (%2$d/%3$d)"
+
+#~ msgid ""
+#~ "The installation process is starting. This process may take a while on "
+#~ "some hosts, so please be patient."
+#~ msgstr ""
+#~ "Die Installation wurde gestartet. Dieser Prozess kann je nach Hoster eine "
+#~ "Weile dauern – bitte haben Sie Geduld."
+
+#~ msgid "%1$s installed successfully."
+#~ msgstr "%1$s erfolgreich installiert."
+
+#~ msgid "All installations have been completed."
+#~ msgstr "Alle Installationen waren erfolgreich."
+
+#~ msgid "Installing Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Installation des Plugins %1$s (%2$d/%3$d)"
+
+#~ msgid "Thanks for rating."
+#~ msgstr "Vielen Dank für Deine Bewertung!"
+
+#~ msgid "You have already voted."
+#~ msgstr "Du hast bereits abgestimmt!"
+
+#~ msgid "An error has occurred."
+#~ msgstr "Ein Fehler ist aufgetreten."
+
+#~ msgid "It is something went wrong, try again."
+#~ msgstr "Es ist etwas schief gelaufen ist, versuchen Sie es erneut."
+
+#~ msgid "vote"
+#~ msgstr "Stimme"
+
+#~ msgid "votes"
+#~ msgstr "Stimmen"
+
+#~ msgid "HH: About Author"
+#~ msgstr "HH: Über den Autor"
+
+#~ msgid "Show more about the author."
+#~ msgstr "Zeigen Sie mehr über den Autor."
+
+#~ msgid "Title:"
+#~ msgstr "Titel:"
+
+#~ msgid "About Author Title:"
+#~ msgstr "Über den Autor-Titel"
+
+#~ msgid "About Author Text:"
+#~ msgstr "Über den Autor:"
+
+#~ msgid "Square image"
+#~ msgstr "Quadratisches Bild"
+
+#~ msgid "Round image"
+#~ msgstr "Rundes Bild"
+
+#~ msgid "HH: Ad Banner"
+#~ msgstr "HH: Werbebanner"
+
+#~ msgid ""
+#~ "Banner rotation for Ads. The banners are displayed in a random order when "
+#~ "more than one is selected."
+#~ msgstr ""
+#~ "Banner-Rotation für Werbung. Die Banner werden in einer zufälligen "
+#~ "Reihenfolge angezeigt, sobald mehr als einer ausgewählt ist."
+
+#~ msgid "Label of Advertising:"
+#~ msgstr "Werbekennzeichnung:"
+
+#~ msgid "HH: Categories"
+#~ msgstr "HH: Kategorien"
+
+#~ msgid "Show your post categories."
+#~ msgstr "Zeige Beitrags-Kategorien"
+
+#~ msgid "Exclude Categories:"
+#~ msgstr "Kategorien ausschliessen:"
+
+#~ msgid "Hide empty categories:"
+#~ msgstr "Leere Kategorien ausblenden:"
+
+#~ msgid "Hide Image:"
+#~ msgstr "Bild verstecken:"
+
+#~ msgid "Hide Postcount:"
+#~ msgstr "Beitragszähler verstecken:"
+
+#~ msgid "HH: Comments"
+#~ msgstr "HH: Kommentare"
+
+#~ msgid "Show recent comments."
+#~ msgstr "Neueste Kommentare anzeigen."
+
+#~ msgid "to"
+#~ msgstr "zu"
+
+#~ msgid "Number of Comments:"
+#~ msgstr "Anzahl der Kommentare"
+
+#~ msgid "Content Length:"
+#~ msgstr "Länge des Inhalts:"
+
+#~ msgid "Avatar Size in Pixel:"
+#~ msgstr "Avatar Größe in Pixel:"
+
+#~ msgid "HH: Instagram"
+#~ msgstr "HH: Instagram"
+
+#~ msgid "Show instagram photos from your account."
+#~ msgstr "Zeige Fotos aus deinem Instagram Account."
+
+#~ msgid "Amount:"
+#~ msgstr "Menge:"
+
+#~ msgid "Access Token:"
+#~ msgstr "Access Token:"
+
+#~ msgid "Get here"
+#~ msgstr "Holen"
+
+#~ msgid "HH: Newsletter"
+#~ msgstr "HH: Newsletter"
+
+#~ msgid "Show your Newsletter form."
+#~ msgstr "Newsletter-Formular anzeigen."
+
+#~ msgid "Text before Form:"
+#~ msgstr "Text vor dem Formular:"
+
+#~ msgid "Text after Form:"
+#~ msgstr "Text nach dem Formular:"
+
+#~ msgid "Form ID ( by mailchimp plugin ):"
+#~ msgstr "Formular-ID (von MailChimp Plugin):"
+
+#~ msgid "HH: Recent / Popular Pages"
+#~ msgstr "HH: Neue / Beliebte Seiten"
+
+#~ msgid "Show recent or popular pages."
+#~ msgstr "Die letzten oder beliebtesten Seiten anzeigen."
+
+#~ msgid "Type:"
+#~ msgstr "Typ:"
+
+#~ msgid "Recent"
+#~ msgstr "Neue"
+
+#~ msgid "Popular"
+#~ msgstr "Beliebte"
+
+#~ msgid "Hide Views:"
+#~ msgstr "Verstecke Ansichten:"
+
+#~ msgid "HH: Recent / Popular Posts V.2"
+#~ msgstr "HH: Neue / Beliebte Beiträge V.2"
+
+#~ msgid "Show recent or popular posts in alternative style."
+#~ msgstr "Die letzten oder beliebtesten Beiträge anzeigen."
+
+#~ msgid "Popular by most viewed"
+#~ msgstr "Beliebt nach meist gesehen"
+
+#~ msgid "Popular by most liked"
+#~ msgstr "Beliebt nach meist gelikt"
+
+#~ msgid "Popular by most rated"
+#~ msgstr "Beliebt nach meist bewertet"
+
+#~ msgid "Popular by most commented"
+#~ msgstr "Beliebt nach meist kommentiert"
+
+#~ msgid "HH: Post Carousel"
+#~ msgstr "HH: Beitrags Carousel"
+
+#~ msgid "Show posts as a carousel."
+#~ msgstr "Zeigt Beiträge als Carousel."
+
+#~ msgid "Stars"
+#~ msgstr "Sterne"
+
+#~ msgid "Hide Comments:"
+#~ msgstr "Kommentare ausblenden:"
+
+#~ msgid "Hide Likes:"
+#~ msgstr "Verstecke Likes:"
+
+#~ msgid "Hide Rating:"
+#~ msgstr "Verstecke Bewertungen:"
+
+#~ msgid "HH: Trending Posts"
+#~ msgstr "HH: Angesagte Beiträge"
+
+#~ msgid "Shows trending posts of a specific period."
+#~ msgstr "Zeigt aufsteigende Beiträge aus einem speziellen Zeitraum an."
+
+#~ msgid "Show trending post of the last days, ordered by postview:"
+#~ msgstr ""
+#~ "Zeigt aufsteigende Beiträge der letzten Tage, sortiert nach "
+#~ "Beitragsanzeigen:"
+
+#~ msgid "HH: Recent / Popular Posts V.1"
+#~ msgstr "HH: Neue / Beliebte Beiträge V.1"
+
+#~ msgid "Show recent or popular posts."
+#~ msgstr "Die letzten oder beliebtesten Beiträge anzeigen."
+
+#~ msgid "HH: Social"
+#~ msgstr "HH: Social"
+
+#~ msgid "Show your social links."
+#~ msgstr "Zeigt die sozialen Profile an."
+
+#~ msgid ""
+#~ "Manage your social profiles in WP admin &rarr; Theme Settings &rarr; "
+#~ "Social"
+#~ msgstr ""
+#~ "Verwalten Sie Ihre sozialen Profile in WP Admin → Theme Einstellungen → "
+#~ "Sozial"
+
+#~ msgid ""
+#~ "This website uses cookies to ensure you get the best experience on our "
+#~ "website."
+#~ msgstr ""
+#~ "Wir verwenden Cookies für das beste Surferlebnis. Wenn du weitersurfst, "
+#~ "stimmst du der Nutzung von Cookies zu."
+
+#~ msgid "I understand"
+#~ msgstr "Verstanden"
+
+#~ msgid "Privacy Policy"
+#~ msgstr "Datenschutz-Bestimmungen"
+
+#~ msgid "by"
+#~ msgstr "von"
+
+#~ msgid "%1$s ago"
+#~ msgstr "vor %1$s"
+
+#~ msgid "Full Image Resolution"
+#~ msgstr "Volle Bildauflösung"
+
+#~ msgid "No image found"
+#~ msgstr "Kein Bild gefunden"
+
+#~ msgid "Search Results for: %s"
+#~ msgstr "Suchergebnisse für: %s"
+
+#~ msgid "Hannah CD"
+#~ msgstr "Hannah CD"
+
+#~ msgid "http://www.creative-dive.de/themes/hannah/"
+#~ msgstr "http://www.creative-dive.de/themes/hannah/"
+
+#~ msgid "Hannah - The Fashion and Lifestyle Blog"
+#~ msgstr "Hannah - The Fashion and Lifestyle Blog"
+
+#~ msgid "Shows the Masonry Grid layout in the selected number of columns."
+#~ msgstr ""
+#~ "Zeigt das Masonry Grid Layout in der ausgewählten Anzahl der Spalten."
+
+#~ msgid ""
+#~ "Show me <a href=\"//fontawesome.io/icons/\" target=\"_blank\">all icons</"
+#~ "a>. e.g. \"fa-envelope\""
+#~ msgstr ""
+#~ "Zeige mir <a href=\"//fontawesome.io/icons/\" target=\"_blank\">alle "
+#~ "Icons</a>. z.B. \"fa-envelope\""
+
+#~ msgid "Sections Settings"
+#~ msgstr "Bereichs-Einstellungen"
+
+#~ msgid "Shows a compact header version instead."
+#~ msgstr "Zeigt stattdessen einen kompakten Header an."
+
+#~ msgid "Shows a centered header version instead."
+#~ msgstr "Zeigt stattdessen einen zentrierten Header an."
+
+#~ msgid "Shows a full width header."
+#~ msgstr "Zeige einen Header in voller Breite an."
+
+#~ msgid "Shows a full page header."
+#~ msgstr "Zeige einen Header der sich über die ganze Seite erstreckt."
+
+#~ msgid "Upload your Logo."
+#~ msgstr "Lade dein Logo hoch."
+
+#~ msgid "Pie Chart Bar Color"
+#~ msgstr "Farbe des Kuchendiagramms"
+
+#~ msgid "e.g. #1d71b8"
+#~ msgstr "z.B. #1d71b8"
+
+#~ msgid "Shows sitemap items their thumbnails."
+#~ msgstr "Zeigt die Sitemap-Elemente mit ihrem Miniaturbild an."
+
+#~ msgid "Page ID separated with comma: e.g. 13,5,22"
+#~ msgstr "Seiten ID getrennt durch Komma: z.B. 13,5,22"
+
+#~ msgid ""
+#~ "Here you can find <a href=\"//fontawesome.io/icons/\" target=\"_blank"
+#~ "\">all icons</a>. e.g. \"fa-quote-right\""
+#~ msgstr ""
+#~ "Hier findest du alle <a href=\"//fontawesome.io/icons/\" target=\"_blank"
+#~ "\">Icons</a>. z.B. \"fa-quote-right\""
+
+#~ msgid "A short title."
+#~ msgstr "Ein kurzer Titel."
+
+#~ msgid "A short description."
+#~ msgstr "Eine kurze Beschreibung."
+
+#~ msgid "Shows a header with background-image or -video."
+#~ msgstr "Zeigt einen Header mit einem Hintergrundbild oder -video an."
+
+#~ msgid "Add widgets here to appear in your sidebar."
+#~ msgstr ""
+#~ "Fügen Sie hier Widgets ein, die in der Sidebar angezeigt werden sollen."
+
+#~ msgid "not found"
+#~ msgstr "nichts gefunden"
+
+#~ msgid "Others"
+#~ msgstr "Sonstiges"
+
+#~ msgid "Round header end"
+#~ msgstr "Abgerundetes Header-Ende"
+
+#~ msgid "Shows a rounded SVG file at the bottom of the header."
+#~ msgstr "Zeigt eine abgerundetes SVG Datei am Ende des Headers an."
+
+#~ msgid "Top Navigation Color"
+#~ msgstr "Obere Navigationsfarbe"
+
+#~ msgid ""
+#~ "Shows the top navigation in white version, instead of main color version."
+#~ msgstr ""
+#~ "Zeigt die obere Navigation in weißer Farbe, anstatt den Hauptfarbe an."
+
+#~ msgid "Breadcrumb Menu"
+#~ msgstr "Brotkrümelmenü"
+
+#~ msgid "Shows the breadcrumb navigation at the top of the site."
+#~ msgstr "Zeigt ein Brotkrümelmenü im oberen Bereich der Seite an."
+
+#~ msgid "Page: Download"
+#~ msgstr "Seite: Download"
+
+#~ msgid "Downloads"
+#~ msgstr "Downloads"
+
+#~ msgid "External Link"
+#~ msgstr "Externer Link"
+
+#~ msgid "File"
+#~ msgstr "Datei"
+
+#~ msgid "Subheading"
+#~ msgstr "Zwischenüberschrift"
+
+#~ msgid "Title for Subheading"
+#~ msgstr "Titel der Zwischenüberschrift"
+
+#~ msgid "Add file / link"
+#~ msgstr "Datei / Link hinzufügen"
+
+#~ msgid "Page: Seminar"
+#~ msgstr "Seite: Seminar"
+
+#~ msgid "Dates"
+#~ msgstr "Daten"
+
+#~ msgid "The title above the dates."
+#~ msgstr "Der Titel über den Datumsangaben."
+
+#~ msgid "Time (start)"
+#~ msgstr "Zeit (beginn)"
+
+#~ msgid "Time (end)"
+#~ msgstr "Zeit (ende)"
+
+#~ msgid "Add a date"
+#~ msgstr "Datum hinzufügen"
+
+#~ msgid "The dates are automatically output in the corresponding form."
+#~ msgstr "Die Daten werden automatisch im zugeordneten Formular hinzugefügt."
+
+#~ msgid "Instructor(s)"
+#~ msgstr "Dozent(en)"
+
+#~ msgid "The title above the instructor."
+#~ msgstr "Der Titel über den Dozenten."
+
+#~ msgid "Instructor"
+#~ msgstr "Dozent"
+
+#~ msgid "Content Section: Pie Charts"
+#~ msgstr "Inhaltsbereich: Kuchendiagramme"
+
+#~ msgid "Pie Charts"
+#~ msgstr "Kuchendiagramme"
+
+#~ msgid "e.g. bounce rate or customers"
+#~ msgstr "z.B. Absprungrate oder Kunden"
+
+#~ msgid "Should be the same as percent input."
+#~ msgstr "Sollte der selbe Wert wie im Prozentfeld sein."
+
+#~ msgid "e.g. %, minutes or something"
+#~ msgstr "z.B. %, Minuten oder sonstiges"
+
+#~ msgid "Percent"
+#~ msgstr "Prozent"
+
+#~ msgid "How full is the line of the pie? From 0 - 100 (e.g. 52.6)"
+#~ msgstr ""
+#~ "Wie sehr soll das Kuchendiagramm gefüllt sein? Von 0 - 100 (z.B. 52.6)"
+
+#~ msgid "Add chart"
+#~ msgstr "Diagramm hinzufügen"
+
+#~ msgid "Add Pie Charts"
+#~ msgstr "Kuchendiagramme hinzufügen"
+
+#~ msgid "Content Section: Prices"
+#~ msgstr "Inhaltsbereich: Preise"
+
+#~ msgid "Service / Packages"
+#~ msgstr "Dienstleistung / Paket"
+
+#~ msgid "Currency"
+#~ msgstr "Währung"
+
+#~ msgid "e.g. &euro; or $"
+#~ msgstr "z.B. &euro; oder $"
+
+#~ msgid "Price"
+#~ msgstr "Preis"
+
+#~ msgid "Enter without currency!"
+#~ msgstr "Ohne Währung eingeben!"
+
+#~ msgid "Period"
+#~ msgstr "Zyklus"
+
+#~ msgid "e.g. per month or year"
+#~ msgstr "z.B. pro Monat oder Jahr"
+
+#~ msgid "Highlight?"
+#~ msgstr "Hervorheben?"
+
+#~ msgid "Is color highlighted."
+#~ msgstr "Wird hervorgehoben."
+
+#~ msgid "Add line"
+#~ msgstr "Zeile hinzufügen"
+
+#~ msgid "Contents"
+#~ msgstr "Inhalte"
+
+#~ msgid "Add Service / Package"
+#~ msgstr "Dienstleistung / Paket hinzufügen"
+
+#~ msgid "Prices"
+#~ msgstr "Preise"
+
+#~ msgid "Pie Chart"
+#~ msgstr "Kuchendiagramm"
+
+#~ msgid "Currently no dates are available."
+#~ msgstr "Derzeit sind keine Termine verfügbar."
+
+#~ msgid "Small Business CD Helper"
+#~ msgstr "Small Business CD Helper"
+
+#~ msgid "Set the parent_slug config variable instead."
+#~ msgstr "Setze statt dessen die Konfigurationsvariable parent_slug."
+
+#~ msgid "SB: About Author"
+#~ msgstr "SB: Über den Autor"
+
+#~ msgid "SB: Categories"
+#~ msgstr "SB: Kategorien"
+
+#~ msgid "SB: Comments"
+#~ msgstr "SB: Kommentare"
+
+#~ msgid "SB: Instagram"
+#~ msgstr "SB: Instagram"
+
+#~ msgid "SB: Newsletter"
+#~ msgstr "SB: Newsletter"
+
+#~ msgid "SB: Recent / Popular Pages"
+#~ msgstr "SB: Neue / Beliebte Seiten"
+
+#~ msgid "SB: Recent / Popular Posts V.2"
+#~ msgstr "SB: Neue / Beliebte Beiträge V.2"
+
+#~ msgid "SB: Trending Posts"
+#~ msgstr "SB: Aufsteigende Beitrage"
+
+#~ msgid "SB: Recent / Popular Posts V.1"
+#~ msgstr "SB: Neue / Beliebte Beiträge V.1"
+
+#~ msgid "SB: Social"
+#~ msgstr "SB: Social"
+
+#~ msgid "No Post Image"
+#~ msgstr "Kein Beitragsbild"
+
+#~ msgid "SmallBusiness CD"
+#~ msgstr "SmallBusiness CD"
+
+#~ msgid "http://www.creative-dive.de/themes/small-business/"
+#~ msgstr "http://www.creative-dive.de/themes/small-business/"
+
+#~ msgid "Small Business - Minimal WordPress Template for your Startup"
+#~ msgstr "Small Business - Minimal WordPress Template für Startups"
+
+#~ msgid "Icon for List-Elements"
+#~ msgstr "Icons für Listen-Elemente"
+
+#~ msgid ""
+#~ "Here you can find <a href=\"//fontawesome.io/icons/\" target=\"_blank"
+#~ "\">all icons</a>. e.g. \"fa-check-circle\""
+#~ msgstr ""
+#~ "Hier findest du alle <a href=\"//fontawesome.io/icons/\" target=\"_blank"
+#~ "\">Icons</a>. z.B. \"fa-check-circle\""
+
+#~ msgid ""
+#~ "The icon which appears in the browser. Use &#33;.ICO&#33; file format in "
+#~ "64 x 64 px."
+#~ msgstr ""
+#~ "Das Icon was im Browser angezeigt wird. Benutze das &#33;.ICO&#33; "
+#~ "Dateiformat in 64 x 64 px."
+
+#~ msgid "Image Placeholder"
+#~ msgstr "Bild-Platzhalter"
+
+#~ msgid "Shows an image placeholder, if no thumbnail is selected."
+#~ msgstr ""
+#~ "Zeigt einen Bildplatzhalter an, wenn kein Miniaturbild ausgewählt ist."
+
+#~ msgid ""
+#~ "If you add new google web fonts, you have to separate the „Font-Name“ and "
+#~ "„Font-Weight“ in the following fields. The default font is Open Sans. "
+#~ "Here you can find all <a href=\"https://fonts.google.com/\" target="
+#~ "\"_blank\">google fonts</a>. <b><u>Please do not enter Typekit fonts here!"
+#~ "</u></b>"
+#~ msgstr ""
+#~ "Wenn du neue Google Webfonts hinzufügen willst, musst du den Font-Namen "
+#~ "und die Font-Stärke voneinander trennen und in die folgenden Felder "
+#~ "eingeben. Die Standardschrift ist Open Sand. Hier findest du weitere <a "
+#~ "href=\"https://fonts.google.com/\" target=\"_blank\">Google Webfonts</a>. "
+#~ "<b><u>Bitte gib hier keine Typekit Fonts ein!</u></b>"
+
+#~ msgid ""
+#~ "Insert your Adobe Typekit Token (Kit-ID). You have to be <a href="
+#~ "\"https://typekit.com\" target=\"_blank\">registered</a> to use the fonts "
+#~ "from Adobe Typekit."
+#~ msgstr ""
+#~ "Füge hier deinen Adobe Typekit Token (kit-ID) ein. Du musst <a href="
+#~ "\"https://typekit.com\" target=\"_blank\">registriert</a> sein um diese "
+#~ "Schriften nutzen zu können."
+
+#~ msgid ""
+#~ "Here you can find <a href=\"http://fontawesome.io/icons/\" target=\"_blank"
+#~ "\">all icons</a>. e.g. \"fa-check-circle\""
+#~ msgstr ""
+#~ "Hier kannst Du <a href=\"http://fontawesome.io/icons/\" target=\"_blank"
+#~ "\">alle Icons</a> finden. z.B. \"fa-check-circle\""
+
+#~ msgid ""
+#~ "The icon which appears in the browser. Use „.ICO“ file format in 64 x 64 "
+#~ "px."
+#~ msgstr ""
+#~ "Das Icons welches im Browser angezeigt wird. Benutzer das „.ICO“ "
+#~ "Dateiformat in 64 x 64 px."
+
+#~ msgid "Default is: „Oops! That page can’t be found.“"
+#~ msgstr "Standard ist: \"Oops! Diese Seite kann nicht gefunden werden.\""
+
+#~ msgid ""
+#~ "Default is: „It looks like nothing was found at this location. Maybe try "
+#~ "a search?“"
+#~ msgstr ""
+#~ "Default is: \"Wie es aussieht, wurde an dieser Stelle nichts gefunden. "
+#~ "Möchten Sie danach suchen?\""
+
+#~ msgid ""
+#~ "Here you can find <a href=\"http://fontawesome.io/icons/\" target=\"_blank"
+#~ "\">all icons</a>. e.g. \"fa-phone\""
+#~ msgstr ""
+#~ "Hier kannst Du <a href=\"http://fontawesome.io/icons/\" target=\"_blank"
+#~ "\">alle Icons</a> finden. z.B. \"fa-phone\""
+
+#~ msgid ""
+#~ "The custom zoom value is only used, when you have one location selected. "
+#~ "Default value is „12“."
+#~ msgstr ""
+#~ "Der Zoom-Wert wird nur genutzt, wenn du max. einen Ort anzeigst. "
+#~ "Standardwert ist „12“."
+
+#~ msgid "Shows the „Masonry Grid“ layout in the selected number of columns."
+#~ msgstr ""
+#~ "Zeigt das „Masonry Grid“ Layout in der gewählten Anzahl an Spalten an."
+
+#~ msgid "Post per Page for „Masonry Grid“"
+#~ msgstr "Beiträge pro Seite für „Masonry Grid“"
+
+#~ msgid ""
+#~ "Here you can find <a href=\"http://fontawesome.io/icons/\" target=\"_blank"
+#~ "\">all icons</a>. e.g. \"fa-facebook\""
+#~ msgstr ""
+#~ "Hier kannst Du <a href=\"http://fontawesome.io/icons/\" target=\"_blank"
+#~ "\">alle Icons</a> finden. z.B. \"fa-facebook\""
+
+#~ msgid "Page - Content Section: Features 2"
+#~ msgstr "Seite - Inhaltsbereich: Features 2"
+
+#~ msgid ""
+#~ "Here you can find <a href=\"http://fontawesome.io/icons/\" target=\"_blank"
+#~ "\">all icons</a>. e.g. \"fa-quote-right\""
+#~ msgstr ""
+#~ "Hier kannst Du <a href=\"http://fontawesome.io/icons/\" target=\"_blank"
+#~ "\">alle Icons</a> finden. z.B. \"fa-quote-right\""
+
+#~ msgid "Page – Content Section: Banner"
+#~ msgstr "Seite - Inhaltsbereich: Banner"
+
+#~ msgid "Page – Content Section: Custom HTML"
+#~ msgstr "Seite - Inhaltsbereich: Benutzerdefiniertes HTML"
+
+#~ msgid "Page – Content Section: Features 1"
+#~ msgstr "Seite - Inhaltsbereich: Features 1"
+
+#~ msgid "Page – Content Section: Features 3"
+#~ msgstr "Seite - Inhaltsbereich: Features 3"
+
+#~ msgid "Page – Content Section: Image"
+#~ msgstr "Seite - Inhaltsbereich: Bild"
+
+#~ msgid "Page – Content Section: Image Animated"
+#~ msgstr "Seite - Inhaltsbereich: Animiertes Bild"
+
+#~ msgid "Page – Content Section: Logos"
+#~ msgstr "Seite – Inhaltsbereich: Logos"
+
+#~ msgid "Page – Content Section: Newsletter"
+#~ msgstr "Seite - Inhaltsbereich: Newsletter"
+
+#~ msgid "Page – Content Section: Pie Charts"
+#~ msgstr "Seite - Inhaltsbereich: Kuchendiagramme"
+
+#~ msgid "Page – Content Section: Post / Page Teaser"
+#~ msgstr "Seite - Inhaltsbereich: Beitrag / Seiten Teaser"
+
+#~ msgid "Page – Content Section: Prices"
+#~ msgstr "Seite - Inhaltsbereich: Preise"
+
+#~ msgid "e.g. € or $"
+#~ msgstr "z.B. € or $"
+
+#~ msgid "Page – Content Section: Reviews"
+#~ msgstr "Seite - Inhaltsbereich: Bewertungen"
+
+#~ msgid ""
+#~ "Only one more step and you can start with setting up the theme. Advanced "
+#~ "Custom Fields Pro is a required plugin."
+#~ msgstr ""
+#~ "Nur noch ein Schritt bis du mit der Einstellung des Themas beginnen "
+#~ "kannst. Advanced Custom Fields Pro ist ein erforderliches Plugin."
+
+#~ msgid "Go to WordPress Plugin Page > Install and activate the plugin."
+#~ msgstr ""
+#~ "Gehe zur WordPress Plugin Seite > Installiere und aktiviere das Plugin."
+
+#~ msgid "About Author"
+#~ msgstr "Über den Autor"
+
+#~ msgid "Instagram"
+#~ msgstr "Instagram"
+
+#~ msgid "Recent / Popular Pages"
+#~ msgstr "Aktuelle / Beliebte Seiten"
+
+#~ msgid "Recent / Popular Posts V.2"
+#~ msgstr "Aktuelle / Beliebte Beiträge V.2"
+
+#~ msgid "Trending Posts"
+#~ msgstr "Aufsteigende Beiträge"
+
+#~ msgid "Recent / Popular Posts V.1"
+#~ msgstr "Aktuelle / Beliebte Beiträge V.1"
+
+#~ msgid ""
+#~ "Only one more step and you can start by setting up the theme. Advanced "
+#~ "Custom Fields Pro is a required plugin."
+#~ msgstr ""
+#~ "Nur noch ein weiterer Schritt und du kannst mit der Einrichtung des "
+#~ "Themas beginnen. Advanced Custom Fields Pro ist ein erforderliches Plugin."
+
+#~ msgid ""
+#~ "The better way is using a separate plugin to include your google "
+#~ "analytics code. Feel free to decide, if you use a plugin or this way. "
+#~ "Please do not forget to move the google analytics code if you use an "
+#~ "other theme than that."
+#~ msgstr ""
+#~ "Der beste Weg ist ein separates Plugin für die Einbindung von Google "
+#~ "Analytics zu nutzen. Fühle dich frei zu entscheiden ob du ein Plugin oder "
+#~ "diesen Weg nutzt. Bitte vergesse nicht, den Google Analytics Code "
+#~ "mitzunehmen, falls du ein anderes Theme nutzt als dieses."
+
+#~ msgid "Google Analytics (optional)"
+#~ msgstr "Google Analytics (optional)"
+
+#~ msgid "Tracking-ID"
+#~ msgstr "Tracking-ID"
+
+#~ msgid "e.g. UA-39xxxxx-1"
+#~ msgstr "z.B. UA-39xxxxx-1"
+
+#~ msgid "Anonymized"
+#~ msgstr "Anonymisiert"
+
+#~ msgid "Not anonymized"
+#~ msgstr "Nicht Anonymisiert"
+
+#~ msgid "Anonymize IP"
+#~ msgstr "Anonymisierte IP"
+
+#~ msgid "This is a question of web page privacy."
+#~ msgstr "Das ist eine Frage des Datenschutzes deiner Webseite."
+
+#~ msgid ""
+#~ "Published <time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</"
+#~ "time> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+#~ "%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">"
+#~ "%7$s</a>"
+#~ msgstr ""
+#~ "Ver&ouml;ffentlicht <span class=\"entry-date\"><time class=\"entry-date\" "
+#~ "datetime=\"%1$s\" pubdate>%2$s</time></span> um <a href=\"%3$s\" title="
+#~ "\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" "
+#~ "title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+
+#~ msgid "Analytics"
+#~ msgstr "Analyse-Tracking"
+
+#~ msgid ""
+#~ "You can use an analytics code (e.g. Google Analytics). Enter here the "
+#~ "complete code incl. the script tags."
+#~ msgstr ""
+#~ "Du kannst einen Analyse-Code verwenden (z.B. Google Analytics). Gibt dazu "
+#~ "den kompletten Tracking-Code inkl. der Script-Tags ein."
+
+#~ msgid ""
+#~ "You can embed text, images, or forms (for example, using the plugin "
+#~ "Contact Form 7)."
+#~ msgstr ""
+#~ "Du kannst Text, Bilder oder Formulare (z.B. das Plugin Contact Form 7) "
+#~ "einbinden."
+
+#~ msgid ""
+#~ "Insert the Mailchimp shortcode or a other form. You must install the "
+#~ "WordPress plugin <a href=\"https://de.wordpress.org/plugins/mailchimp-for-"
+#~ "wp/\" target=\"_blank\">MailChimp</a>."
+#~ msgstr ""
+#~ "Füge hier den MailChimp Shortcode oder andere Formulare ein. Du musst "
+#~ "zuvor das Wordpress Plugin <a href=\"https://de.wordpress.org/plugins/"
+#~ "mailchimp-for-wp/\" target=\"_blank\">MailChimp</a> installiert haben."
+
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to install the %1$s "
+#~ "plugin."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to install the %1$s "
+#~ "plugins."
+#~ msgstr[0] ""
+#~ "Sorry, aber Sie haben nicht die erforderlichen Berechtigungen, um dieses "
+#~ "%1$s Plugin zu installieren."
+#~ msgstr[1] ""
+#~ "Sorry, aber Sie haben nicht die erforderlichen Berechtigungen, um diese "
+#~ "%1$s Plugins zu installieren."
+
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to update the %1$s "
+#~ "plugin."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to update the %1$s "
+#~ "plugins."
+#~ msgstr[0] ""
+#~ "Sorry, aber Sie haben nicht die erforderlichen Berechtigungen, um das "
+#~ "%1$s Plugin zu aktualisieren."
+#~ msgstr[1] ""
+#~ "Sorry, aber Sie haben nicht die erforderlichen Berechtigungen, um diese "
+#~ "%1$s Plugins zu aktualisieren."
+
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to activate the %1$s "
+#~ "plugin."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to activate the %1$s "
+#~ "plugins."
+#~ msgstr[0] ""
+#~ "Sorry, aber Sie haben nicht die erforderlichen Berechtigungen, um dieses "
+#~ "%1$s Plugin zu aktivieren."
+#~ msgstr[1] ""
+#~ "Sorry, aber Sie haben nicht die erforderlichen Berechtigungen, um diese "
+#~ "%1$s Plugins zu aktivieren."
+
+#~ msgid "Return to the dashboard"
+#~ msgstr "Zurück zum Dashboard"
+
+#~ msgctxt "%s = version number"
+#~ msgid "TGMPA v%s"
+#~ msgstr "TGMPA v%s"
+
+#~ msgctxt "%1$s = install status, %2$s = update status"
+#~ msgid "%1$s, %2$s"
+#~ msgstr "%1$s, %2$s"
+
+#~ msgid ""
+#~ "No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+#~ "Dashboard</a>"
+#~ msgstr ""
+#~ "Keine Plugins zu installieren, zu aktualisieren oder zu aktivieren. <a "
+#~ "href=\"%1$s\">Zurück zum Dashboard</a>"
+
+#~ msgctxt "%2$s = plugin name in screen reader markup"
+#~ msgid "Install %2$s"
+#~ msgstr "Installiere %2$s"
+
+#~ msgctxt "%2$s = plugin name in screen reader markup"
+#~ msgid "Update %2$s"
+#~ msgstr "Aktualisiere %2$s"
+
+#~ msgctxt "%2$s = plugin name in screen reader markup"
+#~ msgid "Activate %2$s"
+#~ msgstr "Aktiviere %2$s"
+
+#~ msgid "Small Business by CreativeDive"
+#~ msgstr "Small Business by CreativeDive"
+
+#~ msgid "Small Business - Minimal Wordpress Template for your Startup"
+#~ msgstr "Small Business - Minimal Wordpress Template for your Startup"
+
+#~ msgid "Page "
+#~ msgstr "Seite"
+
+#~ msgid "Don't display in default colors"
+#~ msgstr "Nicht in den Standardfarben anzeigen"
+
+#~ msgid "Page Content"
+#~ msgstr "Seiteninhalt"
+
+#~ msgid "Show content here"
+#~ msgstr "Zeige den Inhalt hier"
+
+#~ msgid "Hide the content"
+#~ msgstr "Inhalt ausblenden"
+
+#~ msgid "Your logo in default colors."
+#~ msgstr "Dein Logo in den Standard-Farben."
+
+#~ msgid "Your logo in white version."
+#~ msgstr "Dein Logo in weißen Farben."
+
+#~ msgid ""
+#~ "Need for structured data by schema.org. Important notice: Do not use .SVG "
+#~ "file for this field! Also appears in the footer."
+#~ msgstr ""
+#~ "Wird für strukturierte Daten nach schema.org benötigt. Bitte beachte: "
+#~ "Verwende hierfür keine SVG-Datei! Wird im Footer angezeigt."
+
+#~ msgid "Width of the logo in pixels."
+#~ msgstr "Breite des Logos in Pixeln."
+
+#~ msgid ""
+#~ "Please note the following guidelines. For font familiy usage: e.g. <code>"
+#~ "\"Open+Sans\" or \"mrs-eaves\"</code>. For free spaces by Google, use "
+#~ "<code>\"+\"</code> or by Typekit <code>\"-\"</code> instead. For font "
+#~ "weight usage: e.g. <code>\"300\" or \"600\"</code>. Use only one value."
+#~ msgstr ""
+#~ "Bitte beachte die folgenden Richtlinien. Für Schrift-Familien: z.B. <code>"
+#~ "\"Open+Sans\" or \"mrs-eaves\"</code>. Bei Leerzeichen für Google "
+#~ "Webschriften, benutze ein <code>\"+\"</code> für Typekit Webschriften ein "
+#~ "<code>\"-\"</code> stattdessen. Für die Schriftstärke: z.B. <code>\"300\" "
+#~ "or \"600\"</code>. Benutze nur einen Wert!"
+
+#~ msgid "Define all Google Webfonts you want to use"
+#~ msgstr "Definiere hier alle Google Webschriften die du verwenden willst."
+
+#~ msgid ""
+#~ "If you add new google web fonts, you must separate the font-name and font-"
+#~ "weight into following fields. The default font is Open Sans. Find all <a "
+#~ "href=\"https://fonts.google.com/\" target=\"_blank\">google fonts</a>. "
+#~ "<b><u>Please do not enter Typekit fonts here.</u></b>"
+#~ msgstr ""
+#~ "Wenn du neue Google Webschriften hinzufügen willst, kannst du den Schrift-"
+#~ "Namen und die Schrift-Stärke in den folgenden Feldern eintragen. Die "
+#~ "Standard-Schrift ist \"Open Sans\". Alle weiteren Google Fonts kannst du "
+#~ "<a href=\"https://fonts.google.com/\" target=\"_blank\">hier</a> finden. "
+#~ "<b><u>Bitte gib hier keine Typekit Schriften ein.</u></b>"
+
+#~ msgid "Activation of Adobe Typekit Fonts"
+#~ msgstr "Aktivierung von Adobe Typekit Schriften"
+
+#~ msgid ""
+#~ "If this is enabled, you can embed the Typekit fonts. <b>Important</b>: "
+#~ "You can not define the font here. You can do that, in your Adobe account "
+#~ "only!"
+#~ msgstr ""
+#~ "Wenn dies aktiviert ist, kannst du Typekit Schriften verwenden. "
+#~ "<b>Wichtig</b>: Du kannst die Schriften nicht hier definieren. Du kannst "
+#~ "das ausschließlich über deinen Adobe Account tun!"
+
+#~ msgid ""
+#~ "Insert your Adobe Typekit Token (Kit-ID). You must be <a href=\"https://"
+#~ "typekit.com\" target=\"_blank\">registered</a> to use the fonts from "
+#~ "Adobe."
+#~ msgstr ""
+#~ "Füge deinen Adobe Typekit Token (Kit-ID) ein. Du musst ein <a href="
+#~ "\"https://typekit.com\" target=\"_blank\">registriertes Mitglied</a> "
+#~ "sein, um Adobe Webschriften nutzen zu können."
+
+#~ msgid ""
+#~ "Find all icons <a href=\"http://fontawesome.io/icons/\" target=\"_blank"
+#~ "\">here</a>. e.g. \"fa-quote-right\""
+#~ msgstr ""
+#~ "Finde alle Icons <a href=\"http://fontawesome.io/icons/\" target=\"_blank"
+#~ "\">hier</a>. z.B. \"fa-quote-right\""
+
+#~ msgid "Tipp: Use 180 x 180 px. Is better when it is scaled small."
+#~ msgstr ""
+#~ "Tipp: Benutze mind. 180 x 180 px. Ist besser wenn das Icon kleiner "
+#~ "skaliert wird."
+
+#~ msgid "Do you want to show the section?"
+#~ msgstr "Willst Du diesen Bereich anzeigen?"
+
+#~ msgid "Where is displayed?"
+#~ msgstr "Wo soll der Bereich angezeigt werden?"
+
+#~ msgid ""
+#~ "Find all icons <a href=\"http://fontawesome.io/icons/\" target=\"_blank"
+#~ "\">here</a>. e.g. \"fa-phone\""
+#~ msgstr ""
+#~ "Finde alle Icons <a href=\"http://fontawesome.io/icons/\" target=\"_blank"
+#~ "\">hier</a>. z.B. \"fa-phone\""
+
+#~ msgid "Shows the search in main navigation."
+#~ msgstr "Zeigt die Suche in der Hauptnavigation an."
+
+#~ msgid "Shows a image placeholder, if no thumbnail is selected."
+#~ msgstr "Zeigt einen Bild-Platzhalter, wenn keine Miniatur ausgewählt ist."
+
+#~ msgid "Shows a Scroll to Top Button at bottom of the page."
+#~ msgstr "Zeigt einen Button der bei Klick an den Anfang der Seite scrollt."
+
+#~ msgid ""
+#~ "If you used an analytics code (e.g. Google Analytics), enter here the "
+#~ "complete code incl. the script tags."
+#~ msgstr ""
+#~ "Wenn du eine Analyse-Tracking (z.B. Google Analytics), verwendest, kannst "
+#~ "Du hier den kompletten Tracking-Code inkl. der Script-Tags eingeben."
+
+#~ msgid "Show the author section below the post."
+#~ msgstr "Zeigt den Autor-Bereich nach dem Beitrag an."
+
+#~ msgid "Shows tags at bottom of post content."
+#~ msgstr "Zeigt die Schlagwörter am Ende des Beitragsinhaltes an."
+
+#~ msgid "Shows related posts after post content."
+#~ msgstr "Zeigt verwandte Beiträge nach dem Beitragsinhalt."
+
+#~ msgid "In which layout you want to view the archive / category pages?"
+#~ msgstr ""
+#~ "In welchem Layout willst du die Archive / Kategorie Seiten anzeigen?"
+
+#~ msgid "Only in use, if the layout \"masonry grid\" is chosen!"
+#~ msgstr "Ist nur relevant, wenn „Masonry Grid“ Layout gewählt ist!"
+
+#~ msgid "Post per Page for masonry layout"
+#~ msgstr "Beiträge pro Seite für Masonry Grid"
+
+#~ msgid ""
+#~ "Show the post meta bar (Author, Category, Comments & Views) after the "
+#~ "title."
+#~ msgstr ""
+#~ "Zeigt die Beitrags-Meta-Leiste (Autor, Kategorie, Kommentare und "
+#~ "Anzeigen) nach dem Titel an."
+
+#~ msgid "Hide or show sidebar on all posts and pages."
+#~ msgstr "Verstecke oder zeig die Sidebar bei allen Beiträgen und Seiten."
+
+#~ msgid "Show sidebar on the left or right side."
+#~ msgstr "Zeige die Sidebar auf der linken oder rechten Seite."
+
+#~ msgid "Shows a Footerbar with widgets."
+#~ msgstr "Zeigt die Footerleiste mit Widgets an."
+
+#~ msgid "Do you want to show the eu cookie law bar?"
+#~ msgstr "Willst du die Cookiebar anzeigen?"
+
+#~ msgid "Do you want to show the accept button?"
+#~ msgstr "Willst du diesen Button anzeigen?"
+
+#~ msgid "The label of the agree / close button."
+#~ msgstr "Die Beschriftung des Buttons."
+
+#~ msgid "Do you want to show the privacy policy button?"
+#~ msgstr "Willst du diesen Button anzeigen?"
+
+#~ msgid ""
+#~ "Set to true to silently accept cookies when visitor moves to another page."
+#~ msgstr ""
+#~ "Die Cookiebar wird ausgeblendet sobald eine andere Seite besucht wurde."
+
+#~ msgid ""
+#~ "Set to true to accept cookies when visitor scrolls 200 pixels up or down."
+#~ msgstr ""
+#~ "Die Cookiebar wird ausgeblendet, sobald 200 Pixel nach untern geschellt "
+#~ "wurde."
+
+#~ msgid "Settings: Google Map Section"
+#~ msgstr "Einstellungen: Google Maps Bereich"
+
+#~ msgid ""
+#~ "You need an <a target=\"_blank\" href=\"https://developers.google.com/"
+#~ "maps/documentation/javascript/get-api-key\">Google Maps API Key</a> for "
+#~ "embed the map in your website. e.g. \"AIzaSyCEprRgdAfS753A ...\""
+#~ msgstr ""
+#~ "Du benötigst einen <a target=\"_blank\" href=\"https://developers.google."
+#~ "com/maps/documentation/javascript/get-api-key\">Google Maps API "
+#~ "Schlüssel</a> um die Karte auf deiner Webseite einzubetten. z.B. "
+#~ "\"AIzaSyCEprRgdAfS753A ...\""
+
+#~ msgid "Google Maps coordinates"
+#~ msgstr "Google Maps Koordinaten"
+
+#~ msgid "e.g. 45.200, -72.4310"
+#~ msgstr "z.B. 45.200, -72.4310"
+
+#~ msgid "Google Maps zoom"
+#~ msgstr "Google Maps Vergrößerung"
+
+#~ msgid "e.g. 12"
+#~ msgstr "z.B. 12"
+
+#~ msgid "Google Maps URL"
+#~ msgstr "Google Maps URL"
+
+#~ msgid ""
+#~ "You can call popup layers with your ID (e.g. <code>\"request\"</code>). "
+#~ "You can open this via buttons or links in the content (e.g. <code>\"< a "
+#~ "href=\"#request\">Click me< /a ></code>)."
+#~ msgstr ""
+#~ "Du kannst PopUp Layer über ihre ID aufrufen (z.B. <code>\"request\"</"
+#~ "code>). Du kannst sie über Buttons oder Links im Inhalt (z.B. <code>\"< a "
+#~ "href=\"#request\">Klick mich< /a ></code>) verwenden."
+
+#~ msgid "Show your social profile icons at the bottom of the page."
+#~ msgstr ""
+#~ "Zeigt die Ansammlung deiner sozialen Profile am unteren Ende der Seite an."
+
+#~ msgid "Show the social postbar at the bottom of post content."
+#~ msgstr ""
+#~ "Zeigt eine Beitragsleiste mit einer Teilen-Funktion am Ende des Beitrags "
+#~ "an."
+
+#~ msgid ""
+#~ "Show a fixed social sharing sidebar in posts. (is visible by page "
+#~ "scrolling)"
+#~ msgstr ""
+#~ "Zeigt eine fixierte Seitenleiste mit einer Teilen-Funktion in Beiträgen "
+#~ "an. (immer sichtbar beim scrollen)"
+
+#~ msgid "Show the social icons in default color."
+#~ msgstr "Zeigt die Icons in ihrer eigenen Farbe an."
+
+#~ msgid "Do not display in default colors"
+#~ msgstr "Nicht in den Standardfarben anzeigen."
+
+#~ msgid "With mouseover the post image, the button appears."
+#~ msgstr "Wird beim Mouseover des Bildes angezeigt."
+
+#~ msgid ""
+#~ "Find all icons <a href=\"http://fontawesome.io/icons/\" target=\"_blank"
+#~ "\">here</a>. e.g. \"fa-facebook\""
+#~ msgstr ""
+#~ "Finde alle Icons <a href=\"http://fontawesome.io/icons/\" target=\"_blank"
+#~ "\">hier</a>. z.B. \"fa-facebook\""
+
+#~ msgid "Title of the category."
+#~ msgstr "Titel der Kategorie."
+
+#~ msgid "The category description."
+#~ msgstr "Die Beschreibung der Kategorie."
+
+#~ msgid "Count of post per catagory."
+#~ msgstr "Anzahl der Beiträge pro Kategorie."
+
+#~ msgid "Hide empty"
+#~ msgstr "Leere verstecken"
+
+#~ msgid "Hide empty categories without posts."
+#~ msgstr "Versteckt leere Kategorien ohne Beiträge."
+
+#~ msgid "Google Map"
+#~ msgstr "Google Map"
+
+#~ msgid "Show Google Maps"
+#~ msgstr "Zeige Google Maps"
+
+#~ msgid "Kind"
+#~ msgstr "Art"
+
+#~ msgid "Content Display"
+#~ msgstr "Inhaltsanzeige"
+
+#~ msgid "Do you want to show the content (title and text) of this page?"
+#~ msgstr "Willst Du den Inhalt (Titel und Text) dieser Seite anzeigen?"
+
+#~ msgid "Order of Content"
+#~ msgstr "Reihenfolge des Inhalts"
+
+#~ msgid "Show the content above or below the post listing."
+#~ msgstr "Zeige den Inhalt vor oder nach der Beitragsauflistung an."
+
+#~ msgid "In which layout you want to view the post listing?"
+#~ msgstr "In welchen Layout willst Du die Beitragsauflistung anzeigen?"
+
+#~ msgid "Only in use, if masonry grid is chosen!"
+#~ msgstr "Nur ausschlaggebend, wenn Masonry Grid ausgewählt ist!"
+
+#~ msgid "by global settings"
+#~ msgstr "Wie globale Einstellung"
+
+#~ msgid "Show posts filtered by selected only"
+#~ msgstr "Zeige Beiträge, gefiltert nach speziellen Beiträgen"
+
+#~ msgid "Select your specific posts."
+#~ msgstr "Wähle deine Beiträge aus."
+
+#~ msgid "Show posts filtered by categories only"
+#~ msgstr "Nach speziellen Kategorien filtern,"
+
+#~ msgid "Select your specific catagories."
+#~ msgstr "Wähle deine Kategorien aus."
+
+#~ msgid "Show posts filtered by tags only"
+#~ msgstr "Nach speziellen Schlagwörtern filtern."
+
+#~ msgid "Select your specific tags."
+#~ msgstr "Wähle deine Schlagwörter aus."
+
+#~ msgid ""
+#~ "Each content section have a own ID (Link to) + a consecutive number "
+#~ "(Number). With the ecxeption of \"header\" and \"contact\". The number is "
+#~ "derived from the arrangement of the content sections. You can see the "
+#~ "number in the source code. Now you must connect the menu item with the "
+#~ "right section ID and number. Then is scrolled when clicking there. For "
+#~ "more information, look at the documentation. The ID and number must be "
+#~ "unique per menu item."
+#~ msgstr ""
+#~ "Jeder Inhaltsbereich hat eine eigene ID (Verlinken zu) + eine "
+#~ "fortlaufende Nummer (Nummer). Mit Ausnahme von „Header“ und „Kontakt“ "
+#~ "Bereich. Die Nummer ist abhängig von der Reihenfolge der Inhaltsbereiche. "
+#~ "Du kannst sie im Quelltext der Seite einsehen. Jetzt musst Du jeden "
+#~ "Menüpunkt mit dem gewünschten Inhaltsbereich verknüpfen, damit bei Klick "
+#~ "dorthin gescrollt werden kann. Weitere Informationen findest Du in der "
+#~ "Dokumentation. Die ID und Nummer muss immer einzigartig sein."
+
+#~ msgid "Displayed title of the menu item."
+#~ msgstr "Der Titel des Menüpunkts."
+
+#~ msgid "The ID of the used content section."
+#~ msgstr "Die ID des genutzten Inhaltsbereiches."
+
+#~ msgid "The number of the used content section."
+#~ msgstr "Die Nummer des genutzten Inhaltsbereiches."
+
+#~ msgid "Show the sitemap top menu."
+#~ msgstr "Zeigt das Sitemap Menü über den Links an."
+
+#~ msgid "Show sitemap items with thumbnails."
+#~ msgstr "Zeigt die Links mit ihren Miniaturen an."
+
+#~ msgid "Show pages in the sitemap."
+#~ msgstr "Zeigt Seiten in der Sitemap."
+
+#~ msgid "Show posts in the sitemap."
+#~ msgstr "Zeigt Beiträge in der Sitemap."
+
+#~ msgid "Show tags in the sitemap."
+#~ msgstr "Zeigt Schlagwörter in der Sitemap."
+
+#~ msgid "Show archives in the sitemap."
+#~ msgstr "Zeigt Archive in der Sitemap."
+
+#~ msgid "Show authors in the sitemap."
+#~ msgstr "Zeigt Autoren in der Sitemap."
+
+#~ msgid "The tag title."
+#~ msgstr "Der Schlagwort Titel."
+
+#~ msgid "The tag description."
+#~ msgstr "Die Schlagwort Beschreibung."
+
+#~ msgid "Show the count of posts per tag."
+#~ msgstr "Zeigt den Anzahl der Beiträge pro Schlagwort."
+
+#~ msgid "Hide empty tags without posts."
+#~ msgstr "Verstecke leere Schlagwörter ohne Beiträge."
+
+#~ msgid "Show glossary items with thumbnails."
+#~ msgstr "Zeigt Glossary Beiträge mit Bild."
+
+#~ msgid "Show glossary items with the excerpt."
+#~ msgstr "Zeigt die Glossary Beiträge mit Textauszug an."
+
+#~ msgid "Show posts by selected only"
+#~ msgstr "Nach bestimmten Beiträgen filtern."
+
+#~ msgid "Show posts by selected categories only"
+#~ msgstr "Nach bestimmten Kategorien filtern"
+
+#~ msgid "Show posts by selected tags only"
+#~ msgstr "Nach bestimmten Schlagwörtern filtern"
+
+#~ msgid "Fill the fields with audio file from soundcloud."
+#~ msgstr "Fülle die Felder mit einer Audio-Datei von SoundCloud."
+
+#~ msgid "Select all images for gallery output."
+#~ msgstr "Wähle alle Bilder aus die in der Galerie angezeigt werden sollen."
+
+#~ msgid "Fill the fields with a youtube or vimeo video."
+#~ msgstr "Fülle die Felder mit YouTube oder Vimeo Videos aus."
+
+#~ msgid "Image or Video-Background"
+#~ msgstr "Bild- oder Videohintergrund"
+
+#~ msgid "The external link."
+#~ msgstr "Der externe Link."
+
+#~ msgid "Add your Pie Charts"
+#~ msgstr "Diagramm hinzufügen"
+
+#~ msgid "How full is the line of statistics? From 0 - 100 (e.g. 52.6)"
+#~ msgstr ""
+#~ "Mit welchem Wert soll die Statistik gefüllt sein? Von 0 - 100 (z.B. 52.6)"
+
+#~ msgid ""
+#~ "If you want to use a custom image, please select it. If not will used the "
+#~ "post/page thumbnail instead."
+#~ msgstr ""
+#~ "Wenn du ein benutzerdefiniertes Bild verwenden willst, kannst du es "
+#~ "auswählen. Ansonsten wird die Standard-Miniatur genutzt."
+
+#~ msgid "Background-Image or Video"
+#~ msgstr "Bildhintergrund oder Video"
+
+#~ msgid "The alternate video image, if the video file cannot load."
+#~ msgstr "Das alternative Bild, falls das Video nicht geladen wird."
+
+#~ msgid "Do you want to show the page header?"
+#~ msgstr "Willst Du den Seiten-Header anzeigen?"
+
+#~ msgid "Shows a header with background image or video."
+#~ msgstr "Zeigt einen Header mit Hintergrundbild oder -video."
+
+#~ msgid "Show a compact header version instead."
+#~ msgstr "Zeigt eine kompakte Variante des Headers."
+
+#~ msgid "Show a centered header version instead."
+#~ msgstr "Zeigt eine zentrierte Variante des Headers."
+
+#~ msgid "Image or Video Background"
+#~ msgstr "Hintergrundbild oder -video"
+
+#~ msgid "Show Sidebar"
+#~ msgstr "Sidebar anzeigen"
+
+#~ msgid "Hide or show sidebar on this post / page."
+#~ msgstr "Verstecke oder zeige die Sidebar für diese(n) Seite / Beitrag."
+
+#~ msgid "by global Settings"
+#~ msgstr "nach globaler Einstellung"
+
+#~ msgid "Categorie Page"
+#~ msgstr "Kategorie Seite"
+
+#~ msgid "Contact Page"
+#~ msgstr "Kontakt Seite"
+
+#~ msgid "Download Page"
+#~ msgstr "Download Seite"
+
+#~ msgid "Filter Page"
+#~ msgstr "Filter Seite"
+
+#~ msgid "Glossary Page"
+#~ msgstr "Glossary Seite"
+
+#~ msgid "Show Thumbnail"
+#~ msgstr "Thumbnail anzeigen"
+
+#~ msgid "Show Excerpt"
+#~ msgstr "Zeige den Textauszug."
+
+#~ msgid "Landingpage"
+#~ msgstr "Landingpage"
+
+#~ msgid "Seminar Page"
+#~ msgstr "Seminar Seite"
+
+#~ msgid "Settings - General"
+#~ msgstr "Einstellungen - Allgemein"
+
+#~ msgid "Search-Icon"
+#~ msgstr "Such-Icon"
+
+#~ msgid "Default Blog Listing Layout"
+#~ msgstr "Standard Blog-Listen Layout"
+
+#~ msgid "In which layout you want to view the default blog post listing page?"
+#~ msgstr "In welchem Layout willst du die Standard Blog-Listen anzeigen?"
+
+#~ msgid "Settings - PopUp Layer"
+#~ msgstr "Einstellungen - PopUp Layer"
+
+#~ msgid "Settings - Social"
+#~ msgstr "Einstellungen - Social"
+
+#~ msgid "Social Sharing Sidebar (colored version)"
+#~ msgstr "Social Sharing Seitenleisten (farbige Variante)"
+
+#~ msgid "Sitemap Page"
+#~ msgstr "Sitemap Seite"
+
+#~ msgid "Tags Page"
+#~ msgstr "Schlagwörter Seite"
+
+#~ msgid "Taxonomy Page"
+#~ msgstr "Taxonomy Seite"
+
+#~ msgid "Settings - Contact Section"
+#~ msgstr "Einstellungen - Kontakt Bereich"
+
+#~ msgid "Global: Page - All Content Sections"
+#~ msgstr "Global: Seiten - Alle Inhaltsbereiche"
+
+#~ msgid "Settings - Colors & Design"
+#~ msgstr "Einstellungen - Farben & Design"
+
+#~ msgid "Settings - Google Map Section"
+#~ msgstr "Einstellungen - Google Map Bereich"
+
+#~ msgid "Categories Page"
+#~ msgstr "Kategorie Seite"
+
+#~ msgid "Google Maps Link"
+#~ msgstr "Google Maps Link"
+
+#~ msgid "e.g. € oder $"
+#~ msgstr "z.B. € oder $"
+
+#~ msgctxt "taxonomy general name"
+#~ msgid "Landingpage IDs"
+#~ msgstr "Landingpage-IDs"
+
+#~ msgctxt "taxonomy singular name"
+#~ msgid "Landingpage ID"
+#~ msgstr "Landingpage-ID"
+
+#~ msgid "Landingpage IDs suchen"
+#~ msgstr "Landingpage-IDs suchen"
+
+#~ msgid "Beliebte Landingpage IDs"
+#~ msgstr "Beliebte Landingpage-IDs"
+
+#~ msgid "Landingpage ID bearbeiten"
+#~ msgstr "Landingpage-ID bearbeiten"
+
+#~ msgid "Landingpage ID aktualisieren"
+#~ msgstr "Landing ID aktualisieren"
+
+#~ msgid "Neue Landingpage ID"
+#~ msgstr "Neue Landing ID"
+
+#~ msgid "Neuer Landingpage ID Name"
+#~ msgstr "Neuer Landing ID Name"
+
+#~ msgid "Landingpage ID durch Komma trennen"
+#~ msgstr "Landing ID Durch Komma trennen"
+
+#~ msgid "Landingpage IDs hinzufügen oder entfernen"
+#~ msgstr "Landingpage-IDs hinzufügen oder entfernen"
+
+#~ msgid "Aus den beliebtesten Landingpage IDs wählen"
+#~ msgstr "Aus den beliebtesten Landingpage-IDs wählen"
+
+#~ msgid "Landingpage IDs"
+#~ msgstr "Landingpage-IDs"
+
+#~ msgid "Alle Landingpage IDs"
+#~ msgstr "Alle Landingpage-IDs"

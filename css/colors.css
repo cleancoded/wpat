@@ -1,0 +1,71 @@
+
+	/****************************************/
+	/* Remove the Spacing */
+	/****************************************/
+
+	body.wp-admin {
+		padding: 0px!important;
+	}
+
+
+	html.wp-toolbar {
+		padding-top: 50px
+	}
+
+    @media only screen and (max-width: 782px) {
+	
+		html.wp-toolbar {
+            padding-top: 46px
+        }
+	
+	}
+
+    @media only screen and (max-width: 600px) {
+	
+		html.wp-toolbar {
+            padding-top: 0px
+        }
+	
+	}
+
+
+	/****************************************/
+	/* Remove the Toolbar WP Icon */
+	/****************************************/
+
+	.body-spacer {
+		max-width: 1573px!important;
+	}
+
+
+	/****************************************/
+	/* Custom Left Menu Width */
+	/****************************************/
+
+	#adminmenuback, 
+	#adminmenuwrap {
+		width: 220px;
+	}
+
+	#adminmenu,
+	#adminmenu .wp-submenu {
+		width: 180px;
+	}
+
+	#adminmenu .wp-submenu {
+		left: 180px;
+	}
+
+	.block-editor .edit-post-header,
+	.auto-fold .components-notice-list {
+		left: 220px!important;
+	}
+
+	#wpcontent {
+		margin-left: 220px;
+	}
+
+	#wpfooter {
+		margin-left: 180px;
+	}
+

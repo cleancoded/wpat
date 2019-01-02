@@ -1,0 +1,126 @@
+@charset "UTF-8";
+
+.rtl #wpadminbar #wp-admin-bar-root-default {
+    float: none;
+}
+
+.rtl #wpadminbar #wp-admin-bar-my-account.with-avatar > .ab-empty-item img, 
+.rtl #wpadminbar #wp-admin-bar-my-account.with-avatar > a img {
+    margin: 0px 12px 0px 0px;
+}
+
+.rtl .wrap .wp-heading-inline + .page-title-action {
+    margin-right: 15px;
+    margin-left: 0px!important;
+}
+
+.rtl #wpcontent {
+	padding-left: 0px!important;
+	margin-left: 0px!important;
+    padding-right: 0px;
+    margin-right: 200px;
+}
+
+.folded.rtl #wpcontent {
+    margin-right: 36px!important;
+}
+
+.folded.rtl #wpfooter {
+    margin-right: 0px!important;
+}
+
+
+.rtl .adminmenu-container .adminmenu-user-name span {
+	display:run-in;
+	direction: rtl;
+	text-align: center
+}
+
+.rtl ul#adminmenu a.wp-has-current-submenu:after, 
+.rtl ul#adminmenu > li.current > a.current:after {
+	right: auto!important;
+    left: -20px;
+    border-right-color: transparent!important;
+    border-left-color: #e8ecf5!important;
+}
+
+.rtl #adminmenu .wp-has-submenu.opensub:after {
+    border-right-color: transparent!important;
+    border-left-color: #4777CD!important;
+}
+
+.rtl #adminmenu .wp-submenu, 
+.rtl .folded #adminmenu a.wp-has-current-submenu:focus + .wp-submenu, 
+.rtl .folded #adminmenu .wp-has-current-submenu .wp-submenu {
+    border-left: 0px!important;
+    border-right: 6px solid #4777CD;
+}
+
+.rtl #adminmenu .wp-has-current-submenu .wp-submenu {
+	border-right: 0px!important;
+}
+
+.rtl .wrap h1:after {
+  	left: auto!important;
+    right: 0px;
+}
+
+.rtl .wp-editor-tabs {
+    right: auto;
+    left: 0px;
+}
+
+.rtl .wp-media-buttons .button, 
+.rtl .wp-media-buttons button {
+    margin: 8px 0px 8px 8px!important;
+}
+
+.quicktags-toolbar input.ed_button.button.button-small {
+    border-right: 0px!important;
+    border-left: 1px solid #dde1ea!important;
+}
+
+.rtl #wpfooter {
+   	left: 0px!important;
+    right: 60px;
+}
+
+.rtl #footer-upgrade {
+    text-align: left!important;
+	direction: ltr;
+}
+
+.rtl #wpwrap:before {
+	right: auto;
+    left: -20px;
+}
+
+.rtl .button.restore {
+    right: auto;
+    left: 40px;
+}
+
+.rtl .field-status {
+    margin-left: 0px;
+    margin-right: 8px;
+}
+
+.rtl .wpat-info {
+    padding-left: 0px;
+    padding-right: 25px;
+}
+
+.rtl .wpat-info:before {
+    right: 0px;
+	left: auto
+}
+
+.rtl .button.uploader {
+    margin-left: 0px;
+    margin-right: 8px;
+}
+
+.rtl label.color-picker {
+    margin-right: 0px;
+    margin-left: 20px;
+}
